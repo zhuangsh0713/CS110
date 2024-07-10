@@ -1,0 +1,7504 @@
+mem read at 0
+write  103 to 0: MISS
+mem read at 1000
+write  198 to 1000: MISS
+write  105 to 1: HIT
+write  115 to 1001: HIT
+write   81 to 2: HIT
+write  255 to 1002: HIT
+write   74 to 3: HIT
+write  236 to 1003: HIT
+mem read at 4
+write   41 to 4: MISS
+mem read at 1004
+write  205 to 1004: MISS
+write  186 to 5: HIT
+write  171 to 1005: HIT
+write  242 to 6: HIT
+write  251 to 1006: HIT
+write  227 to 7: HIT
+write   70 to 1007: HIT
+mem read at 8
+write  124 to 8: MISS
+mem read at 1008
+write  194 to 1008: MISS
+write   84 to 9: HIT
+write  248 to 1009: HIT
+write   27 to 10: HIT
+write  232 to 1010: HIT
+write  231 to 11: HIT
+write  141 to 1011: HIT
+mem read at 12
+write  118 to 12: MISS
+mem read at 1012
+write   90 to 1012: MISS
+write   46 to 13: HIT
+write   99 to 1013: HIT
+write   51 to 14: HIT
+write  159 to 1014: HIT
+write  201 to 15: HIT
+write  154 to 1015: HIT
+mem read at 16
+write  102 to 16: MISS
+mem read at 1016
+write   50 to 1016: MISS
+write   13 to 17: HIT
+write  183 to 1017: HIT
+write   49 to 18: HIT
+write   88 to 1018: HIT
+write  163 to 19: HIT
+write   90 to 1019: HIT
+mem read at 20
+write   37 to 20: MISS
+mem read at 1020
+write   93 to 1020: MISS
+write    5 to 21: HIT
+write   23 to 1021: HIT
+write   88 to 22: HIT
+write  233 to 1022: HIT
+write   94 to 23: HIT
+write  212 to 1023: HIT
+mem read at 24
+write  171 to 24: MISS
+mem read at 1024
+write  178 to 1024: MISS
+write  205 to 25: HIT
+write  198 to 1025: HIT
+write  155 to 26: HIT
+write  180 to 1026: HIT
+write   84 to 27: HIT
+write   17 to 1027: HIT
+mem read at 28
+write   14 to 28: MISS
+mem read at 1028
+write  130 to 1028: MISS
+write  116 to 29: HIT
+write   65 to 1029: HIT
+write   33 to 30: HIT
+write   61 to 1030: HIT
+write  220 to 31: HIT
+write  135 to 1031: HIT
+mem read at 32
+write  112 to 32: MISS
+mem read at 1032
+write  233 to 1032: MISS
+write   62 to 33: HIT
+write  161 to 1033: HIT
+write   65 to 34: HIT
+write  225 to 1034: HIT
+write  252 to 35: HIT
+write  103 to 1035: HIT
+mem read at 36
+write   62 to 36: MISS
+mem read at 1036
+write    1 to 1036: MISS
+write  126 to 37: HIT
+write  151 to 1037: HIT
+write  234 to 38: HIT
+write  220 to 1038: HIT
+write  107 to 39: HIT
+write  150 to 1039: HIT
+mem read at 40
+write  143 to 40: MISS
+mem read at 1040
+write   56 to 1040: MISS
+write   92 to 41: HIT
+write   42 to 1041: HIT
+write  236 to 42: HIT
+write  176 to 1042: HIT
+write   59 to 43: HIT
+write  251 to 1043: HIT
+mem read at 44
+write   50 to 44: MISS
+mem read at 1044
+write  175 to 1044: MISS
+write   60 to 45: HIT
+write   84 to 1045: HIT
+write  236 to 46: HIT
+write   24 to 1046: HIT
+write  219 to 47: HIT
+write   92 to 1047: HIT
+mem read at 48
+write    2 to 48: MISS
+mem read at 1048
+write   26 to 1048: MISS
+write  254 to 49: HIT
+write   67 to 1049: HIT
+write  251 to 50: HIT
+write  250 to 1050: HIT
+write  170 to 51: HIT
+write   58 to 1051: HIT
+mem read at 52
+write  251 to 52: MISS
+mem read at 1052
+write   41 to 1052: MISS
+write  209 to 53: HIT
+write  230 to 1053: HIT
+write    5 to 54: HIT
+write   60 to 1054: HIT
+write  124 to 55: HIT
+write  148 to 1055: HIT
+mem read at 56
+write  117 to 56: MISS
+mem read at 1056
+write  216 to 1056: MISS
+write  190 to 57: HIT
+write   97 to 1057: HIT
+write  137 to 58: HIT
+write  249 to 1058: HIT
+write   92 to 59: HIT
+write  187 to 1059: HIT
+mem read at 60
+write  168 to 60: MISS
+mem read at 1060
+write  153 to 1060: MISS
+write   15 to 61: HIT
+write  149 to 1061: HIT
+write  177 to 62: HIT
+write  235 to 1062: HIT
+write  241 to 63: HIT
+write  179 to 1063: HIT
+mem write at 0
+mem read at 64
+write    5 to 64: MISS
+mem write at 1000
+mem read at 1064
+write  239 to 1064: MISS
+write  247 to 65: HIT
+write    0 to 1065: HIT
+write  233 to 66: HIT
+write  161 to 1066: HIT
+write   58 to 67: HIT
+write  229 to 1067: HIT
+mem write at 4
+mem read at 68
+write  202 to 68: MISS
+mem write at 1004
+mem read at 1068
+write   11 to 1068: MISS
+write  203 to 69: HIT
+write  208 to 1069: HIT
+write   72 to 70: HIT
+write   71 to 1070: HIT
+write  100 to 71: HIT
+write  189 to 1071: HIT
+mem write at 8
+mem read at 72
+write   31 to 72: MISS
+mem write at 1008
+mem read at 1072
+write   35 to 1072: MISS
+write   30 to 73: HIT
+write  168 to 1073: HIT
+write   28 to 74: HIT
+write  123 to 1074: HIT
+write  100 to 75: HIT
+write  197 to 1075: HIT
+mem write at 12
+mem read at 76
+write   20 to 76: MISS
+mem write at 1012
+mem read at 1076
+write  115 to 1076: MISS
+write   90 to 77: HIT
+write  197 to 1077: HIT
+write   94 to 78: HIT
+write   75 to 1078: HIT
+write  121 to 79: HIT
+write   99 to 1079: HIT
+mem write at 16
+mem read at 80
+write   59 to 80: MISS
+mem write at 1016
+mem read at 1080
+write  112 to 1080: MISS
+write  100 to 81: HIT
+write   36 to 1081: HIT
+write   17 to 82: HIT
+write  158 to 1082: HIT
+write    9 to 83: HIT
+write  220 to 1083: HIT
+mem write at 20
+mem read at 84
+write  170 to 84: MISS
+mem write at 1020
+mem read at 1084
+write  212 to 1084: MISS
+write  172 to 85: HIT
+write  242 to 1085: HIT
+write   27 to 86: HIT
+write   16 to 1086: HIT
+write  175 to 87: HIT
+write   59 to 1087: HIT
+mem write at 24
+mem read at 88
+write   51 to 88: MISS
+mem write at 1024
+mem read at 1088
+write  205 to 1088: MISS
+write  227 to 89: HIT
+write   80 to 1089: HIT
+write   72 to 90: HIT
+write   71 to 1090: HIT
+write   21 to 91: HIT
+write   92 to 1091: HIT
+mem write at 28
+mem read at 92
+write  187 to 92: MISS
+mem write at 1028
+mem read at 1092
+write  111 to 1092: MISS
+write   34 to 93: HIT
+write   25 to 1093: HIT
+write  186 to 94: HIT
+write  155 to 1094: HIT
+write  125 to 95: HIT
+write  245 to 1095: HIT
+mem write at 32
+mem read at 96
+write   11 to 96: MISS
+mem write at 1032
+mem read at 1096
+write  225 to 1096: MISS
+write   26 to 97: HIT
+write   28 to 1097: HIT
+write  127 to 98: HIT
+write   35 to 1098: HIT
+write  248 to 99: HIT
+write   41 to 1099: HIT
+mem write at 36
+mem read at 100
+write  248 to 100: MISS
+mem write at 1036
+mem read at 1100
+write  164 to 1100: MISS
+write   27 to 101: HIT
+write   19 to 1101: HIT
+write  181 to 102: HIT
+write  202 to 1102: HIT
+write   78 to 103: HIT
+write  232 to 1103: HIT
+mem write at 40
+mem read at 104
+write  152 to 104: MISS
+mem write at 1040
+mem read at 1104
+write   50 to 1104: MISS
+write   56 to 105: HIT
+write  224 to 1105: HIT
+write  121 to 106: HIT
+write   77 to 1106: HIT
+write   61 to 107: HIT
+write   52 to 1107: HIT
+mem write at 44
+mem read at 108
+write  188 to 108: MISS
+mem write at 1044
+mem read at 1108
+write   95 to 1108: MISS
+write   78 to 109: HIT
+write  119 to 1109: HIT
+write  250 to 110: HIT
+write  203 to 1110: HIT
+write  108 to 111: HIT
+write    5 to 1111: HIT
+mem write at 48
+mem read at 112
+write  172 to 112: MISS
+mem write at 1048
+mem read at 1112
+write  134 to 1112: MISS
+write   33 to 113: HIT
+write   43 to 1113: HIT
+write  170 to 114: HIT
+write   26 to 1114: HIT
+write   85 to 115: HIT
+write  162 to 1115: HIT
+mem write at 52
+mem read at 116
+write  190 to 116: MISS
+mem write at 1052
+mem read at 1116
+write  112 to 1116: MISS
+write  181 to 117: HIT
+write  115 to 1117: HIT
+write   59 to 118: HIT
+write    4 to 1118: HIT
+write   92 to 119: HIT
+write  211 to 1119: HIT
+mem write at 56
+mem read at 120
+write   54 to 120: MISS
+mem write at 1056
+mem read at 1120
+write  148 to 1120: MISS
+write  179 to 121: HIT
+write  175 to 1121: HIT
+write  226 to 122: HIT
+write  240 to 1122: HIT
+write  228 to 123: HIT
+write  158 to 1123: HIT
+mem write at 60
+mem read at 124
+write   79 to 124: MISS
+mem write at 1060
+mem read at 1124
+write   50 to 1124: MISS
+write   21 to 125: HIT
+write   73 to 1125: HIT
+write  253 to 126: HIT
+write  130 to 1126: HIT
+write   78 to 127: HIT
+write  169 to 1127: HIT
+mem write at 64
+mem read at 128
+write    8 to 128: MISS
+mem write at 1064
+mem read at 1128
+write  112 to 1128: MISS
+write  212 to 129: HIT
+write  178 to 1129: HIT
+write  138 to 130: HIT
+write   41 to 1130: HIT
+write   84 to 131: HIT
+write   72 to 1131: HIT
+mem write at 68
+mem read at 132
+write  154 to 132: MISS
+mem write at 1068
+mem read at 1132
+write   10 to 1132: MISS
+write  188 to 133: HIT
+write  213 to 1133: HIT
+write   14 to 134: HIT
+write   24 to 1134: HIT
+write  168 to 135: HIT
+write   68 to 1135: HIT
+mem write at 72
+mem read at 136
+write  172 to 136: MISS
+mem write at 1072
+mem read at 1136
+write   91 to 1136: MISS
+write  243 to 137: HIT
+write  142 to 1137: HIT
+write   76 to 138: HIT
+write  215 to 1138: HIT
+write   45 to 139: HIT
+write  155 to 1139: HIT
+mem write at 76
+mem read at 140
+write    9 to 140: MISS
+mem write at 1076
+mem read at 1140
+write   66 to 1140: MISS
+write  229 to 141: HIT
+write    6 to 1141: HIT
+write  196 to 142: HIT
+write   51 to 1142: HIT
+write  175 to 143: HIT
+write  205 to 1143: HIT
+mem write at 80
+mem read at 144
+write  163 to 144: MISS
+mem write at 1080
+mem read at 1144
+write  132 to 1144: MISS
+write  127 to 145: HIT
+write   45 to 1145: HIT
+write  173 to 146: HIT
+write  212 to 1146: HIT
+write  118 to 147: HIT
+write   71 to 1147: HIT
+mem write at 84
+mem read at 148
+write  222 to 148: MISS
+mem write at 1084
+mem read at 1148
+write   50 to 1148: MISS
+write   28 to 149: HIT
+write  236 to 1149: HIT
+write   74 to 150: HIT
+write  196 to 1150: HIT
+write   48 to 151: HIT
+write  246 to 1151: HIT
+mem write at 88
+mem read at 152
+write   32 to 152: MISS
+mem write at 1088
+mem read at 1152
+write   35 to 1152: MISS
+write  133 to 153: HIT
+write  108 to 1153: HIT
+write  251 to 154: HIT
+write  178 to 1154: HIT
+write    7 to 155: HIT
+write    4 to 1155: HIT
+mem write at 92
+mem read at 156
+write  244 to 156: MISS
+mem write at 1092
+mem read at 1156
+write  236 to 1156: MISS
+write   11 to 157: HIT
+write  185 to 1157: HIT
+write   32 to 158: HIT
+write  186 to 1158: HIT
+write  134 to 159: HIT
+write  195 to 1159: HIT
+mem write at 96
+mem read at 160
+write   62 to 160: MISS
+mem write at 1096
+mem read at 1160
+write    5 to 1160: MISS
+write  241 to 161: HIT
+write  236 to 1161: HIT
+write  217 to 162: HIT
+write  103 to 1162: HIT
+write   51 to 163: HIT
+write  183 to 1163: HIT
+mem write at 100
+mem read at 164
+write  153 to 164: MISS
+mem write at 1100
+mem read at 1164
+write   80 to 1164: MISS
+write  163 to 165: HIT
+write  227 to 1165: HIT
+write   20 to 166: HIT
+write  211 to 1166: HIT
+write  217 to 167: HIT
+write   52 to 1167: HIT
+mem write at 104
+mem read at 168
+write  247 to 168: MISS
+mem write at 1104
+mem read at 1168
+write   94 to 1168: MISS
+write  160 to 169: HIT
+write  242 to 1169: HIT
+write   16 to 170: HIT
+write  168 to 1170: HIT
+write  246 to 171: HIT
+write    5 to 1171: HIT
+mem write at 108
+mem read at 172
+write  148 to 172: MISS
+mem write at 1108
+mem read at 1172
+write    1 to 1172: MISS
+write  190 to 173: HIT
+write  180 to 1173: HIT
+write  188 to 174: HIT
+write   68 to 1174: HIT
+write  120 to 175: HIT
+write  250 to 1175: HIT
+mem write at 112
+mem read at 176
+write   73 to 176: MISS
+mem write at 1112
+mem read at 1176
+write  105 to 1176: MISS
+write  230 to 177: HIT
+write   35 to 1177: HIT
+write  208 to 178: HIT
+write   26 to 1178: HIT
+write  218 to 179: HIT
+write  105 to 1179: HIT
+mem write at 116
+mem read at 180
+write  106 to 180: MISS
+mem write at 1116
+mem read at 1180
+write  126 to 1180: MISS
+write   76 to 181: HIT
+write  126 to 1181: HIT
+write   81 to 182: HIT
+write   37 to 1182: HIT
+write  179 to 183: HIT
+write   72 to 1183: HIT
+mem write at 120
+mem read at 184
+write  132 to 184: MISS
+mem write at 1120
+mem read at 1184
+write   83 to 1184: MISS
+write   58 to 185: HIT
+write  148 to 1185: HIT
+write  251 to 186: HIT
+write   49 to 1186: HIT
+write  153 to 187: HIT
+write  144 to 1187: HIT
+mem write at 124
+mem read at 188
+write   50 to 188: MISS
+mem write at 1124
+mem read at 1188
+write   87 to 1188: MISS
+write   68 to 189: HIT
+write  238 to 1189: HIT
+write  155 to 190: HIT
+write  188 to 1190: HIT
+write  233 to 191: HIT
+write  229 to 1191: HIT
+mem write at 128
+mem read at 192
+write   37 to 192: MISS
+mem write at 1128
+mem read at 1192
+write  207 to 1192: MISS
+write    8 to 193: HIT
+write  245 to 1193: HIT
+write  233 to 194: HIT
+write  226 to 1194: HIT
+write   94 to 195: HIT
+write   83 to 1195: HIT
+mem write at 132
+mem read at 196
+write   96 to 196: MISS
+mem write at 1132
+mem read at 1196
+write  170 to 1196: MISS
+write  210 to 197: HIT
+write  178 to 1197: HIT
+write  208 to 198: HIT
+write  133 to 1198: HIT
+write  250 to 199: HIT
+write   84 to 1199: HIT
+mem write at 136
+mem read at 200
+write  216 to 200: MISS
+mem write at 1136
+mem read at 1200
+write   53 to 1200: MISS
+write  232 to 201: HIT
+write  212 to 1201: HIT
+write  102 to 202: HIT
+write  130 to 1202: HIT
+write  100 to 203: HIT
+write  152 to 1203: HIT
+mem write at 140
+mem read at 204
+write  217 to 204: MISS
+mem write at 1140
+mem read at 1204
+write  168 to 1204: MISS
+write  135 to 205: HIT
+write  117 to 1205: HIT
+write  101 to 206: HIT
+write  112 to 1206: HIT
+write   90 to 207: HIT
+write  138 to 1207: HIT
+mem write at 144
+mem read at 208
+write   63 to 208: MISS
+mem write at 1144
+mem read at 1208
+write   98 to 1208: MISS
+write  128 to 209: HIT
+write   41 to 1209: HIT
+write   68 to 210: HIT
+write  222 to 1210: HIT
+write  124 to 211: HIT
+write  165 to 1211: HIT
+mem write at 148
+mem read at 212
+write  137 to 212: MISS
+mem write at 1148
+mem read at 1212
+write   78 to 1212: MISS
+write   87 to 213: HIT
+write   89 to 1213: HIT
+write  211 to 214: HIT
+write   81 to 1214: HIT
+write  173 to 215: HIT
+write  172 to 1215: HIT
+mem write at 152
+mem read at 216
+write  134 to 216: MISS
+mem write at 1152
+mem read at 1216
+write  149 to 1216: MISS
+write  128 to 217: HIT
+write  236 to 1217: HIT
+write   23 to 218: HIT
+write  228 to 1218: HIT
+write  133 to 219: HIT
+write  241 to 1219: HIT
+mem write at 156
+mem read at 220
+write  140 to 220: MISS
+mem write at 1156
+mem read at 1220
+write   12 to 1220: MISS
+write  102 to 221: HIT
+write  241 to 1221: HIT
+write  124 to 222: HIT
+write  192 to 1222: HIT
+write  124 to 223: HIT
+write  187 to 1223: HIT
+mem write at 160
+mem read at 224
+write   34 to 224: MISS
+mem write at 1160
+mem read at 1224
+write  252 to 1224: MISS
+write  228 to 225: HIT
+write  102 to 1225: HIT
+write  218 to 226: HIT
+write   97 to 1226: HIT
+write   11 to 227: HIT
+write   99 to 1227: HIT
+mem write at 164
+mem read at 228
+write  175 to 228: MISS
+mem write at 1164
+mem read at 1228
+write   98 to 1228: MISS
+write  188 to 229: HIT
+write  131 to 1229: HIT
+write  180 to 230: HIT
+write  105 to 1230: HIT
+write   47 to 231: HIT
+write   58 to 1231: HIT
+mem write at 168
+mem read at 232
+write  255 to 232: MISS
+mem write at 1168
+mem read at 1232
+write  175 to 1232: MISS
+write   39 to 233: HIT
+write   22 to 1233: HIT
+write  147 to 234: HIT
+write  172 to 1234: HIT
+write    7 to 235: HIT
+write   31 to 1235: HIT
+mem write at 172
+mem read at 236
+write  184 to 236: MISS
+mem write at 1172
+mem read at 1236
+write  109 to 1236: MISS
+write   17 to 237: HIT
+write   52 to 1237: HIT
+write   45 to 238: HIT
+write  141 to 1238: HIT
+write  239 to 239: HIT
+write   79 to 1239: HIT
+mem write at 176
+mem read at 240
+write  137 to 240: MISS
+mem write at 1176
+mem read at 1240
+write  212 to 1240: MISS
+write  182 to 241: HIT
+write   99 to 1241: HIT
+write   53 to 242: HIT
+write  193 to 1242: HIT
+write  199 to 243: HIT
+write  228 to 1243: HIT
+mem write at 180
+mem read at 244
+write   36 to 244: MISS
+mem write at 1180
+mem read at 1244
+write  131 to 1244: MISS
+write  103 to 245: HIT
+write  216 to 1245: HIT
+write  237 to 246: HIT
+write  150 to 1246: HIT
+write   18 to 247: HIT
+write  236 to 1247: HIT
+mem write at 184
+mem read at 248
+write   69 to 248: MISS
+mem write at 1184
+mem read at 1248
+write   57 to 1248: MISS
+write    2 to 249: HIT
+write  216 to 1249: HIT
+write  229 to 250: HIT
+write   10 to 1250: HIT
+write  248 to 251: HIT
+write  157 to 1251: HIT
+mem write at 188
+mem read at 252
+write  119 to 252: MISS
+mem write at 1188
+mem read at 1252
+write    9 to 1252: MISS
+write  209 to 253: HIT
+write  165 to 1253: HIT
+write  150 to 254: HIT
+write  193 to 1254: HIT
+write  244 to 255: HIT
+write   31 to 1255: HIT
+mem write at 192
+mem read at 256
+write  149 to 256: MISS
+mem write at 1192
+mem read at 1256
+write  170 to 1256: MISS
+write  130 to 257: HIT
+write  202 to 1257: HIT
+write  108 to 258: HIT
+write   73 to 1258: HIT
+write  174 to 259: HIT
+write  144 to 1259: HIT
+mem write at 196
+mem read at 260
+write  205 to 260: MISS
+mem write at 1196
+mem read at 1260
+write   22 to 1260: MISS
+write  104 to 261: HIT
+write  186 to 1261: HIT
+write  172 to 262: HIT
+write  122 to 1262: HIT
+write  166 to 263: HIT
+write  242 to 1263: HIT
+mem write at 200
+mem read at 264
+write  180 to 264: MISS
+mem write at 1200
+mem read at 1264
+write  168 to 1264: MISS
+write  202 to 265: HIT
+write  153 to 1265: HIT
+write  178 to 266: HIT
+write  194 to 1266: HIT
+write   55 to 267: HIT
+write   42 to 1267: HIT
+mem write at 204
+mem read at 268
+write  203 to 268: MISS
+mem write at 1204
+mem read at 1268
+write    8 to 1268: MISS
+write  207 to 269: HIT
+write   97 to 1269: HIT
+write  201 to 270: HIT
+write  195 to 1270: HIT
+write  128 to 271: HIT
+write   94 to 1271: HIT
+mem write at 208
+mem read at 272
+write  110 to 272: MISS
+mem write at 1208
+mem read at 1272
+write    3 to 1272: MISS
+write   40 to 273: HIT
+write  218 to 1273: HIT
+write   76 to 274: HIT
+write  215 to 1274: HIT
+write  106 to 275: HIT
+write   25 to 1275: HIT
+mem write at 212
+mem read at 276
+write  237 to 276: MISS
+mem write at 1212
+mem read at 1276
+write  210 to 1276: MISS
+write  211 to 277: HIT
+write  153 to 1277: HIT
+write   76 to 278: HIT
+write  121 to 1278: HIT
+write  139 to 279: HIT
+write    0 to 1279: HIT
+mem write at 216
+mem read at 280
+write   34 to 280: MISS
+mem write at 1216
+mem read at 1280
+write   86 to 1280: MISS
+write  154 to 281: HIT
+write  212 to 1281: HIT
+write   24 to 282: HIT
+write  209 to 1282: HIT
+write  254 to 283: HIT
+write  228 to 1283: HIT
+mem write at 220
+mem read at 284
+write  217 to 284: MISS
+mem write at 1220
+mem read at 1284
+write  205 to 1284: MISS
+write   69 to 285: HIT
+write  163 to 1285: HIT
+write  145 to 286: HIT
+write  198 to 1286: HIT
+write    1 to 287: HIT
+write  255 to 1287: HIT
+mem write at 224
+mem read at 288
+write  201 to 288: MISS
+mem write at 1224
+mem read at 1288
+write   42 to 1288: MISS
+write  217 to 289: HIT
+write   21 to 1289: HIT
+write    1 to 290: HIT
+write   67 to 1290: HIT
+write   47 to 291: HIT
+write  238 to 1291: HIT
+mem write at 228
+mem read at 292
+write   21 to 292: MISS
+mem write at 1228
+mem read at 1292
+write    2 to 1292: MISS
+write  135 to 293: HIT
+write   97 to 1293: HIT
+write  124 to 294: HIT
+write   19 to 1294: HIT
+write   98 to 295: HIT
+write  158 to 1295: HIT
+mem write at 232
+mem read at 296
+write  105 to 296: MISS
+mem write at 1232
+mem read at 1296
+write  252 to 1296: MISS
+write  114 to 297: HIT
+write  129 to 1297: HIT
+write  205 to 298: HIT
+write  113 to 1298: HIT
+write  101 to 299: HIT
+write  166 to 1299: HIT
+mem write at 236
+mem read at 300
+write   62 to 300: MISS
+mem write at 1236
+mem read at 1300
+write  171 to 1300: MISS
+write   73 to 301: HIT
+write  207 to 1301: HIT
+write  113 to 302: HIT
+write   75 to 1302: HIT
+write  206 to 303: HIT
+write   58 to 1303: HIT
+mem write at 240
+mem read at 304
+write  117 to 304: MISS
+mem write at 1240
+mem read at 1304
+write  167 to 1304: MISS
+write   79 to 305: HIT
+write  118 to 1305: HIT
+write  234 to 306: HIT
+write  126 to 1306: HIT
+write  100 to 307: HIT
+write  255 to 1307: HIT
+mem write at 244
+mem read at 308
+write  129 to 308: MISS
+mem write at 1244
+mem read at 1308
+write  235 to 1308: MISS
+write   97 to 309: HIT
+write  253 to 1309: HIT
+write  254 to 310: HIT
+write  195 to 1310: HIT
+write  155 to 311: HIT
+write  103 to 1311: HIT
+mem write at 248
+mem read at 312
+write  191 to 312: MISS
+mem write at 1248
+mem read at 1312
+write   13 to 1312: MISS
+write  233 to 313: HIT
+write  140 to 1313: HIT
+write  126 to 314: HIT
+write   78 to 1314: HIT
+write   50 to 315: HIT
+write  189 to 1315: HIT
+mem write at 252
+mem read at 316
+write  249 to 316: MISS
+mem write at 1252
+mem read at 1316
+write  124 to 1316: MISS
+write  140 to 317: HIT
+write  106 to 1317: HIT
+write  199 to 318: HIT
+write   91 to 1318: HIT
+write  164 to 319: HIT
+write   60 to 1319: HIT
+mem write at 256
+mem read at 320
+write    2 to 320: MISS
+mem write at 1256
+mem read at 1320
+write  244 to 1320: MISS
+write  178 to 321: HIT
+write  237 to 1321: HIT
+write  114 to 322: HIT
+write   22 to 1322: HIT
+write  236 to 323: HIT
+write  243 to 1323: HIT
+mem write at 260
+mem read at 324
+write    1 to 324: MISS
+mem write at 1260
+mem read at 1324
+write   77 to 1324: MISS
+write  240 to 325: HIT
+write    0 to 1325: HIT
+write   16 to 326: HIT
+write  139 to 1326: HIT
+write  103 to 327: HIT
+write  207 to 1327: HIT
+mem write at 264
+mem read at 328
+write  153 to 328: MISS
+mem write at 1264
+mem read at 1328
+write   80 to 1328: MISS
+write   91 to 329: HIT
+write   23 to 1329: HIT
+write  159 to 330: HIT
+write  142 to 1330: HIT
+write  212 to 331: HIT
+write  152 to 1331: HIT
+mem write at 268
+mem read at 332
+write   10 to 332: MISS
+mem write at 1268
+mem read at 1332
+write   97 to 1332: MISS
+write    3 to 333: HIT
+write  209 to 1333: HIT
+write  188 to 334: HIT
+write  167 to 1334: HIT
+write   13 to 335: HIT
+write  190 to 1335: HIT
+mem write at 272
+mem read at 336
+write  155 to 336: MISS
+mem write at 1272
+mem read at 1336
+write  191 to 1336: MISS
+write  171 to 337: HIT
+write   14 to 1337: HIT
+write  213 to 338: HIT
+write  152 to 1338: HIT
+write    1 to 339: HIT
+write  214 to 1339: HIT
+mem write at 276
+mem read at 340
+write  229 to 340: MISS
+mem write at 1276
+mem read at 1340
+write  242 to 1340: MISS
+write  214 to 341: HIT
+write  246 to 1341: HIT
+write  125 to 342: HIT
+write   62 to 1342: HIT
+write  197 to 343: HIT
+write   22 to 1343: HIT
+mem write at 280
+mem read at 344
+write  142 to 344: MISS
+mem write at 1280
+mem read at 1344
+write   33 to 1344: MISS
+write   46 to 345: HIT
+write   45 to 1345: HIT
+write  175 to 346: HIT
+write    2 to 1346: HIT
+write  198 to 347: HIT
+write  185 to 1347: HIT
+mem write at 284
+mem read at 348
+write   99 to 348: MISS
+mem write at 1284
+mem read at 1348
+write  201 to 1348: MISS
+write  138 to 349: HIT
+write   31 to 1349: HIT
+write  112 to 350: HIT
+write  151 to 1350: HIT
+write  222 to 351: HIT
+write   12 to 1351: HIT
+mem write at 288
+mem read at 352
+write   86 to 352: MISS
+mem write at 1288
+mem read at 1352
+write  137 to 1352: MISS
+write   26 to 353: HIT
+write   43 to 1353: HIT
+write   33 to 354: HIT
+write   27 to 1354: HIT
+write    1 to 355: HIT
+write    7 to 1355: HIT
+mem write at 292
+mem read at 356
+write   13 to 356: MISS
+mem write at 1292
+mem read at 1356
+write  216 to 1356: MISS
+write  253 to 357: HIT
+write  139 to 1357: HIT
+write   22 to 358: HIT
+write  194 to 1358: HIT
+write  161 to 359: HIT
+write  164 to 1359: HIT
+mem write at 296
+mem read at 360
+write  227 to 360: MISS
+mem write at 1296
+mem read at 1360
+write  207 to 1360: MISS
+write  210 to 361: HIT
+write  146 to 1361: HIT
+write  210 to 362: HIT
+write  152 to 1362: HIT
+write   75 to 363: HIT
+write   53 to 1363: HIT
+mem write at 300
+mem read at 364
+write   97 to 364: MISS
+mem write at 1300
+mem read at 1364
+write  213 to 1364: MISS
+write   85 to 365: HIT
+write  209 to 1365: HIT
+write  108 to 366: HIT
+write   51 to 1366: HIT
+write  221 to 367: HIT
+write  194 to 1367: HIT
+mem write at 304
+mem read at 368
+write  188 to 368: MISS
+mem write at 1304
+mem read at 1368
+write  247 to 1368: MISS
+write  237 to 369: HIT
+write  222 to 1369: HIT
+write   19 to 370: HIT
+write  239 to 1370: HIT
+write  229 to 371: HIT
+write   32 to 1371: HIT
+mem write at 308
+mem read at 372
+write  199 to 372: MISS
+mem write at 1308
+mem read at 1372
+write  226 to 1372: MISS
+write  171 to 373: HIT
+write  221 to 1373: HIT
+write  164 to 374: HIT
+write   77 to 1374: HIT
+write  129 to 375: HIT
+write  136 to 1375: HIT
+mem write at 312
+mem read at 376
+write   28 to 376: MISS
+mem write at 1312
+mem read at 1376
+write   83 to 1376: MISS
+write   26 to 377: HIT
+write  238 to 1377: HIT
+write  235 to 378: HIT
+write  102 to 1378: HIT
+write   36 to 379: HIT
+write   76 to 1379: HIT
+mem write at 316
+mem read at 380
+write   59 to 380: MISS
+mem write at 1316
+mem read at 1380
+write  121 to 1380: MISS
+write   30 to 381: HIT
+write  168 to 1381: HIT
+write  172 to 382: HIT
+write  251 to 1382: HIT
+write  106 to 383: HIT
+write  104 to 1383: HIT
+mem write at 320
+mem read at 384
+write  243 to 384: MISS
+mem write at 1320
+mem read at 1384
+write   88 to 1384: MISS
+write   70 to 385: HIT
+write    6 to 1385: HIT
+write   71 to 386: HIT
+write   43 to 1386: HIT
+write   38 to 387: HIT
+write   14 to 1387: HIT
+mem write at 324
+mem read at 388
+write   13 to 388: MISS
+mem write at 1324
+mem read at 1388
+write  210 to 1388: MISS
+write  235 to 389: HIT
+write  178 to 1389: HIT
+write   31 to 390: HIT
+write  108 to 1390: HIT
+write   58 to 391: HIT
+write   59 to 1391: HIT
+mem write at 328
+mem read at 392
+write  192 to 392: MISS
+mem write at 1328
+mem read at 1392
+write   84 to 1392: MISS
+write   42 to 393: HIT
+write  171 to 1393: HIT
+write  186 to 394: HIT
+write   78 to 1394: HIT
+write  248 to 395: HIT
+write  246 to 1395: HIT
+mem write at 332
+mem read at 396
+write  199 to 396: MISS
+mem write at 1332
+mem read at 1396
+write   22 to 1396: MISS
+write  158 to 397: HIT
+write  115 to 1397: HIT
+write   17 to 398: HIT
+write    8 to 1398: HIT
+write  219 to 399: HIT
+write    4 to 1399: HIT
+mem write at 336
+mem read at 400
+write   96 to 400: MISS
+mem write at 1336
+mem read at 1400
+write   34 to 1400: MISS
+write   10 to 401: HIT
+write  167 to 1401: HIT
+write   77 to 402: HIT
+write   49 to 1402: HIT
+write  181 to 403: HIT
+write   91 to 1403: HIT
+mem write at 340
+mem read at 404
+write    3 to 404: MISS
+mem write at 1340
+mem read at 1404
+write  160 to 1404: MISS
+write   13 to 405: HIT
+write   34 to 1405: HIT
+write   13 to 406: HIT
+write   71 to 1406: HIT
+write   93 to 407: HIT
+write  205 to 1407: HIT
+mem write at 344
+mem read at 408
+write  155 to 408: MISS
+mem write at 1344
+mem read at 1408
+write  135 to 1408: MISS
+write  120 to 409: HIT
+write   86 to 1409: HIT
+write  213 to 410: HIT
+write  112 to 1410: HIT
+write   76 to 411: HIT
+write  156 to 1411: HIT
+mem write at 348
+mem read at 412
+write  134 to 412: MISS
+mem write at 1348
+mem read at 1412
+write  234 to 1412: MISS
+write   15 to 413: HIT
+write  152 to 1413: HIT
+write  242 to 414: HIT
+write  235 to 1414: HIT
+write  156 to 415: HIT
+write   83 to 1415: HIT
+mem write at 352
+mem read at 416
+write   13 to 416: MISS
+mem write at 1352
+mem read at 1416
+write  167 to 1416: MISS
+write  250 to 417: HIT
+write   90 to 1417: HIT
+write  216 to 418: HIT
+write  176 to 1418: HIT
+write  181 to 419: HIT
+write  219 to 1419: HIT
+mem write at 356
+mem read at 420
+write   80 to 420: MISS
+mem write at 1356
+mem read at 1420
+write  194 to 1420: MISS
+write  253 to 421: HIT
+write   93 to 1421: HIT
+write    9 to 422: HIT
+write   90 to 1422: HIT
+write   42 to 423: HIT
+write  165 to 1423: HIT
+mem write at 360
+mem read at 424
+write  226 to 424: MISS
+mem write at 1360
+mem read at 1424
+write  163 to 1424: MISS
+write  251 to 425: HIT
+write  183 to 1425: HIT
+write   19 to 426: HIT
+write   71 to 1426: HIT
+write   84 to 427: HIT
+write  154 to 1427: HIT
+mem write at 364
+mem read at 428
+write   49 to 428: MISS
+mem write at 1364
+mem read at 1428
+write   99 to 1428: MISS
+write   50 to 429: HIT
+write   35 to 1429: HIT
+write   78 to 430: HIT
+write  206 to 1430: HIT
+write  118 to 431: HIT
+write   91 to 1431: HIT
+mem write at 368
+mem read at 432
+write  117 to 432: MISS
+mem write at 1368
+mem read at 1432
+write  113 to 1432: MISS
+write  182 to 433: HIT
+write   77 to 1433: HIT
+write   33 to 434: HIT
+write  107 to 1434: HIT
+write   40 to 435: HIT
+write  113 to 1435: HIT
+mem write at 372
+mem read at 436
+write   46 to 436: MISS
+mem write at 1372
+mem read at 1436
+write   37 to 1436: MISS
+write  207 to 437: HIT
+write   55 to 1437: HIT
+write  128 to 438: HIT
+write  249 to 1438: HIT
+write  220 to 439: HIT
+write   98 to 1439: HIT
+mem write at 376
+mem read at 440
+write  156 to 440: MISS
+mem write at 1376
+mem read at 1440
+write  215 to 1440: MISS
+write   25 to 441: HIT
+write  176 to 1441: HIT
+write   30 to 442: HIT
+write  109 to 1442: HIT
+write   74 to 443: HIT
+write   79 to 1443: HIT
+mem write at 380
+mem read at 444
+write  209 to 444: MISS
+mem write at 1380
+mem read at 1444
+write  124 to 1444: MISS
+write  115 to 445: HIT
+write   31 to 1445: HIT
+write   74 to 446: HIT
+write  233 to 1446: HIT
+write  123 to 447: HIT
+write  192 to 1447: HIT
+mem write at 384
+mem read at 448
+write   90 to 448: MISS
+mem write at 1384
+mem read at 1448
+write   49 to 1448: MISS
+write   13 to 449: HIT
+write  123 to 1449: HIT
+write  156 to 450: HIT
+write   54 to 1450: HIT
+write  237 to 451: HIT
+write  202 to 1451: HIT
+mem write at 388
+mem read at 452
+write   91 to 452: MISS
+mem write at 1388
+mem read at 1452
+write  188 to 1452: MISS
+write    2 to 453: HIT
+write  219 to 1453: HIT
+write  181 to 454: HIT
+write  222 to 1454: HIT
+write   61 to 455: HIT
+write   82 to 1455: HIT
+mem write at 392
+mem read at 456
+write  182 to 456: MISS
+mem write at 1392
+mem read at 1456
+write   87 to 1456: MISS
+write    2 to 457: HIT
+write  212 to 1457: HIT
+write  196 to 458: HIT
+write   76 to 1458: HIT
+write   36 to 459: HIT
+write  149 to 1459: HIT
+mem write at 396
+mem read at 460
+write  200 to 460: MISS
+mem write at 1396
+mem read at 1460
+write  151 to 1460: MISS
+write  181 to 461: HIT
+write   18 to 1461: HIT
+write  128 to 462: HIT
+write   48 to 1462: HIT
+write  210 to 463: HIT
+write  219 to 1463: HIT
+mem write at 400
+mem read at 464
+write   97 to 464: MISS
+mem write at 1400
+mem read at 1464
+write  224 to 1464: MISS
+write   86 to 465: HIT
+write  253 to 1465: HIT
+write   22 to 466: HIT
+write   67 to 1466: HIT
+write  200 to 467: HIT
+write  113 to 1467: HIT
+mem write at 404
+mem read at 468
+write  255 to 468: MISS
+mem write at 1404
+mem read at 1468
+write  202 to 1468: MISS
+write   77 to 469: HIT
+write  181 to 1469: HIT
+write  168 to 470: HIT
+write  138 to 1470: HIT
+write    7 to 471: HIT
+write   94 to 1471: HIT
+mem write at 408
+mem read at 472
+write  225 to 472: MISS
+mem write at 1408
+mem read at 1472
+write    9 to 1472: MISS
+write   51 to 473: HIT
+write  166 to 1473: HIT
+write   85 to 474: HIT
+write   87 to 1474: HIT
+write   59 to 475: HIT
+write   29 to 1475: HIT
+mem write at 412
+mem read at 476
+write  238 to 476: MISS
+mem write at 1412
+mem read at 1476
+write  240 to 1476: MISS
+write   47 to 477: HIT
+write  110 to 1477: HIT
+write   32 to 478: HIT
+write    2 to 1478: HIT
+write   73 to 479: HIT
+write  129 to 1479: HIT
+mem write at 416
+mem read at 480
+write  226 to 480: MISS
+mem write at 1416
+mem read at 1480
+write  160 to 1480: MISS
+write  127 to 481: HIT
+write  248 to 1481: HIT
+write  227 to 482: HIT
+write   71 to 1482: HIT
+write  105 to 483: HIT
+write  227 to 1483: HIT
+mem write at 420
+mem read at 484
+write   17 to 484: MISS
+mem write at 1420
+mem read at 1484
+write  182 to 1484: MISS
+write  152 to 485: HIT
+write  185 to 1485: HIT
+write   65 to 486: HIT
+write  159 to 1486: HIT
+write   24 to 487: HIT
+write   34 to 1487: HIT
+mem write at 424
+mem read at 488
+write  168 to 488: MISS
+mem write at 1424
+mem read at 1488
+write   75 to 1488: MISS
+write  200 to 489: HIT
+write  253 to 1489: HIT
+write  162 to 490: HIT
+write    4 to 1490: HIT
+write   26 to 491: HIT
+write  144 to 1491: HIT
+mem write at 428
+mem read at 492
+write  244 to 492: MISS
+mem write at 1428
+mem read at 1492
+write   73 to 1492: MISS
+write  254 to 493: HIT
+write   21 to 1493: HIT
+write   75 to 494: HIT
+write   72 to 1494: HIT
+write  150 to 495: HIT
+write   45 to 1495: HIT
+mem write at 432
+mem read at 496
+write  232 to 496: MISS
+mem write at 1432
+mem read at 1496
+write   21 to 1496: MISS
+write   37 to 497: HIT
+write  203 to 1497: HIT
+write   92 to 498: HIT
+write  143 to 1498: HIT
+write  174 to 499: HIT
+write  109 to 1499: HIT
+mem write at 436
+mem read at 500
+write   69 to 500: MISS
+mem write at 1436
+mem read at 1500
+write   70 to 1500: MISS
+write   39 to 501: HIT
+write  134 to 1501: HIT
+write  229 to 502: HIT
+write   63 to 1502: HIT
+write  169 to 503: HIT
+write  141 to 1503: HIT
+mem write at 440
+mem read at 504
+write  138 to 504: MISS
+mem write at 1440
+mem read at 1504
+write  113 to 1504: MISS
+write  138 to 505: HIT
+write   44 to 1505: HIT
+write  117 to 506: HIT
+write  164 to 1506: HIT
+write  188 to 507: HIT
+write  106 to 1507: HIT
+mem write at 444
+mem read at 508
+write  238 to 508: MISS
+mem write at 1444
+mem read at 1508
+write  186 to 1508: MISS
+write  127 to 509: HIT
+write   57 to 1509: HIT
+write    2 to 510: HIT
+write   21 to 1510: HIT
+write  103 to 511: HIT
+write  234 to 1511: HIT
+mem write at 448
+mem read at 512
+write   43 to 512: MISS
+mem write at 1448
+mem read at 1512
+write  140 to 1512: MISS
+write  182 to 513: HIT
+write  135 to 1513: HIT
+write   27 to 514: HIT
+write  100 to 1514: HIT
+write  245 to 515: HIT
+write   97 to 1515: HIT
+mem write at 452
+mem read at 516
+write  171 to 516: MISS
+mem write at 1452
+mem read at 1516
+write   28 to 1516: MISS
+write  231 to 517: HIT
+write  144 to 1517: HIT
+write   91 to 518: HIT
+write  144 to 1518: HIT
+write   30 to 519: HIT
+write  229 to 1519: HIT
+mem write at 456
+mem read at 520
+write    2 to 520: MISS
+mem write at 1456
+mem read at 1520
+write  168 to 1520: MISS
+write   17 to 521: HIT
+write  119 to 1521: HIT
+write   77 to 522: HIT
+write  205 to 1522: HIT
+write  225 to 523: HIT
+write   59 to 1523: HIT
+mem write at 460
+mem read at 524
+write  135 to 524: MISS
+mem write at 1460
+mem read at 1524
+write   96 to 1524: MISS
+write  116 to 525: HIT
+write  138 to 1525: HIT
+write  118 to 526: HIT
+write  219 to 1526: HIT
+write  116 to 527: HIT
+write  161 to 1527: HIT
+mem write at 464
+mem read at 528
+write  104 to 528: MISS
+mem write at 1464
+mem read at 1528
+write   42 to 1528: MISS
+write   40 to 529: HIT
+write  131 to 1529: HIT
+write  143 to 530: HIT
+write   29 to 1530: HIT
+write  228 to 531: HIT
+write   58 to 1531: HIT
+mem write at 468
+mem read at 532
+write   57 to 532: MISS
+mem write at 1468
+mem read at 1532
+write  204 to 1532: MISS
+write  202 to 533: HIT
+write  148 to 1533: HIT
+write   92 to 534: HIT
+write  232 to 1534: HIT
+write  121 to 535: HIT
+write   94 to 1535: HIT
+mem write at 472
+mem read at 536
+write  145 to 536: MISS
+mem write at 1472
+mem read at 1536
+write  138 to 1536: MISS
+write  214 to 537: HIT
+write  222 to 1537: HIT
+write   87 to 538: HIT
+write  183 to 1538: HIT
+write   25 to 539: HIT
+write  223 to 1539: HIT
+mem write at 476
+mem read at 540
+write   24 to 540: MISS
+mem write at 1476
+mem read at 1540
+write  141 to 1540: MISS
+write  105 to 541: HIT
+write  142 to 1541: HIT
+write  105 to 542: HIT
+write  221 to 1542: HIT
+write   47 to 543: HIT
+write  209 to 1543: HIT
+mem write at 480
+mem read at 544
+write    8 to 544: MISS
+mem write at 1480
+mem read at 1544
+write   87 to 1544: MISS
+write   84 to 545: HIT
+write  151 to 1545: HIT
+write  117 to 546: HIT
+write   57 to 1546: HIT
+write  209 to 547: HIT
+write  174 to 1547: HIT
+mem write at 484
+mem read at 548
+write    5 to 548: MISS
+mem write at 1484
+mem read at 1548
+write  155 to 1548: MISS
+write   67 to 549: HIT
+write   97 to 1549: HIT
+write  132 to 550: HIT
+write  188 to 1550: HIT
+write  192 to 551: HIT
+write   21 to 1551: HIT
+mem write at 488
+mem read at 552
+write   71 to 552: MISS
+mem write at 1488
+mem read at 1552
+write  150 to 1552: MISS
+write  243 to 553: HIT
+write  158 to 1553: HIT
+write   77 to 554: HIT
+write   12 to 1554: HIT
+write  125 to 555: HIT
+write  101 to 1555: HIT
+mem write at 492
+mem read at 556
+write  153 to 556: MISS
+mem write at 1492
+mem read at 1556
+write  230 to 1556: MISS
+write  243 to 557: HIT
+write    2 to 1557: HIT
+write  196 to 558: HIT
+write   34 to 1558: HIT
+write  211 to 559: HIT
+write  204 to 1559: HIT
+mem write at 496
+mem read at 560
+write  122 to 560: MISS
+mem write at 1496
+mem read at 1560
+write   40 to 1560: MISS
+write   99 to 561: HIT
+write  239 to 1561: HIT
+write   97 to 562: HIT
+write   52 to 1562: HIT
+write  157 to 563: HIT
+write  102 to 1563: HIT
+mem write at 500
+mem read at 564
+write  207 to 564: MISS
+mem write at 1500
+mem read at 1564
+write  224 to 1564: MISS
+write  199 to 565: HIT
+write   83 to 1565: HIT
+write  157 to 566: HIT
+write  135 to 1566: HIT
+write  104 to 567: HIT
+write  228 to 1567: HIT
+mem write at 504
+mem read at 568
+write   29 to 568: MISS
+mem write at 1504
+mem read at 1568
+write   91 to 1568: MISS
+write  130 to 569: HIT
+write  107 to 1569: HIT
+write  103 to 570: HIT
+write    0 to 1570: HIT
+write  208 to 571: HIT
+write    1 to 1571: HIT
+mem write at 508
+mem read at 572
+write  230 to 572: MISS
+mem write at 1508
+mem read at 1572
+write  196 to 1572: MISS
+write    3 to 573: HIT
+write  170 to 1573: HIT
+write  230 to 574: HIT
+write  215 to 1574: HIT
+write  118 to 575: HIT
+write   96 to 1575: HIT
+mem write at 512
+mem read at 576
+write  255 to 576: MISS
+mem write at 1512
+mem read at 1576
+write  217 to 1576: MISS
+write   79 to 577: HIT
+write   96 to 1577: HIT
+write   13 to 578: HIT
+write  237 to 1578: HIT
+write  198 to 579: HIT
+write  221 to 1579: HIT
+mem write at 516
+mem read at 580
+write  205 to 580: MISS
+mem write at 1516
+mem read at 1580
+write  141 to 1580: MISS
+write   48 to 581: HIT
+write  106 to 1581: HIT
+write   21 to 582: HIT
+write  153 to 1582: HIT
+write   78 to 583: HIT
+write   50 to 1583: HIT
+mem write at 520
+mem read at 584
+write  244 to 584: MISS
+mem write at 1520
+mem read at 1584
+write  209 to 1584: MISS
+write  157 to 585: HIT
+write   92 to 1585: HIT
+write  209 to 586: HIT
+write  110 to 1586: HIT
+write   93 to 587: HIT
+write  183 to 1587: HIT
+mem write at 524
+mem read at 588
+write   50 to 588: MISS
+mem write at 1524
+mem read at 1588
+write   96 to 1588: MISS
+write   98 to 589: HIT
+write   24 to 1589: HIT
+write   55 to 590: HIT
+write  216 to 1590: HIT
+write  121 to 591: HIT
+write   54 to 1591: HIT
+mem write at 528
+mem read at 592
+write  178 to 592: MISS
+mem write at 1528
+mem read at 1592
+write  200 to 1592: MISS
+write  150 to 593: HIT
+write  191 to 1593: HIT
+write  181 to 594: HIT
+write   92 to 1594: HIT
+write  156 to 595: HIT
+write  131 to 1595: HIT
+mem write at 532
+mem read at 596
+write  234 to 596: MISS
+mem write at 1532
+mem read at 1596
+write  205 to 1596: MISS
+write  237 to 597: HIT
+write  255 to 1597: HIT
+write  102 to 598: HIT
+write   60 to 1598: HIT
+write   49 to 599: HIT
+write   90 to 1599: HIT
+mem write at 536
+mem read at 600
+write   13 to 600: MISS
+mem write at 1536
+mem read at 1600
+write  207 to 1600: MISS
+write  182 to 601: HIT
+write  222 to 1601: HIT
+write   61 to 602: HIT
+write   19 to 1602: HIT
+write  149 to 603: HIT
+write  111 to 1603: HIT
+mem write at 540
+mem read at 604
+write  116 to 604: MISS
+mem write at 1540
+mem read at 1604
+write  247 to 1604: MISS
+write  135 to 605: HIT
+write  171 to 1605: HIT
+write  208 to 606: HIT
+write    0 to 1606: HIT
+write  226 to 607: HIT
+write  130 to 1607: HIT
+mem write at 544
+mem read at 608
+write  201 to 608: MISS
+mem write at 1544
+mem read at 1608
+write  120 to 1608: MISS
+write   65 to 609: HIT
+write  126 to 1609: HIT
+write  213 to 610: HIT
+write  222 to 1610: HIT
+write    1 to 611: HIT
+write  191 to 1611: HIT
+mem write at 548
+mem read at 612
+write  171 to 612: MISS
+mem write at 1548
+mem read at 1612
+write  239 to 1612: MISS
+write  190 to 613: HIT
+write   17 to 1613: HIT
+write   43 to 614: HIT
+write  239 to 1614: HIT
+write  107 to 615: HIT
+write   56 to 1615: HIT
+mem write at 552
+mem read at 616
+write  190 to 616: MISS
+mem write at 1552
+mem read at 1616
+write   34 to 1616: MISS
+write   22 to 617: HIT
+write  251 to 1617: HIT
+write   53 to 618: HIT
+write  171 to 1618: HIT
+write  106 to 619: HIT
+write  169 to 1619: HIT
+mem write at 556
+mem read at 620
+write  163 to 620: MISS
+mem write at 1556
+mem read at 1620
+write  242 to 1620: MISS
+write   85 to 621: HIT
+write  115 to 1621: HIT
+write  242 to 622: HIT
+write   55 to 1622: HIT
+write  245 to 623: HIT
+write  187 to 1623: HIT
+mem write at 560
+mem read at 624
+write  175 to 624: MISS
+mem write at 1560
+mem read at 1624
+write   54 to 1624: MISS
+write   58 to 625: HIT
+write  132 to 1625: HIT
+write   20 to 626: HIT
+write   59 to 1626: HIT
+write   67 to 627: HIT
+write  191 to 1627: HIT
+mem write at 564
+mem read at 628
+write   42 to 628: MISS
+mem write at 1564
+mem read at 1628
+write    1 to 1628: MISS
+write  208 to 629: HIT
+write   85 to 1629: HIT
+write  241 to 630: HIT
+write   60 to 1630: HIT
+write  141 to 631: HIT
+write  175 to 1631: HIT
+mem write at 568
+mem read at 632
+write   94 to 632: MISS
+mem write at 1568
+mem read at 1632
+write  163 to 1632: MISS
+write  171 to 633: HIT
+write  147 to 1633: HIT
+write   79 to 634: HIT
+write   21 to 1634: HIT
+write   61 to 635: HIT
+write  242 to 1635: HIT
+mem write at 572
+mem read at 636
+write    7 to 636: MISS
+mem write at 1572
+mem read at 1636
+write  146 to 1636: MISS
+write  101 to 637: HIT
+write  250 to 1637: HIT
+write  201 to 638: HIT
+write   90 to 1638: HIT
+write  181 to 639: HIT
+write  120 to 1639: HIT
+mem write at 576
+mem read at 640
+write  144 to 640: MISS
+mem write at 1576
+mem read at 1640
+write  239 to 1640: MISS
+write  253 to 641: HIT
+write  165 to 1641: HIT
+write   43 to 642: HIT
+write   64 to 1642: HIT
+write  100 to 643: HIT
+write   85 to 1643: HIT
+mem write at 580
+mem read at 644
+write   66 to 644: MISS
+mem write at 1580
+mem read at 1644
+write   53 to 1644: MISS
+write  171 to 645: HIT
+write   51 to 1645: HIT
+write  113 to 646: HIT
+write   56 to 1646: HIT
+write  226 to 647: HIT
+write  207 to 1647: HIT
+mem write at 584
+mem read at 648
+write  220 to 648: MISS
+mem write at 1584
+mem read at 1648
+write  141 to 1648: MISS
+write   98 to 649: HIT
+write   43 to 1649: HIT
+write  163 to 650: HIT
+write  159 to 1650: HIT
+write   29 to 651: HIT
+write  170 to 1651: HIT
+mem write at 588
+mem read at 652
+write   49 to 652: MISS
+mem write at 1588
+mem read at 1652
+write  130 to 1652: MISS
+write  164 to 653: HIT
+write  250 to 1653: HIT
+write  220 to 654: HIT
+write   90 to 1654: HIT
+write  115 to 655: HIT
+write  108 to 1655: HIT
+mem write at 592
+mem read at 656
+write   73 to 656: MISS
+mem write at 1592
+mem read at 1656
+write  112 to 1656: MISS
+write   17 to 657: HIT
+write  116 to 1657: HIT
+write  176 to 658: HIT
+write  118 to 1658: HIT
+write  202 to 659: HIT
+write  242 to 1659: HIT
+mem write at 596
+mem read at 660
+write  171 to 660: MISS
+mem write at 1596
+mem read at 1660
+write  117 to 1660: MISS
+write   37 to 661: HIT
+write   28 to 1661: HIT
+write  173 to 662: HIT
+write    8 to 1662: HIT
+write  235 to 663: HIT
+write  137 to 1663: HIT
+mem write at 600
+mem read at 664
+write  149 to 664: MISS
+mem write at 1600
+mem read at 1664
+write   77 to 1664: MISS
+write  180 to 665: HIT
+write   56 to 1665: HIT
+write  237 to 666: HIT
+write  209 to 1666: HIT
+write  227 to 667: HIT
+write   30 to 1667: HIT
+mem write at 604
+mem read at 668
+write   83 to 668: MISS
+mem write at 1604
+mem read at 1668
+write  135 to 1668: MISS
+write   25 to 669: HIT
+write   47 to 1669: HIT
+write  225 to 670: HIT
+write  140 to 1670: HIT
+write  156 to 671: HIT
+write   43 to 1671: HIT
+mem write at 608
+mem read at 672
+write  252 to 672: MISS
+mem write at 1608
+mem read at 1672
+write  173 to 1672: MISS
+write  159 to 673: HIT
+write  172 to 1673: HIT
+write   35 to 674: HIT
+write  105 to 1674: HIT
+write  159 to 675: HIT
+write  206 to 1675: HIT
+mem write at 612
+mem read at 676
+write  222 to 676: MISS
+mem write at 1612
+mem read at 1676
+write  196 to 1676: MISS
+write  234 to 677: HIT
+write  140 to 1677: HIT
+write  204 to 678: HIT
+write  213 to 1678: HIT
+write   21 to 679: HIT
+write   98 to 1679: HIT
+mem write at 616
+mem read at 680
+write   35 to 680: MISS
+mem write at 1616
+mem read at 1680
+write  202 to 1680: MISS
+write  154 to 681: HIT
+write   16 to 1681: HIT
+write  155 to 682: HIT
+write  125 to 1682: HIT
+write   46 to 683: HIT
+write  239 to 1683: HIT
+mem write at 620
+mem read at 684
+write    5 to 684: MISS
+mem write at 1620
+mem read at 1684
+write   71 to 1684: MISS
+write   30 to 685: HIT
+write  230 to 1685: HIT
+write  211 to 686: HIT
+write  186 to 1686: HIT
+write   17 to 687: HIT
+write  207 to 1687: HIT
+mem write at 624
+mem read at 688
+write  104 to 688: MISS
+mem write at 1624
+mem read at 1688
+write  177 to 1688: MISS
+write  124 to 689: HIT
+write  139 to 1689: HIT
+write   26 to 690: HIT
+write   27 to 1690: HIT
+write   90 to 691: HIT
+write  249 to 1691: HIT
+mem write at 628
+mem read at 692
+write  223 to 692: MISS
+mem write at 1628
+mem read at 1692
+write   68 to 1692: MISS
+write  133 to 693: HIT
+write  172 to 1693: HIT
+write   26 to 694: HIT
+write  154 to 1694: HIT
+write   14 to 695: HIT
+write   61 to 1695: HIT
+mem write at 632
+mem read at 696
+write  100 to 696: MISS
+mem write at 1632
+mem read at 1696
+write  168 to 1696: MISS
+write   77 to 697: HIT
+write    0 to 1697: HIT
+write   38 to 698: HIT
+write  123 to 1698: HIT
+write  239 to 699: HIT
+write   43 to 1699: HIT
+mem write at 636
+mem read at 700
+write  195 to 700: MISS
+mem write at 1636
+mem read at 1700
+write   13 to 1700: MISS
+write   17 to 701: HIT
+write  150 to 1701: HIT
+write  200 to 702: HIT
+write   35 to 1702: HIT
+write  102 to 703: HIT
+write   48 to 1703: HIT
+mem write at 640
+mem read at 704
+write  212 to 704: MISS
+mem write at 1640
+mem read at 1704
+write  226 to 1704: MISS
+write  187 to 705: HIT
+write  238 to 1705: HIT
+write  253 to 706: HIT
+write   21 to 1706: HIT
+write  231 to 707: HIT
+write  220 to 1707: HIT
+mem write at 644
+mem read at 708
+write   90 to 708: MISS
+mem write at 1644
+mem read at 1708
+write  108 to 1708: MISS
+write  136 to 709: HIT
+write  116 to 1709: HIT
+write    7 to 710: HIT
+write  150 to 1710: HIT
+write  177 to 711: HIT
+write  107 to 1711: HIT
+mem write at 648
+mem read at 712
+write   63 to 712: MISS
+mem write at 1648
+mem read at 1712
+write  254 to 1712: MISS
+write  107 to 713: HIT
+write  101 to 1713: HIT
+write  121 to 714: HIT
+write   90 to 1714: HIT
+write  144 to 715: HIT
+write   60 to 1715: HIT
+mem write at 652
+mem read at 716
+write  104 to 716: MISS
+mem write at 1652
+mem read at 1716
+write  161 to 1716: MISS
+write  211 to 717: HIT
+write   48 to 1717: HIT
+write  196 to 718: HIT
+write   57 to 1718: HIT
+write   96 to 719: HIT
+write  152 to 1719: HIT
+mem write at 656
+mem read at 720
+write   27 to 720: MISS
+mem write at 1656
+mem read at 1720
+write   27 to 1720: MISS
+write  135 to 721: HIT
+write   24 to 1721: HIT
+write   49 to 722: HIT
+write  110 to 1722: HIT
+write  244 to 723: HIT
+write  139 to 1723: HIT
+mem write at 660
+mem read at 724
+write  219 to 724: MISS
+mem write at 1660
+mem read at 1724
+write  125 to 1724: MISS
+write  255 to 725: HIT
+write  226 to 1725: HIT
+write   19 to 726: HIT
+write  176 to 1726: HIT
+write   77 to 727: HIT
+write   82 to 1727: HIT
+mem write at 664
+mem read at 728
+write  174 to 728: MISS
+mem write at 1664
+mem read at 1728
+write  185 to 1728: MISS
+write  183 to 729: HIT
+write   39 to 1729: HIT
+write   19 to 730: HIT
+write   71 to 1730: HIT
+write  100 to 731: HIT
+write  123 to 1731: HIT
+mem write at 668
+mem read at 732
+write  233 to 732: MISS
+mem write at 1668
+mem read at 1732
+write   55 to 1732: MISS
+write  171 to 733: HIT
+write  173 to 1733: HIT
+write  112 to 734: HIT
+write   11 to 1734: HIT
+write   70 to 735: HIT
+write  139 to 1735: HIT
+mem write at 672
+mem read at 736
+write   39 to 736: MISS
+mem write at 1672
+mem read at 1736
+write  205 to 1736: MISS
+write  163 to 737: HIT
+write   88 to 1737: HIT
+write   59 to 738: HIT
+write  151 to 1738: HIT
+write  227 to 739: HIT
+write   22 to 1739: HIT
+mem write at 676
+mem read at 740
+write   20 to 740: MISS
+mem write at 1676
+mem read at 1740
+write  226 to 1740: MISS
+write  248 to 741: HIT
+write   40 to 1741: HIT
+write  146 to 742: HIT
+write   70 to 1742: HIT
+write  122 to 743: HIT
+write   64 to 1743: HIT
+mem write at 680
+mem read at 744
+write  255 to 744: MISS
+mem write at 1680
+mem read at 1744
+write   50 to 1744: MISS
+write  103 to 745: HIT
+write   18 to 1745: HIT
+write  121 to 746: HIT
+write  203 to 1746: HIT
+write  142 to 747: HIT
+write   98 to 1747: HIT
+mem write at 684
+mem read at 748
+write    2 to 748: MISS
+mem write at 1684
+mem read at 1748
+write   57 to 1748: MISS
+write   16 to 749: HIT
+write  114 to 1749: HIT
+write   69 to 750: HIT
+write   86 to 1750: HIT
+write  253 to 751: HIT
+write  108 to 1751: HIT
+mem write at 688
+mem read at 752
+write   35 to 752: MISS
+mem write at 1688
+mem read at 1752
+write  160 to 1752: MISS
+write  196 to 753: HIT
+write   94 to 1753: HIT
+write   56 to 754: HIT
+write  167 to 1754: HIT
+write  117 to 755: HIT
+write   76 to 1755: HIT
+mem write at 692
+mem read at 756
+write  137 to 756: MISS
+mem write at 1692
+mem read at 1756
+write  109 to 1756: MISS
+write  116 to 757: HIT
+write   27 to 1757: HIT
+write  179 to 758: HIT
+write  239 to 1758: HIT
+write   91 to 759: HIT
+write  178 to 1759: HIT
+mem write at 696
+mem read at 760
+write   33 to 760: MISS
+mem write at 1696
+mem read at 1760
+write  194 to 1760: MISS
+write  197 to 761: HIT
+write  154 to 1761: HIT
+write  142 to 762: HIT
+write   83 to 1762: HIT
+write  253 to 763: HIT
+write  144 to 1763: HIT
+mem write at 700
+mem read at 764
+write  140 to 764: MISS
+mem write at 1700
+mem read at 1764
+write   13 to 1764: MISS
+write    3 to 765: HIT
+write  209 to 1765: HIT
+write   99 to 766: HIT
+write    0 to 1766: HIT
+write   61 to 767: HIT
+write  134 to 1767: HIT
+mem write at 704
+mem read at 768
+write  161 to 768: MISS
+mem write at 1704
+mem read at 1768
+write    1 to 1768: MISS
+write  228 to 769: HIT
+write  217 to 1769: HIT
+write  168 to 770: HIT
+write   89 to 1770: HIT
+write   37 to 771: HIT
+write   49 to 1771: HIT
+mem write at 708
+mem read at 772
+write  199 to 772: MISS
+mem write at 1708
+mem read at 1772
+write  154 to 1772: MISS
+write   76 to 773: HIT
+write  122 to 1773: HIT
+write  137 to 774: HIT
+write  167 to 1774: HIT
+write   45 to 775: HIT
+write  170 to 1775: HIT
+mem write at 712
+mem read at 776
+write  106 to 776: MISS
+mem write at 1712
+mem read at 1776
+write  242 to 1776: MISS
+write   68 to 777: HIT
+write  248 to 1777: HIT
+write   69 to 778: HIT
+write   65 to 1778: HIT
+write  136 to 779: HIT
+write  209 to 1779: HIT
+mem write at 716
+mem read at 780
+write   78 to 780: MISS
+mem write at 1716
+mem read at 1780
+write  139 to 1780: MISS
+write  163 to 781: HIT
+write  177 to 1781: HIT
+write  140 to 782: HIT
+write  224 to 1782: HIT
+write   55 to 783: HIT
+write   45 to 1783: HIT
+mem write at 720
+mem read at 784
+write  226 to 784: MISS
+mem write at 1720
+mem read at 1784
+write   28 to 1784: MISS
+write    6 to 785: HIT
+write  138 to 1785: HIT
+write  117 to 786: HIT
+write   43 to 1786: HIT
+write  188 to 787: HIT
+write   60 to 1787: HIT
+mem write at 724
+mem read at 788
+write  197 to 788: MISS
+mem write at 1724
+mem read at 1788
+write    8 to 1788: MISS
+write  183 to 789: HIT
+write   78 to 1789: HIT
+write  176 to 790: HIT
+write  228 to 1790: HIT
+write  248 to 791: HIT
+write   26 to 1791: HIT
+mem write at 728
+mem read at 792
+write  214 to 792: MISS
+mem write at 1728
+mem read at 1792
+write   61 to 1792: MISS
+write   18 to 793: HIT
+write   27 to 1793: HIT
+write  126 to 794: HIT
+write  154 to 1794: HIT
+write  236 to 795: HIT
+write  205 to 1795: HIT
+mem write at 732
+mem read at 796
+write   38 to 796: MISS
+mem write at 1732
+mem read at 1796
+write  143 to 1796: MISS
+write  126 to 797: HIT
+write  178 to 1797: HIT
+write  112 to 798: HIT
+write  182 to 1798: HIT
+write  223 to 799: HIT
+write   82 to 1799: HIT
+mem write at 736
+mem read at 800
+write  210 to 800: MISS
+mem write at 1736
+mem read at 1800
+write  229 to 1800: MISS
+write  220 to 801: HIT
+write   71 to 1801: HIT
+write   16 to 802: HIT
+write  152 to 1802: HIT
+write  132 to 803: HIT
+write  214 to 1803: HIT
+mem write at 740
+mem read at 804
+write  161 to 804: MISS
+mem write at 1740
+mem read at 1804
+write   59 to 1804: MISS
+write   36 to 805: HIT
+write   81 to 1805: HIT
+write   31 to 806: HIT
+write   29 to 1806: HIT
+write  107 to 807: HIT
+write  245 to 1807: HIT
+mem write at 744
+mem read at 808
+write   90 to 808: MISS
+mem write at 1744
+mem read at 1808
+write  125 to 1808: MISS
+write   16 to 809: HIT
+write  216 to 1809: HIT
+write   23 to 810: HIT
+write  252 to 1810: HIT
+write  165 to 811: HIT
+write   61 to 1811: HIT
+mem write at 748
+mem read at 812
+write  140 to 812: MISS
+mem write at 1748
+mem read at 1812
+write   36 to 1812: MISS
+write  239 to 813: HIT
+write  252 to 1813: HIT
+write  218 to 814: HIT
+write  206 to 1814: HIT
+write   78 to 815: HIT
+write  172 to 1815: HIT
+mem write at 752
+mem read at 816
+write  179 to 816: MISS
+mem write at 1752
+mem read at 1816
+write   42 to 1816: MISS
+write  243 to 817: HIT
+write  196 to 1817: HIT
+write  195 to 818: HIT
+write  119 to 1818: HIT
+write  154 to 819: HIT
+write  100 to 1819: HIT
+mem write at 756
+mem read at 820
+write  178 to 820: MISS
+mem write at 1756
+mem read at 1820
+write  190 to 1820: MISS
+write  181 to 821: HIT
+write  209 to 1821: HIT
+write  219 to 822: HIT
+write   32 to 1822: HIT
+write  198 to 823: HIT
+write   53 to 1823: HIT
+mem write at 760
+mem read at 824
+write  157 to 824: MISS
+mem write at 1760
+mem read at 1824
+write  214 to 1824: MISS
+write   14 to 825: HIT
+write  180 to 1825: HIT
+write  211 to 826: HIT
+write  179 to 1826: HIT
+write  242 to 827: HIT
+write   95 to 1827: HIT
+mem write at 764
+mem read at 828
+write  215 to 828: MISS
+mem write at 1764
+mem read at 1828
+write  225 to 1828: MISS
+write   91 to 829: HIT
+write  177 to 1829: HIT
+write  176 to 830: HIT
+write  169 to 1830: HIT
+write   93 to 831: HIT
+write   99 to 1831: HIT
+mem write at 768
+mem read at 832
+write  211 to 832: MISS
+mem write at 1768
+mem read at 1832
+write   81 to 1832: MISS
+write   39 to 833: HIT
+write  150 to 1833: HIT
+write  200 to 834: HIT
+write  193 to 1834: HIT
+write  250 to 835: HIT
+write  123 to 1835: HIT
+mem write at 772
+mem read at 836
+write  128 to 836: MISS
+mem write at 1772
+mem read at 1836
+write  175 to 1836: MISS
+write   76 to 837: HIT
+write   91 to 1837: HIT
+write  207 to 838: HIT
+write   19 to 1838: HIT
+write  145 to 839: HIT
+write  108 to 1839: HIT
+mem write at 776
+mem read at 840
+write  233 to 840: MISS
+mem write at 1776
+mem read at 1840
+write  159 to 1840: MISS
+write   33 to 841: HIT
+write  188 to 1841: HIT
+write   82 to 842: HIT
+write   19 to 1842: HIT
+write   27 to 843: HIT
+write   42 to 1843: HIT
+mem write at 780
+mem read at 844
+write  244 to 844: MISS
+mem write at 1780
+mem read at 1844
+write  118 to 1844: MISS
+write  219 to 845: HIT
+write  164 to 1845: HIT
+write   31 to 846: HIT
+write   57 to 1846: HIT
+write    8 to 847: HIT
+write  243 to 1847: HIT
+mem write at 784
+mem read at 848
+write  138 to 848: MISS
+mem write at 1784
+mem read at 1848
+write   47 to 1848: MISS
+write  137 to 849: HIT
+write   82 to 1849: HIT
+write  241 to 850: HIT
+write  132 to 1850: HIT
+write  205 to 851: HIT
+write  113 to 1851: HIT
+mem write at 788
+mem read at 852
+write   51 to 852: MISS
+mem write at 1788
+mem read at 1852
+write   26 to 1852: MISS
+write  204 to 853: HIT
+write    3 to 1853: HIT
+write   45 to 854: HIT
+write   93 to 1854: HIT
+write  111 to 855: HIT
+write   22 to 1855: HIT
+mem write at 792
+mem read at 856
+write  252 to 856: MISS
+mem write at 1792
+mem read at 1856
+write  144 to 1856: MISS
+write  211 to 857: HIT
+write   79 to 1857: HIT
+write  163 to 858: HIT
+write  238 to 1858: HIT
+write  121 to 859: HIT
+write  152 to 1859: HIT
+mem write at 796
+mem read at 860
+write  101 to 860: MISS
+mem write at 1796
+mem read at 1860
+write   84 to 1860: MISS
+write   60 to 861: HIT
+write  132 to 1861: HIT
+write  141 to 862: HIT
+write   68 to 1862: HIT
+write  119 to 863: HIT
+write   23 to 1863: HIT
+mem write at 800
+mem read at 864
+write  116 to 864: MISS
+mem write at 1800
+mem read at 1864
+write    1 to 1864: MISS
+write  106 to 865: HIT
+write  101 to 1865: HIT
+write  133 to 866: HIT
+write   55 to 1866: HIT
+write  214 to 867: HIT
+write  184 to 1867: HIT
+mem write at 804
+mem read at 868
+write   81 to 868: MISS
+mem write at 1804
+mem read at 1868
+write  162 to 1868: MISS
+write  187 to 869: HIT
+write  126 to 1869: HIT
+write    0 to 870: HIT
+write   43 to 1870: HIT
+write  149 to 871: HIT
+write  252 to 1871: HIT
+mem write at 808
+mem read at 872
+write  187 to 872: MISS
+mem write at 1808
+mem read at 1872
+write  104 to 1872: MISS
+write   75 to 873: HIT
+write   95 to 1873: HIT
+write   86 to 874: HIT
+write  196 to 1874: HIT
+write  247 to 875: HIT
+write  187 to 1875: HIT
+mem write at 812
+mem read at 876
+write   25 to 876: MISS
+mem write at 1812
+mem read at 1876
+write   51 to 1876: MISS
+write   64 to 877: HIT
+write  166 to 1877: HIT
+write  120 to 878: HIT
+write  183 to 1878: HIT
+write  190 to 879: HIT
+write  236 to 1879: HIT
+mem write at 816
+mem read at 880
+write  184 to 880: MISS
+mem write at 1816
+mem read at 1880
+write   40 to 1880: MISS
+write   81 to 881: HIT
+write   61 to 1881: HIT
+write   95 to 882: HIT
+write   39 to 1882: HIT
+write  246 to 883: HIT
+write  177 to 1883: HIT
+mem write at 820
+mem read at 884
+write  201 to 884: MISS
+mem write at 1820
+mem read at 1884
+write  177 to 1884: MISS
+write   47 to 885: HIT
+write  201 to 1885: HIT
+write  220 to 886: HIT
+write  196 to 1886: HIT
+write  198 to 887: HIT
+write  152 to 1887: HIT
+mem write at 824
+mem read at 888
+write   44 to 888: MISS
+mem write at 1824
+mem read at 1888
+write   17 to 1888: MISS
+write  247 to 889: HIT
+write  131 to 1889: HIT
+write  214 to 890: HIT
+write  238 to 1890: HIT
+write   62 to 891: HIT
+write  239 to 1891: HIT
+mem write at 828
+mem read at 892
+write   33 to 892: MISS
+mem write at 1828
+mem read at 1892
+write  126 to 1892: MISS
+write  149 to 893: HIT
+write  153 to 1893: HIT
+write   54 to 894: HIT
+write   83 to 1894: HIT
+write  133 to 895: HIT
+write  238 to 1895: HIT
+mem write at 832
+mem read at 896
+write  123 to 896: MISS
+mem write at 1832
+mem read at 1896
+write  214 to 1896: MISS
+write   44 to 897: HIT
+write  219 to 1897: HIT
+write  253 to 898: HIT
+write   34 to 1898: HIT
+write  140 to 899: HIT
+write  199 to 1899: HIT
+mem write at 836
+mem read at 900
+write  211 to 900: MISS
+mem write at 1836
+mem read at 1900
+write  187 to 1900: MISS
+write  144 to 901: HIT
+write  176 to 1901: HIT
+write  128 to 902: HIT
+write   86 to 1902: HIT
+write   72 to 903: HIT
+write  172 to 1903: HIT
+mem write at 840
+mem read at 904
+write  104 to 904: MISS
+mem write at 1840
+mem read at 1904
+write   63 to 1904: MISS
+write   47 to 905: HIT
+write   62 to 1905: HIT
+write   45 to 906: HIT
+write  110 to 1906: HIT
+write   45 to 907: HIT
+write   78 to 1907: HIT
+mem write at 844
+mem read at 908
+write  236 to 908: MISS
+mem write at 1844
+mem read at 1908
+write  194 to 1908: MISS
+write  232 to 909: HIT
+write   34 to 1909: HIT
+write   22 to 910: HIT
+write  109 to 1910: HIT
+write   17 to 911: HIT
+write  145 to 1911: HIT
+mem write at 848
+mem read at 912
+write   68 to 912: MISS
+mem write at 1848
+mem read at 1912
+write   61 to 1912: MISS
+write  108 to 913: HIT
+write   65 to 1913: HIT
+write   95 to 914: HIT
+write  248 to 1914: HIT
+write    8 to 915: HIT
+write   50 to 1915: HIT
+mem write at 852
+mem read at 916
+write  180 to 916: MISS
+mem write at 1852
+mem read at 1916
+write  153 to 1916: MISS
+write  226 to 917: HIT
+write   52 to 1917: HIT
+write  239 to 918: HIT
+write   42 to 1918: HIT
+write  224 to 919: HIT
+write   87 to 1919: HIT
+mem write at 856
+mem read at 920
+write  105 to 920: MISS
+mem write at 1856
+mem read at 1920
+write   16 to 1920: MISS
+write  149 to 921: HIT
+write  150 to 1921: HIT
+write  126 to 922: HIT
+write  194 to 1922: HIT
+write  229 to 923: HIT
+write  106 to 1923: HIT
+mem write at 860
+mem read at 924
+write  133 to 924: MISS
+mem write at 1860
+mem read at 1924
+write  205 to 1924: MISS
+write  141 to 925: HIT
+write  155 to 1925: HIT
+write   58 to 926: HIT
+write  158 to 1926: HIT
+write   44 to 927: HIT
+write  126 to 1927: HIT
+mem write at 864
+mem read at 928
+write  219 to 928: MISS
+mem write at 1864
+mem read at 1928
+write  153 to 1928: MISS
+write  192 to 929: HIT
+write   58 to 1929: HIT
+write  145 to 930: HIT
+write  200 to 1930: HIT
+write  108 to 931: HIT
+write   69 to 1931: HIT
+mem write at 868
+mem read at 932
+write   97 to 932: MISS
+mem write at 1868
+mem read at 1932
+write   79 to 1932: MISS
+write  121 to 933: HIT
+write   81 to 1933: HIT
+write  121 to 934: HIT
+write   90 to 1934: HIT
+write  168 to 935: HIT
+write  227 to 1935: HIT
+mem write at 872
+mem read at 936
+write  106 to 936: MISS
+mem write at 1872
+mem read at 1936
+write   62 to 1936: MISS
+write  121 to 937: HIT
+write  232 to 1937: HIT
+write    0 to 938: HIT
+write   94 to 1938: HIT
+write   82 to 939: HIT
+write  133 to 1939: HIT
+mem write at 876
+mem read at 940
+write   43 to 940: MISS
+mem write at 1876
+mem read at 1940
+write  223 to 1940: MISS
+write   32 to 941: HIT
+write  102 to 1941: HIT
+write  125 to 942: HIT
+write   77 to 1942: HIT
+write  228 to 943: HIT
+write   88 to 1943: HIT
+mem write at 880
+mem read at 944
+write  230 to 944: MISS
+mem write at 1880
+mem read at 1944
+write  164 to 1944: MISS
+write  146 to 945: HIT
+write  119 to 1945: HIT
+write  109 to 946: HIT
+write  255 to 1946: HIT
+write  189 to 947: HIT
+write  206 to 1947: HIT
+mem write at 884
+mem read at 948
+write   78 to 948: MISS
+mem write at 1884
+mem read at 1948
+write   54 to 1948: MISS
+write   31 to 949: HIT
+write  199 to 1949: HIT
+write  144 to 950: HIT
+write  200 to 1950: HIT
+write  170 to 951: HIT
+write  250 to 1951: HIT
+mem write at 888
+mem read at 952
+write    6 to 952: MISS
+mem write at 1888
+mem read at 1952
+write   36 to 1952: MISS
+write  226 to 953: HIT
+write    6 to 1953: HIT
+write  130 to 954: HIT
+write   53 to 1954: HIT
+write  140 to 955: HIT
+write  174 to 1955: HIT
+mem write at 892
+mem read at 956
+write   20 to 956: MISS
+mem write at 1892
+mem read at 1956
+write  172 to 1956: MISS
+write   20 to 957: HIT
+write  146 to 1957: HIT
+write  249 to 958: HIT
+write  248 to 1958: HIT
+write  234 to 959: HIT
+write  223 to 1959: HIT
+mem write at 896
+mem read at 960
+write  157 to 960: MISS
+mem write at 1896
+mem read at 1960
+write  125 to 1960: MISS
+write   87 to 961: HIT
+write   10 to 1961: HIT
+write  124 to 962: HIT
+write   20 to 1962: HIT
+write  216 to 963: HIT
+write  202 to 1963: HIT
+mem write at 900
+mem read at 964
+write   74 to 964: MISS
+mem write at 1900
+mem read at 1964
+write  248 to 1964: MISS
+write  145 to 965: HIT
+write  219 to 1965: HIT
+write  192 to 966: HIT
+write   60 to 1966: HIT
+write  213 to 967: HIT
+write  198 to 1967: HIT
+mem write at 904
+mem read at 968
+write   96 to 968: MISS
+mem write at 1904
+mem read at 1968
+write  184 to 1968: MISS
+write  204 to 969: HIT
+write  226 to 1969: HIT
+write  237 to 970: HIT
+write   88 to 1970: HIT
+write  144 to 971: HIT
+write    1 to 1971: HIT
+mem write at 908
+mem read at 972
+write    5 to 972: MISS
+mem write at 1908
+mem read at 1972
+write  164 to 1972: MISS
+write  147 to 973: HIT
+write  254 to 1973: HIT
+write  157 to 974: HIT
+write  126 to 1974: HIT
+write  222 to 975: HIT
+write   58 to 1975: HIT
+mem write at 912
+mem read at 976
+write  251 to 976: MISS
+mem write at 1912
+mem read at 1976
+write   53 to 1976: MISS
+write   68 to 977: HIT
+write  119 to 1977: HIT
+write   73 to 978: HIT
+write   28 to 1978: HIT
+write   65 to 979: HIT
+write  147 to 1979: HIT
+mem write at 916
+mem read at 980
+write   20 to 980: MISS
+mem write at 1916
+mem read at 1980
+write  210 to 1980: MISS
+write  110 to 981: HIT
+write  212 to 1981: HIT
+write   14 to 982: HIT
+write   68 to 1982: HIT
+write  154 to 983: HIT
+write  110 to 1983: HIT
+mem write at 920
+mem read at 984
+write  252 to 984: MISS
+mem write at 1920
+mem read at 1984
+write  103 to 1984: MISS
+write   81 to 985: HIT
+write  233 to 1985: HIT
+write  191 to 986: HIT
+write  225 to 1986: HIT
+write  234 to 987: HIT
+write  196 to 1987: HIT
+mem write at 924
+mem read at 988
+write  134 to 988: MISS
+mem write at 1924
+mem read at 1988
+write  126 to 1988: MISS
+write  195 to 989: HIT
+write   35 to 1989: HIT
+write  252 to 990: HIT
+write  161 to 1990: HIT
+write   93 to 991: HIT
+write  247 to 1991: HIT
+mem write at 928
+mem read at 992
+write  214 to 992: MISS
+mem write at 1928
+mem read at 1992
+write  161 to 1992: MISS
+write  110 to 993: HIT
+write   31 to 1993: HIT
+write  189 to 994: HIT
+write  175 to 1994: HIT
+write  178 to 995: HIT
+write  210 to 1995: HIT
+mem write at 932
+mem read at 996
+write  129 to 996: MISS
+mem write at 1932
+mem read at 1996
+write   33 to 1996: MISS
+write  166 to 997: HIT
+write  144 to 1997: HIT
+write  101 to 998: HIT
+write   65 to 1998: HIT
+write  254 to 999: HIT
+write   97 to 1999: HIT
+mem write at 1936
+mem read at 2000
+write    0 to 2000: MISS
+mem write at 944
+mem read at 0
+read  103 from 0: MISS
+mem write at 936
+mem read at 1000
+read  198 from 1000: MISS
+read    0 from 2000: HIT
+write  170 to 2000: HIT
+read  105 from 1: HIT
+read  115 from 1001: HIT
+read  170 from 2000: HIT
+write  213 to 2000: HIT
+read   81 from 2: HIT
+read  255 from 1002: HIT
+read  213 from 2000: HIT
+write  132 to 2000: HIT
+read   74 from 3: HIT
+read  236 from 1003: HIT
+read  132 from 2000: HIT
+write  188 to 2000: HIT
+mem write at 1940
+mem read at 4
+read   41 from 4: MISS
+mem write at 940
+mem read at 1004
+read  205 from 1004: MISS
+read  188 from 2000: HIT
+write  145 to 2000: HIT
+read  186 from 5: HIT
+read  171 from 1005: HIT
+read  145 from 2000: HIT
+write  207 to 2000: HIT
+read  242 from 6: HIT
+read  251 from 1006: HIT
+read  207 from 2000: HIT
+write   21 to 2000: HIT
+read  227 from 7: HIT
+read   70 from 1007: HIT
+read   21 from 2000: HIT
+write   39 to 2000: HIT
+mem write at 1944
+mem read at 8
+read  124 from 8: MISS
+mem write at 1952
+mem read at 1008
+read  194 from 1008: MISS
+read   39 from 2000: HIT
+write   31 to 2000: HIT
+read   84 from 9: HIT
+read  248 from 1009: HIT
+read   31 from 2000: HIT
+write  127 to 2000: HIT
+read   27 from 10: HIT
+read  232 from 1010: HIT
+read  127 from 2000: HIT
+write  247 to 2000: HIT
+read  231 from 11: HIT
+read  141 from 1011: HIT
+read  247 from 2000: HIT
+write   50 to 2000: HIT
+mem write at 1948
+mem read at 12
+read  118 from 12: MISS
+mem write at 948
+mem read at 1012
+read   90 from 1012: MISS
+read   50 from 2000: HIT
+write  174 to 2000: HIT
+read   46 from 13: HIT
+read   99 from 1013: HIT
+read  174 from 2000: HIT
+write  120 to 2000: HIT
+read   51 from 14: HIT
+read  159 from 1014: HIT
+read  120 from 2000: HIT
+write   37 to 2000: HIT
+read  201 from 15: HIT
+read  154 from 1015: HIT
+read   37 from 2000: HIT
+write   15 to 2000: HIT
+mem write at 960
+mem read at 16
+read  102 from 16: MISS
+mem write at 952
+mem read at 1016
+read   50 from 1016: MISS
+read   15 from 2000: HIT
+write  251 to 2000: HIT
+read   13 from 17: HIT
+read  183 from 1017: HIT
+read  251 from 2000: HIT
+write   70 to 2000: HIT
+read   49 from 18: HIT
+read   88 from 1018: HIT
+read   70 from 2000: HIT
+write   30 to 2000: HIT
+read  163 from 19: HIT
+read   90 from 1019: HIT
+read   30 from 2000: HIT
+write  108 to 2000: HIT
+mem write at 1956
+mem read at 20
+read   37 from 20: MISS
+mem write at 956
+mem read at 1020
+read   93 from 1020: MISS
+read  108 from 2000: HIT
+write  221 to 2000: HIT
+read    5 from 21: HIT
+read   23 from 1021: HIT
+read  221 from 2000: HIT
+write   80 to 2000: HIT
+read   88 from 22: HIT
+read  233 from 1022: HIT
+read   80 from 2000: HIT
+write  104 to 2000: HIT
+read   94 from 23: HIT
+read  212 from 1023: HIT
+read  104 from 2000: HIT
+write   64 to 2000: HIT
+mem write at 1960
+mem read at 24
+read  171 from 24: MISS
+mem write at 1968
+mem read at 1024
+read  178 from 1024: MISS
+read   64 from 2000: HIT
+write   38 to 2000: HIT
+read  205 from 25: HIT
+read  198 from 1025: HIT
+read   38 from 2000: HIT
+write  180 to 2000: HIT
+read  155 from 26: HIT
+read  180 from 1026: HIT
+read  180 from 2000: HIT
+write  176 to 2000: HIT
+read   84 from 27: HIT
+read   17 from 1027: HIT
+read  176 from 2000: HIT
+write   68 to 2000: HIT
+mem write at 1964
+mem read at 28
+read   14 from 28: MISS
+mem write at 964
+mem read at 1028
+read  130 from 1028: MISS
+read   68 from 2000: HIT
+write   96 to 2000: HIT
+read  116 from 29: HIT
+read   65 from 1029: HIT
+read   96 from 2000: HIT
+write  212 to 2000: HIT
+read   33 from 30: HIT
+read   61 from 1030: HIT
+read  212 from 2000: HIT
+write  177 to 2000: HIT
+read  220 from 31: HIT
+read  135 from 1031: HIT
+read  177 from 2000: HIT
+write  181 to 2000: HIT
+mem read at 32
+read  112 from 32: MISS
+mem write at 968
+mem read at 1032
+read  233 from 1032: MISS
+read  181 from 2000: HIT
+write  165 to 2000: HIT
+read   62 from 33: HIT
+read  161 from 1033: HIT
+read  165 from 2000: HIT
+write  163 to 2000: HIT
+read   65 from 34: HIT
+read  225 from 1034: HIT
+read  163 from 2000: HIT
+write  196 to 2000: HIT
+read  252 from 35: HIT
+read  103 from 1035: HIT
+read  196 from 2000: HIT
+write   40 to 2000: HIT
+mem write at 1972
+mem read at 36
+read   62 from 36: MISS
+mem write at 972
+mem read at 1036
+read    1 from 1036: MISS
+read   40 from 2000: HIT
+write  102 to 2000: HIT
+read  126 from 37: HIT
+read  151 from 1037: HIT
+read  102 from 2000: HIT
+write  184 to 2000: HIT
+read  234 from 38: HIT
+read  220 from 1038: HIT
+read  184 from 2000: HIT
+write  208 to 2000: HIT
+read  107 from 39: HIT
+read  150 from 1039: HIT
+read  208 from 2000: HIT
+write  130 to 2000: HIT
+mem read at 40
+read  143 from 40: MISS
+mem write at 976
+mem read at 1040
+read   56 from 1040: MISS
+read  130 from 2000: HIT
+write  202 to 2000: HIT
+read   92 from 41: HIT
+read   42 from 1041: HIT
+read  202 from 2000: HIT
+write  226 to 2000: HIT
+read  236 from 42: HIT
+read  176 from 1042: HIT
+read  226 from 2000: HIT
+write   34 to 2000: HIT
+read   59 from 43: HIT
+read  251 from 1043: HIT
+read   34 from 2000: HIT
+write  251 to 2000: HIT
+mem read at 44
+read   50 from 44: MISS
+mem read at 1044
+read  175 from 1044: MISS
+read  251 from 2000: HIT
+write   41 to 2000: HIT
+read   60 from 45: HIT
+read   84 from 1045: HIT
+read   41 from 2000: HIT
+write  217 to 2000: HIT
+read  236 from 46: HIT
+read   24 from 1046: HIT
+read  217 from 2000: HIT
+write  249 to 2000: HIT
+read  219 from 47: HIT
+read   92 from 1047: HIT
+read  249 from 2000: HIT
+write  173 to 2000: HIT
+mem read at 48
+read    2 from 48: MISS
+mem write at 1976
+mem read at 1048
+read   26 from 1048: MISS
+read  173 from 2000: HIT
+write  225 to 2000: HIT
+read  254 from 49: HIT
+read   67 from 1049: HIT
+read  225 from 2000: HIT
+write   91 to 2000: HIT
+read  251 from 50: HIT
+read  250 from 1050: HIT
+read   91 from 2000: HIT
+write  121 to 2000: HIT
+read  170 from 51: HIT
+read   58 from 1051: HIT
+read  121 from 2000: HIT
+write  253 to 2000: HIT
+mem write at 980
+mem read at 52
+read  251 from 52: MISS
+mem write at 1980
+mem read at 1052
+read   41 from 1052: MISS
+read  253 from 2000: HIT
+write   48 to 2000: HIT
+read  209 from 53: HIT
+read  230 from 1053: HIT
+read   48 from 2000: HIT
+write  246 to 2000: HIT
+read    5 from 54: HIT
+read   60 from 1054: HIT
+read  246 from 2000: HIT
+write   34 to 2000: HIT
+read  124 from 55: HIT
+read  148 from 1055: HIT
+read   34 from 2000: HIT
+write  210 to 2000: HIT
+mem read at 56
+read  117 from 56: MISS
+mem write at 1984
+mem read at 1056
+read  216 from 1056: MISS
+read  210 from 2000: HIT
+write  138 to 2000: HIT
+read  190 from 57: HIT
+read   97 from 1057: HIT
+read  138 from 2000: HIT
+write  136 to 2000: HIT
+read  137 from 58: HIT
+read  249 from 1058: HIT
+read  136 from 2000: HIT
+write  201 to 2000: HIT
+read   92 from 59: HIT
+read  187 from 1059: HIT
+read  201 from 2000: HIT
+write  253 to 2000: HIT
+mem read at 60
+read  168 from 60: MISS
+mem read at 1060
+read  153 from 1060: MISS
+read  253 from 2000: HIT
+write  101 to 2000: HIT
+read   15 from 61: HIT
+read  149 from 1061: HIT
+read  101 from 2000: HIT
+write   32 to 2000: HIT
+read  177 from 62: HIT
+read  235 from 1062: HIT
+read   32 from 2000: HIT
+write  155 to 2000: HIT
+read  241 from 63: HIT
+read  179 from 1063: HIT
+read  155 from 2000: HIT
+write   30 to 2000: HIT
+mem read at 64
+read    5 from 64: MISS
+mem write at 984
+mem read at 1064
+read  239 from 1064: MISS
+read   30 from 2000: HIT
+write  201 to 2000: HIT
+read  247 from 65: HIT
+read    0 from 1065: HIT
+read  201 from 2000: HIT
+write  201 to 2000: HIT
+read  233 from 66: HIT
+read  161 from 1066: HIT
+read  201 from 2000: HIT
+write   82 to 2000: HIT
+read   58 from 67: HIT
+read  229 from 1067: HIT
+read   82 from 2000: HIT
+write   52 to 2000: HIT
+mem write at 1988
+mem read at 68
+read  202 from 68: MISS
+mem write at 988
+mem read at 1068
+read   11 from 1068: MISS
+read   52 from 2000: HIT
+write  226 to 2000: HIT
+read  203 from 69: HIT
+read  208 from 1069: HIT
+read  226 from 2000: HIT
+write  210 to 2000: HIT
+read   72 from 70: HIT
+read   71 from 1070: HIT
+read  210 from 2000: HIT
+write  202 to 2000: HIT
+read  100 from 71: HIT
+read  189 from 1071: HIT
+read  202 from 2000: HIT
+write  158 to 2000: HIT
+mem read at 72
+read   31 from 72: MISS
+mem write at 992
+mem read at 1072
+read   35 from 1072: MISS
+read  158 from 2000: HIT
+write  219 to 2000: HIT
+read   30 from 73: HIT
+read  168 from 1073: HIT
+read  219 from 2000: HIT
+write  139 to 2000: HIT
+read   28 from 74: HIT
+read  123 from 1074: HIT
+read  139 from 2000: HIT
+write  255 to 2000: HIT
+read  100 from 75: HIT
+read  197 from 1075: HIT
+read  255 from 2000: HIT
+write  243 to 2000: HIT
+mem read at 76
+read   20 from 76: MISS
+mem read at 1076
+read  115 from 1076: MISS
+read  243 from 2000: HIT
+write  239 to 2000: HIT
+read   90 from 77: HIT
+read  197 from 1077: HIT
+read  239 from 2000: HIT
+write   49 to 2000: HIT
+read   94 from 78: HIT
+read   75 from 1078: HIT
+read   49 from 2000: HIT
+write  187 to 2000: HIT
+read  121 from 79: HIT
+read   99 from 1079: HIT
+read  187 from 2000: HIT
+write  134 to 2000: HIT
+mem read at 80
+read   59 from 80: MISS
+mem write at 1992
+mem read at 1080
+read  112 from 1080: MISS
+read  134 from 2000: HIT
+write   86 to 2000: HIT
+read  100 from 81: HIT
+read   36 from 1081: HIT
+read   86 from 2000: HIT
+write  102 to 2000: HIT
+read   17 from 82: HIT
+read  158 from 1082: HIT
+read  102 from 2000: HIT
+write  228 to 2000: HIT
+read    9 from 83: HIT
+read  220 from 1083: HIT
+read  228 from 2000: HIT
+write  160 to 2000: HIT
+mem write at 996
+mem read at 84
+read  170 from 84: MISS
+mem write at 1996
+mem read at 1084
+read  212 from 1084: MISS
+read  160 from 2000: HIT
+write  104 to 2000: HIT
+read  172 from 85: HIT
+read  242 from 1085: HIT
+read  104 from 2000: HIT
+write    0 to 2000: HIT
+read   27 from 86: HIT
+read   16 from 1086: HIT
+read    0 from 2000: HIT
+write  176 to 2000: HIT
+read  175 from 87: HIT
+read   59 from 1087: HIT
+read  176 from 2000: HIT
+write    5 to 2000: HIT
+mem read at 88
+read   51 from 88: MISS
+mem read at 1088
+read  205 from 1088: MISS
+read    5 from 2000: HIT
+write  220 to 2000: HIT
+read  227 from 89: HIT
+read   80 from 1089: HIT
+read  220 from 2000: HIT
+write  204 to 2000: HIT
+read   72 from 90: HIT
+read   71 from 1090: HIT
+read  204 from 2000: HIT
+write  196 to 2000: HIT
+read   21 from 91: HIT
+read   92 from 1091: HIT
+read  196 from 2000: HIT
+write   80 to 2000: HIT
+mem read at 92
+read  187 from 92: MISS
+mem read at 1092
+read  111 from 1092: MISS
+read   80 from 2000: HIT
+write  101 to 2000: HIT
+read   34 from 93: HIT
+read   25 from 1093: HIT
+read  101 from 2000: HIT
+write  183 to 2000: HIT
+read  186 from 94: HIT
+read  155 from 1094: HIT
+read  183 from 2000: HIT
+write   85 to 2000: HIT
+read  125 from 95: HIT
+read  245 from 1095: HIT
+read   85 from 2000: HIT
+write  246 to 2000: HIT
+mem read at 96
+read   11 from 96: MISS
+mem read at 1096
+read  225 from 1096: MISS
+read  246 from 2000: HIT
+write  161 to 2000: HIT
+read   26 from 97: HIT
+read   28 from 1097: HIT
+read  161 from 2000: HIT
+write  121 to 2000: HIT
+read  127 from 98: HIT
+read   35 from 1098: HIT
+read  121 from 2000: HIT
+write  214 to 2000: HIT
+read  248 from 99: HIT
+read   41 from 1099: HIT
+read  214 from 2000: HIT
+write  142 to 2000: HIT
+mem read at 100
+read  248 from 100: MISS
+mem read at 1100
+read  164 from 1100: MISS
+read  142 from 2000: HIT
+write  110 to 2000: HIT
+read   27 from 101: HIT
+read   19 from 1101: HIT
+read  110 from 2000: HIT
+write  111 to 2000: HIT
+read  181 from 102: HIT
+read  202 from 1102: HIT
+read  111 from 2000: HIT
+write   65 to 2000: HIT
+read   78 from 103: HIT
+read  232 from 1103: HIT
+read   65 from 2000: HIT
+write  241 to 2000: HIT
+mem read at 104
+read  152 from 104: MISS
+mem read at 1104
+read   50 from 1104: MISS
+read  241 from 2000: HIT
+write  161 to 2000: HIT
+read   56 from 105: HIT
+read  224 from 1105: HIT
+read  161 from 2000: HIT
+write  161 to 2000: HIT
+read  121 from 106: HIT
+read   77 from 1106: HIT
+read  161 from 2000: HIT
+write    6 to 2000: HIT
+read   61 from 107: HIT
+read   52 from 1107: HIT
+read    6 from 2000: HIT
+write  106 to 2000: HIT
+mem read at 108
+read  188 from 108: MISS
+mem read at 1108
+read   95 from 1108: MISS
+read  106 from 2000: HIT
+write   46 to 2000: HIT
+read   78 from 109: HIT
+read  119 from 1109: HIT
+read   46 from 2000: HIT
+write  112 to 2000: HIT
+read  250 from 110: HIT
+read  203 from 1110: HIT
+read  112 from 2000: HIT
+write  174 to 2000: HIT
+read  108 from 111: HIT
+read    5 from 1111: HIT
+read  174 from 2000: HIT
+write  202 to 2000: HIT
+mem read at 112
+read  172 from 112: MISS
+mem read at 1112
+read  134 from 1112: MISS
+read  202 from 2000: HIT
+write  210 to 2000: HIT
+read   33 from 113: HIT
+read   43 from 1113: HIT
+read  210 from 2000: HIT
+write   93 to 2000: HIT
+read  170 from 114: HIT
+read   26 from 1114: HIT
+read   93 from 2000: HIT
+write  161 to 2000: HIT
+read   85 from 115: HIT
+read  162 from 1115: HIT
+read  161 from 2000: HIT
+write  107 to 2000: HIT
+mem read at 116
+read  190 from 116: MISS
+mem read at 1116
+read  112 from 1116: MISS
+read  107 from 2000: HIT
+write  139 to 2000: HIT
+read  181 from 117: HIT
+read  115 from 1117: HIT
+read  139 from 2000: HIT
+write  218 to 2000: HIT
+read   59 from 118: HIT
+read    4 from 1118: HIT
+read  218 from 2000: HIT
+write  198 to 2000: HIT
+read   92 from 119: HIT
+read  211 from 1119: HIT
+read  198 from 2000: HIT
+write  154 to 2000: HIT
+mem read at 120
+read   54 from 120: MISS
+mem read at 1120
+read  148 from 1120: MISS
+read  154 from 2000: HIT
+write  210 to 2000: HIT
+read  179 from 121: HIT
+read  175 from 1121: HIT
+read  210 from 2000: HIT
+write   47 to 2000: HIT
+read  226 from 122: HIT
+read  240 from 1122: HIT
+read   47 from 2000: HIT
+write   15 to 2000: HIT
+read  228 from 123: HIT
+read  158 from 1123: HIT
+read   15 from 2000: HIT
+write  199 to 2000: HIT
+mem read at 124
+read   79 from 124: MISS
+mem read at 1124
+read   50 from 1124: MISS
+read  199 from 2000: HIT
+write   53 to 2000: HIT
+read   21 from 125: HIT
+read   73 from 1125: HIT
+read   53 from 2000: HIT
+write   50 to 2000: HIT
+read  253 from 126: HIT
+read  130 from 1126: HIT
+read   50 from 2000: HIT
+write  172 to 2000: HIT
+read   78 from 127: HIT
+read  169 from 1127: HIT
+read  172 from 2000: HIT
+write   42 to 2000: HIT
+mem read at 128
+read    8 from 128: MISS
+mem read at 1128
+read  112 from 1128: MISS
+read   42 from 2000: HIT
+write  170 to 2000: HIT
+read  212 from 129: HIT
+read  178 from 1129: HIT
+read  170 from 2000: HIT
+write   18 to 2000: HIT
+read  138 from 130: HIT
+read   41 from 1130: HIT
+read   18 from 2000: HIT
+write   44 to 2000: HIT
+read   84 from 131: HIT
+read   72 from 1131: HIT
+read   44 from 2000: HIT
+write  204 to 2000: HIT
+mem read at 132
+read  154 from 132: MISS
+mem read at 1132
+read   10 from 1132: MISS
+read  204 from 2000: HIT
+write  208 to 2000: HIT
+read  188 from 133: HIT
+read  213 from 1133: HIT
+read  208 from 2000: HIT
+write   60 to 2000: HIT
+read   14 from 134: HIT
+read   24 from 1134: HIT
+read   60 from 2000: HIT
+write  140 to 2000: HIT
+read  168 from 135: HIT
+read   68 from 1135: HIT
+read  140 from 2000: HIT
+write   44 to 2000: HIT
+mem read at 136
+read  172 from 136: MISS
+mem read at 1136
+read   91 from 1136: MISS
+read   44 from 2000: HIT
+write   80 to 2000: HIT
+read  243 from 137: HIT
+read  142 from 1137: HIT
+read   80 from 2000: HIT
+write   26 to 2000: HIT
+read   76 from 138: HIT
+read  215 from 1138: HIT
+read   26 from 2000: HIT
+write  238 to 2000: HIT
+read   45 from 139: HIT
+read  155 from 1139: HIT
+read  238 from 2000: HIT
+write   45 to 2000: HIT
+mem read at 140
+read    9 from 140: MISS
+mem read at 1140
+read   66 from 1140: MISS
+read   45 from 2000: HIT
+write  127 to 2000: HIT
+read  229 from 141: HIT
+read    6 from 1141: HIT
+read  127 from 2000: HIT
+write  221 to 2000: HIT
+read  196 from 142: HIT
+read   51 from 1142: HIT
+read  221 from 2000: HIT
+write  233 to 2000: HIT
+read  175 from 143: HIT
+read  205 from 1143: HIT
+read  233 from 2000: HIT
+write   12 to 2000: HIT
+mem read at 144
+read  163 from 144: MISS
+mem read at 1144
+read  132 from 1144: MISS
+read   12 from 2000: HIT
+write   24 to 2000: HIT
+read  127 from 145: HIT
+read   45 from 1145: HIT
+read   24 from 2000: HIT
+write  107 to 2000: HIT
+read  173 from 146: HIT
+read  212 from 1146: HIT
+read  107 from 2000: HIT
+write  175 to 2000: HIT
+read  118 from 147: HIT
+read   71 from 1147: HIT
+read  175 from 2000: HIT
+write  105 to 2000: HIT
+mem read at 148
+read  222 from 148: MISS
+mem read at 1148
+read   50 from 1148: MISS
+read  105 from 2000: HIT
+write  197 to 2000: HIT
+read   28 from 149: HIT
+read  236 from 1149: HIT
+read  197 from 2000: HIT
+write  149 to 2000: HIT
+read   74 from 150: HIT
+read  196 from 1150: HIT
+read  149 from 2000: HIT
+write   61 to 2000: HIT
+read   48 from 151: HIT
+read  246 from 1151: HIT
+read   61 from 2000: HIT
+write   93 to 2000: HIT
+mem read at 152
+read   32 from 152: MISS
+mem read at 1152
+read   35 from 1152: MISS
+read   93 from 2000: HIT
+write  189 to 2000: HIT
+read  133 from 153: HIT
+read  108 from 1153: HIT
+read  189 from 2000: HIT
+write  217 to 2000: HIT
+read  251 from 154: HIT
+read  178 from 1154: HIT
+read  217 from 2000: HIT
+write   95 to 2000: HIT
+read    7 from 155: HIT
+read    4 from 1155: HIT
+read   95 from 2000: HIT
+write  123 to 2000: HIT
+mem read at 156
+read  244 from 156: MISS
+mem read at 1156
+read  236 from 1156: MISS
+read  123 from 2000: HIT
+write  107 to 2000: HIT
+read   11 from 157: HIT
+read  185 from 1157: HIT
+read  107 from 2000: HIT
+write   94 to 2000: HIT
+read   32 from 158: HIT
+read  186 from 1158: HIT
+read   94 from 2000: HIT
+write  158 to 2000: HIT
+read  134 from 159: HIT
+read  195 from 1159: HIT
+read  158 from 2000: HIT
+write  176 to 2000: HIT
+mem read at 160
+read   62 from 160: MISS
+mem read at 1160
+read    5 from 1160: MISS
+read  176 from 2000: HIT
+write  230 to 2000: HIT
+read  241 from 161: HIT
+read  236 from 1161: HIT
+read  230 from 2000: HIT
+write   18 to 2000: HIT
+read  217 from 162: HIT
+read  103 from 1162: HIT
+read   18 from 2000: HIT
+write   97 to 2000: HIT
+read   51 from 163: HIT
+read  183 from 1163: HIT
+read   97 from 2000: HIT
+write  214 to 2000: HIT
+mem read at 164
+read  153 from 164: MISS
+mem read at 1164
+read   80 from 1164: MISS
+read  214 from 2000: HIT
+write  166 to 2000: HIT
+read  163 from 165: HIT
+read  227 from 1165: HIT
+read  166 from 2000: HIT
+write   47 to 2000: HIT
+read   20 from 166: HIT
+read  211 from 1166: HIT
+read   47 from 2000: HIT
+write  171 to 2000: HIT
+read  217 from 167: HIT
+read   52 from 1167: HIT
+read  171 from 2000: HIT
+write  191 to 2000: HIT
+mem read at 168
+read  247 from 168: MISS
+mem read at 1168
+read   94 from 1168: MISS
+read  191 from 2000: HIT
+write  113 to 2000: HIT
+read  160 from 169: HIT
+read  242 from 1169: HIT
+read  113 from 2000: HIT
+write  177 to 2000: HIT
+read   16 from 170: HIT
+read  168 from 1170: HIT
+read  177 from 2000: HIT
+write   49 to 2000: HIT
+read  246 from 171: HIT
+read    5 from 1171: HIT
+read   49 from 2000: HIT
+write  255 to 2000: HIT
+mem read at 172
+read  148 from 172: MISS
+mem read at 1172
+read    1 from 1172: MISS
+read  255 from 2000: HIT
+write  147 to 2000: HIT
+read  190 from 173: HIT
+read  180 from 1173: HIT
+read  147 from 2000: HIT
+write   43 to 2000: HIT
+read  188 from 174: HIT
+read   68 from 1174: HIT
+read   43 from 2000: HIT
+write   27 to 2000: HIT
+read  120 from 175: HIT
+read  250 from 1175: HIT
+read   27 from 2000: HIT
+write   75 to 2000: HIT
+mem read at 176
+read   73 from 176: MISS
+mem read at 1176
+read  105 from 1176: MISS
+read   75 from 2000: HIT
+write   60 to 2000: HIT
+read  230 from 177: HIT
+read   35 from 1177: HIT
+read   60 from 2000: HIT
+write  174 to 2000: HIT
+read  208 from 178: HIT
+read   26 from 1178: HIT
+read  174 from 2000: HIT
+write  206 to 2000: HIT
+read  218 from 179: HIT
+read  105 from 1179: HIT
+read  206 from 2000: HIT
+write   56 to 2000: HIT
+mem read at 180
+read  106 from 180: MISS
+mem read at 1180
+read  126 from 1180: MISS
+read   56 from 2000: HIT
+write  100 to 2000: HIT
+read   76 from 181: HIT
+read  126 from 1181: HIT
+read  100 from 2000: HIT
+write  204 to 2000: HIT
+read   81 from 182: HIT
+read   37 from 1182: HIT
+read  204 from 2000: HIT
+write  129 to 2000: HIT
+read  179 from 183: HIT
+read   72 from 1183: HIT
+read  129 from 2000: HIT
+write  217 to 2000: HIT
+mem read at 184
+read  132 from 184: MISS
+mem read at 1184
+read   83 from 1184: MISS
+read  217 from 2000: HIT
+write  165 to 2000: HIT
+read   58 from 185: HIT
+read  148 from 1185: HIT
+read  165 from 2000: HIT
+write   45 to 2000: HIT
+read  251 from 186: HIT
+read   49 from 1186: HIT
+read   45 from 2000: HIT
+write   56 to 2000: HIT
+read  153 from 187: HIT
+read  144 from 1187: HIT
+read   56 from 2000: HIT
+write   72 to 2000: HIT
+mem read at 188
+read   50 from 188: MISS
+mem read at 1188
+read   87 from 1188: MISS
+read   72 from 2000: HIT
+write   70 to 2000: HIT
+read   68 from 189: HIT
+read  238 from 1189: HIT
+read   70 from 2000: HIT
+write  126 to 2000: HIT
+read  155 from 190: HIT
+read  188 from 1190: HIT
+read  126 from 2000: HIT
+write   82 to 2000: HIT
+read  233 from 191: HIT
+read  229 from 1191: HIT
+read   82 from 2000: HIT
+write  191 to 2000: HIT
+mem read at 192
+read   37 from 192: MISS
+mem read at 1192
+read  207 from 1192: MISS
+read  191 from 2000: HIT
+write  170 to 2000: HIT
+read    8 from 193: HIT
+read  245 from 1193: HIT
+read  170 from 2000: HIT
+write   82 to 2000: HIT
+read  233 from 194: HIT
+read  226 from 1194: HIT
+read   82 from 2000: HIT
+write    4 to 2000: HIT
+read   94 from 195: HIT
+read   83 from 1195: HIT
+read    4 from 2000: HIT
+write  126 to 2000: HIT
+mem read at 196
+read   96 from 196: MISS
+mem read at 1196
+read  170 from 1196: MISS
+read  126 from 2000: HIT
+write   62 to 2000: HIT
+read  210 from 197: HIT
+read  178 from 1197: HIT
+read   62 from 2000: HIT
+write   66 to 2000: HIT
+read  208 from 198: HIT
+read  133 from 1198: HIT
+read   66 from 2000: HIT
+write   82 to 2000: HIT
+read  250 from 199: HIT
+read   84 from 1199: HIT
+read   82 from 2000: HIT
+write   90 to 2000: HIT
+mem read at 200
+read  216 from 200: MISS
+mem read at 1200
+read   53 from 1200: MISS
+read   90 from 2000: HIT
+write   18 to 2000: HIT
+read  232 from 201: HIT
+read  212 from 1201: HIT
+read   18 from 2000: HIT
+write   50 to 2000: HIT
+read  102 from 202: HIT
+read  130 from 1202: HIT
+read   50 from 2000: HIT
+write  254 to 2000: HIT
+read  100 from 203: HIT
+read  152 from 1203: HIT
+read  254 from 2000: HIT
+write   94 to 2000: HIT
+mem read at 204
+read  217 from 204: MISS
+mem read at 1204
+read  168 from 1204: MISS
+read   94 from 2000: HIT
+write  198 to 2000: HIT
+read  135 from 205: HIT
+read  117 from 1205: HIT
+read  198 from 2000: HIT
+write  121 to 2000: HIT
+read  101 from 206: HIT
+read  112 from 1206: HIT
+read  121 from 2000: HIT
+write  169 to 2000: HIT
+read   90 from 207: HIT
+read  138 from 1207: HIT
+read  169 from 2000: HIT
+write   45 to 2000: HIT
+mem read at 208
+read   63 from 208: MISS
+mem read at 1208
+read   98 from 1208: MISS
+read   45 from 2000: HIT
+write   75 to 2000: HIT
+read  128 from 209: HIT
+read   41 from 1209: HIT
+read   75 from 2000: HIT
+write  203 to 2000: HIT
+read   68 from 210: HIT
+read  222 from 1210: HIT
+read  203 from 2000: HIT
+write  195 to 2000: HIT
+read  124 from 211: HIT
+read  165 from 1211: HIT
+read  195 from 2000: HIT
+write  175 to 2000: HIT
+mem read at 212
+read  137 from 212: MISS
+mem read at 1212
+read   78 from 1212: MISS
+read  175 from 2000: HIT
+write  109 to 2000: HIT
+read   87 from 213: HIT
+read   89 from 1213: HIT
+read  109 from 2000: HIT
+write  172 to 2000: HIT
+read  211 from 214: HIT
+read   81 from 1214: HIT
+read  172 from 2000: HIT
+write  111 to 2000: HIT
+read  173 from 215: HIT
+read  172 from 1215: HIT
+read  111 from 2000: HIT
+write  171 to 2000: HIT
+mem read at 216
+read  134 from 216: MISS
+mem read at 1216
+read  149 from 1216: MISS
+read  171 from 2000: HIT
+write  169 to 2000: HIT
+read  128 from 217: HIT
+read  236 from 1217: HIT
+read  169 from 2000: HIT
+write  169 to 2000: HIT
+read   23 from 218: HIT
+read  228 from 1218: HIT
+read  169 from 2000: HIT
+write   37 to 2000: HIT
+read  133 from 219: HIT
+read  241 from 1219: HIT
+read   37 from 2000: HIT
+write   90 to 2000: HIT
+mem read at 220
+read  140 from 220: MISS
+mem read at 1220
+read   12 from 1220: MISS
+read   90 from 2000: HIT
+write  234 to 2000: HIT
+read  102 from 221: HIT
+read  241 from 1221: HIT
+read  234 from 2000: HIT
+write  240 to 2000: HIT
+read  124 from 222: HIT
+read  192 from 1222: HIT
+read  240 from 2000: HIT
+write  240 to 2000: HIT
+read  124 from 223: HIT
+read  187 from 1223: HIT
+read  240 from 2000: HIT
+write  132 to 2000: HIT
+mem read at 224
+read   34 from 224: MISS
+mem read at 1224
+read  252 from 1224: MISS
+read  132 from 2000: HIT
+write  252 to 2000: HIT
+read  228 from 225: HIT
+read  102 from 1225: HIT
+read  252 from 2000: HIT
+write  212 to 2000: HIT
+read  218 from 226: HIT
+read   97 from 1226: HIT
+read  212 from 2000: HIT
+write  110 to 2000: HIT
+read   11 from 227: HIT
+read   99 from 1227: HIT
+read  110 from 2000: HIT
+write  175 to 2000: HIT
+mem read at 228
+read  175 from 228: MISS
+mem read at 1228
+read   98 from 1228: MISS
+read  175 from 2000: HIT
+write  173 to 2000: HIT
+read  188 from 229: HIT
+read  131 from 1229: HIT
+read  173 from 2000: HIT
+write  225 to 2000: HIT
+read  180 from 230: HIT
+read  105 from 1230: HIT
+read  225 from 2000: HIT
+write  181 to 2000: HIT
+read   47 from 231: HIT
+read   58 from 1231: HIT
+read  181 from 2000: HIT
+write   91 to 2000: HIT
+mem read at 232
+read  255 from 232: MISS
+mem read at 1232
+read  175 from 1232: MISS
+read   91 from 2000: HIT
+write  172 to 2000: HIT
+read   39 from 233: HIT
+read   22 from 1233: HIT
+read  172 from 2000: HIT
+write    6 to 2000: HIT
+read  147 from 234: HIT
+read  172 from 1234: HIT
+read    6 from 2000: HIT
+write  202 to 2000: HIT
+read    7 from 235: HIT
+read   31 from 1235: HIT
+read  202 from 2000: HIT
+write  163 to 2000: HIT
+mem read at 236
+read  184 from 236: MISS
+mem read at 1236
+read  109 from 1236: MISS
+read  163 from 2000: HIT
+write  251 to 2000: HIT
+read   17 from 237: HIT
+read   52 from 1237: HIT
+read  251 from 2000: HIT
+write  111 to 2000: HIT
+read   45 from 238: HIT
+read  141 from 1238: HIT
+read  111 from 2000: HIT
+write   56 to 2000: HIT
+read  239 from 239: HIT
+read   79 from 1239: HIT
+read   56 from 2000: HIT
+write  249 to 2000: HIT
+mem read at 240
+read  137 from 240: MISS
+mem read at 1240
+read  212 from 1240: MISS
+read  249 from 2000: HIT
+write  109 to 2000: HIT
+read  182 from 241: HIT
+read   99 from 1241: HIT
+read  109 from 2000: HIT
+write  207 to 2000: HIT
+read   53 from 242: HIT
+read  193 from 1242: HIT
+read  207 from 2000: HIT
+write  196 to 2000: HIT
+read  199 from 243: HIT
+read  228 from 1243: HIT
+read  196 from 2000: HIT
+write    0 to 2000: HIT
+mem read at 244
+read   36 from 244: MISS
+mem read at 1244
+read  131 from 1244: MISS
+read    0 from 2000: HIT
+write  108 to 2000: HIT
+read  103 from 245: HIT
+read  216 from 1245: HIT
+read  108 from 2000: HIT
+write   84 to 2000: HIT
+read  237 from 246: HIT
+read  150 from 1246: HIT
+read   84 from 2000: HIT
+write   50 to 2000: HIT
+read   18 from 247: HIT
+read  236 from 1247: HIT
+read   50 from 2000: HIT
+write  202 to 2000: HIT
+mem read at 248
+read   69 from 248: MISS
+mem read at 1248
+read   57 from 1248: MISS
+read  202 from 2000: HIT
+write   39 to 2000: HIT
+read    2 from 249: HIT
+read  216 from 1249: HIT
+read   39 from 2000: HIT
+write  215 to 2000: HIT
+read  229 from 250: HIT
+read   10 from 1250: HIT
+read  215 from 2000: HIT
+write  201 to 2000: HIT
+read  248 from 251: HIT
+read  157 from 1251: HIT
+read  201 from 2000: HIT
+write  225 to 2000: HIT
+mem read at 252
+read  119 from 252: MISS
+mem read at 1252
+read    9 from 1252: MISS
+read  225 from 2000: HIT
+write   16 to 2000: HIT
+read  209 from 253: HIT
+read  165 from 1253: HIT
+read   16 from 2000: HIT
+write  197 to 2000: HIT
+read  150 from 254: HIT
+read  193 from 1254: HIT
+read  197 from 2000: HIT
+write  219 to 2000: HIT
+read  244 from 255: HIT
+read   31 from 1255: HIT
+read  219 from 2000: HIT
+write  103 to 2000: HIT
+mem read at 256
+read  149 from 256: MISS
+mem read at 1256
+read  170 from 1256: MISS
+read  103 from 2000: HIT
+write   89 to 2000: HIT
+read  130 from 257: HIT
+read  202 from 1257: HIT
+read   89 from 2000: HIT
+write  237 to 2000: HIT
+read  108 from 258: HIT
+read   73 from 1258: HIT
+read  237 from 2000: HIT
+write  185 to 2000: HIT
+read  174 from 259: HIT
+read  144 from 1259: HIT
+read  185 from 2000: HIT
+write  153 to 2000: HIT
+mem read at 260
+read  205 from 260: MISS
+mem read at 1260
+read   22 from 1260: MISS
+read  153 from 2000: HIT
+write   55 to 2000: HIT
+read  104 from 261: HIT
+read  186 from 1261: HIT
+read   55 from 2000: HIT
+write  199 to 2000: HIT
+read  172 from 262: HIT
+read  122 from 1262: HIT
+read  199 from 2000: HIT
+write  191 to 2000: HIT
+read  166 from 263: HIT
+read  242 from 1263: HIT
+read  191 from 2000: HIT
+write  171 to 2000: HIT
+mem read at 264
+read  180 from 264: MISS
+mem read at 1264
+read  168 from 1264: MISS
+read  171 from 2000: HIT
+write  203 to 2000: HIT
+read  202 from 265: HIT
+read  153 from 1265: HIT
+read  203 from 2000: HIT
+write  133 to 2000: HIT
+read  178 from 266: HIT
+read  194 from 1266: HIT
+read  133 from 2000: HIT
+write  105 to 2000: HIT
+read   55 from 267: HIT
+read   42 from 1267: HIT
+read  105 from 2000: HIT
+write  111 to 2000: HIT
+mem read at 268
+read  203 from 268: MISS
+mem read at 1268
+read    8 from 1268: MISS
+read  111 from 2000: HIT
+write  199 to 2000: HIT
+read  207 from 269: HIT
+read   97 from 1269: HIT
+read  199 from 2000: HIT
+write   54 to 2000: HIT
+read  201 from 270: HIT
+read  195 from 1270: HIT
+read   54 from 2000: HIT
+write   81 to 2000: HIT
+read  128 from 271: HIT
+read   94 from 1271: HIT
+read   81 from 2000: HIT
+write   81 to 2000: HIT
+mem read at 272
+read  110 from 272: MISS
+mem read at 1272
+read    3 from 1272: MISS
+read   81 from 2000: HIT
+write  155 to 2000: HIT
+read   40 from 273: HIT
+read  218 from 1273: HIT
+read  155 from 2000: HIT
+write  171 to 2000: HIT
+read   76 from 274: HIT
+read  215 from 1274: HIT
+read  171 from 2000: HIT
+write  127 to 2000: HIT
+read  106 from 275: HIT
+read   25 from 1275: HIT
+read  127 from 2000: HIT
+write  217 to 2000: HIT
+mem read at 276
+read  237 from 276: MISS
+mem read at 1276
+read  210 from 1276: MISS
+read  217 from 2000: HIT
+write   67 to 2000: HIT
+read  211 from 277: HIT
+read  153 from 1277: HIT
+read   67 from 2000: HIT
+write   94 to 2000: HIT
+read   76 from 278: HIT
+read  121 from 1278: HIT
+read   94 from 2000: HIT
+write   74 to 2000: HIT
+read  139 from 279: HIT
+read    0 from 1279: HIT
+read   74 from 2000: HIT
+write   74 to 2000: HIT
+mem read at 280
+read   34 from 280: MISS
+mem read at 1280
+read   86 from 1280: MISS
+read   74 from 2000: HIT
+write  182 to 2000: HIT
+read  154 from 281: HIT
+read  212 from 1281: HIT
+read  182 from 2000: HIT
+write   62 to 2000: HIT
+read   24 from 282: HIT
+read  209 from 1282: HIT
+read   62 from 2000: HIT
+write  214 to 2000: HIT
+read  254 from 283: HIT
+read  228 from 1283: HIT
+read  214 from 2000: HIT
+write   14 to 2000: HIT
+mem read at 284
+read  217 from 284: MISS
+mem read at 1284
+read  205 from 1284: MISS
+read   14 from 2000: HIT
+write  211 to 2000: HIT
+read   69 from 285: HIT
+read  163 from 1285: HIT
+read  211 from 2000: HIT
+write  194 to 2000: HIT
+read  145 from 286: HIT
+read  198 from 1286: HIT
+read  194 from 2000: HIT
+write  232 to 2000: HIT
+read    1 from 287: HIT
+read  255 from 1287: HIT
+read  232 from 2000: HIT
+write  231 to 2000: HIT
+mem read at 288
+read  201 from 288: MISS
+mem read at 1288
+read   42 from 1288: MISS
+read  231 from 2000: HIT
+write  225 to 2000: HIT
+read  217 from 289: HIT
+read   21 from 1289: HIT
+read  225 from 2000: HIT
+write  174 to 2000: HIT
+read    1 from 290: HIT
+read   67 from 1290: HIT
+read  174 from 2000: HIT
+write  241 to 2000: HIT
+read   47 from 291: HIT
+read  238 from 1291: HIT
+read  241 from 2000: HIT
+write  163 to 2000: HIT
+mem read at 292
+read   21 from 292: MISS
+mem read at 1292
+read    2 from 1292: MISS
+read  163 from 2000: HIT
+write  205 to 2000: HIT
+read  135 from 293: HIT
+read   97 from 1293: HIT
+read  205 from 2000: HIT
+write  244 to 2000: HIT
+read  124 from 294: HIT
+read   19 from 1294: HIT
+read  244 from 2000: HIT
+write   40 to 2000: HIT
+read   98 from 295: HIT
+read  158 from 1295: HIT
+read   40 from 2000: HIT
+write  164 to 2000: HIT
+mem read at 296
+read  105 from 296: MISS
+mem read at 1296
+read  252 from 1296: MISS
+read  164 from 2000: HIT
+write    0 to 2000: HIT
+read  114 from 297: HIT
+read  129 from 1297: HIT
+read    0 from 2000: HIT
+write  114 to 2000: HIT
+read  205 from 298: HIT
+read  113 from 1298: HIT
+read  114 from 2000: HIT
+write  239 to 2000: HIT
+read  101 from 299: HIT
+read  166 from 1299: HIT
+read  239 from 2000: HIT
+write  109 to 2000: HIT
+mem read at 300
+read   62 from 300: MISS
+mem read at 1300
+read  171 from 1300: MISS
+read  109 from 2000: HIT
+write  215 to 2000: HIT
+read   73 from 301: HIT
+read  207 from 1301: HIT
+read  215 from 2000: HIT
+write  222 to 2000: HIT
+read  113 from 302: HIT
+read   75 from 1302: HIT
+read  222 from 2000: HIT
+write  249 to 2000: HIT
+read  206 from 303: HIT
+read   58 from 1303: HIT
+read  249 from 2000: HIT
+write  165 to 2000: HIT
+mem read at 304
+read  117 from 304: MISS
+mem read at 1304
+read  167 from 1304: MISS
+read  165 from 2000: HIT
+write  248 to 2000: HIT
+read   79 from 305: HIT
+read  118 from 1305: HIT
+read  248 from 2000: HIT
+write   98 to 2000: HIT
+read  234 from 306: HIT
+read  126 from 1306: HIT
+read   98 from 2000: HIT
+write  142 to 2000: HIT
+read  100 from 307: HIT
+read  255 from 1307: HIT
+read  142 from 2000: HIT
+write   42 to 2000: HIT
+mem read at 308
+read  129 from 308: MISS
+mem read at 1308
+read  235 from 1308: MISS
+read   42 from 2000: HIT
+write  149 to 2000: HIT
+read   97 from 309: HIT
+read  253 from 1309: HIT
+read  149 from 2000: HIT
+write  114 to 2000: HIT
+read  254 from 310: HIT
+read  195 from 1310: HIT
+read  114 from 2000: HIT
+write  236 to 2000: HIT
+read  155 from 311: HIT
+read  103 from 1311: HIT
+read  236 from 2000: HIT
+write   73 to 2000: HIT
+mem read at 312
+read  191 from 312: MISS
+mem read at 1312
+read   13 from 1312: MISS
+read   73 from 2000: HIT
+write  252 to 2000: HIT
+read  233 from 313: HIT
+read  140 from 1313: HIT
+read  252 from 2000: HIT
+write  104 to 2000: HIT
+read  126 from 314: HIT
+read   78 from 1314: HIT
+read  104 from 2000: HIT
+write  204 to 2000: HIT
+read   50 from 315: HIT
+read  189 from 1315: HIT
+read  204 from 2000: HIT
+write  182 to 2000: HIT
+mem read at 316
+read  249 from 316: MISS
+mem read at 1316
+read  124 from 1316: MISS
+read  182 from 2000: HIT
+write   82 to 2000: HIT
+read  140 from 317: HIT
+read  106 from 1317: HIT
+read   82 from 2000: HIT
+write   74 to 2000: HIT
+read  199 from 318: HIT
+read   91 from 1318: HIT
+read   74 from 2000: HIT
+write    7 to 2000: HIT
+read  164 from 319: HIT
+read   60 from 1319: HIT
+read    7 from 2000: HIT
+write  119 to 2000: HIT
+mem read at 320
+read    2 from 320: MISS
+mem read at 1320
+read  244 from 1320: MISS
+read  119 from 2000: HIT
+write   95 to 2000: HIT
+read  178 from 321: HIT
+read  237 from 1321: HIT
+read   95 from 2000: HIT
+write   41 to 2000: HIT
+read  114 from 322: HIT
+read   22 from 1322: HIT
+read   41 from 2000: HIT
+write  245 to 2000: HIT
+read  236 from 323: HIT
+read  243 from 1323: HIT
+read  245 from 2000: HIT
+write  249 to 2000: HIT
+mem read at 324
+read    1 from 324: MISS
+mem read at 1324
+read   77 from 1324: MISS
+read  249 from 2000: HIT
+write   70 to 2000: HIT
+read  240 from 325: HIT
+read    0 from 1325: HIT
+read   70 from 2000: HIT
+write   70 to 2000: HIT
+read   16 from 326: HIT
+read  139 from 1326: HIT
+read   70 from 2000: HIT
+write  246 to 2000: HIT
+read  103 from 327: HIT
+read  207 from 1327: HIT
+read  246 from 2000: HIT
+write   63 to 2000: HIT
+mem read at 328
+read  153 from 328: MISS
+mem read at 1328
+read   80 from 1328: MISS
+read   63 from 2000: HIT
+write   15 to 2000: HIT
+read   91 from 329: HIT
+read   23 from 1329: HIT
+read   15 from 2000: HIT
+write   60 to 2000: HIT
+read  159 from 330: HIT
+read  142 from 1330: HIT
+read   60 from 2000: HIT
+write  110 to 2000: HIT
+read  212 from 331: HIT
+read  152 from 1331: HIT
+read  110 from 2000: HIT
+write   78 to 2000: HIT
+mem read at 332
+read   10 from 332: MISS
+mem read at 1332
+read   97 from 1332: MISS
+read   78 from 2000: HIT
+write   24 to 2000: HIT
+read    3 from 333: HIT
+read  209 from 1333: HIT
+read   24 from 2000: HIT
+write  139 to 2000: HIT
+read  188 from 334: HIT
+read  167 from 1334: HIT
+read  139 from 2000: HIT
+write   47 to 2000: HIT
+read   13 from 335: HIT
+read  190 from 1335: HIT
+read   47 from 2000: HIT
+write  213 to 2000: HIT
+mem read at 336
+read  155 from 336: MISS
+mem read at 1336
+read  191 from 1336: MISS
+read  213 from 2000: HIT
+write  122 to 2000: HIT
+read  171 from 337: HIT
+read   14 from 1337: HIT
+read  122 from 2000: HIT
+write  212 to 2000: HIT
+read  213 from 338: HIT
+read  152 from 1338: HIT
+read  212 from 2000: HIT
+write   76 to 2000: HIT
+read    1 from 339: HIT
+read  214 from 1339: HIT
+read   76 from 2000: HIT
+write   34 to 2000: HIT
+mem read at 340
+read  229 from 340: MISS
+mem read at 1340
+read  242 from 1340: MISS
+read   34 from 2000: HIT
+write  156 to 2000: HIT
+read  214 from 341: HIT
+read  246 from 1341: HIT
+read  156 from 2000: HIT
+write   64 to 2000: HIT
+read  125 from 342: HIT
+read   62 from 1342: HIT
+read   64 from 2000: HIT
+write  134 to 2000: HIT
+read  197 from 343: HIT
+read   22 from 1343: HIT
+read  134 from 2000: HIT
+write  116 to 2000: HIT
+mem read at 344
+read  142 from 344: MISS
+mem read at 1344
+read   33 from 1344: MISS
+read  116 from 2000: HIT
+write  194 to 2000: HIT
+read   46 from 345: HIT
+read   45 from 1345: HIT
+read  194 from 2000: HIT
+write  216 to 2000: HIT
+read  175 from 346: HIT
+read    2 from 1346: HIT
+read  216 from 2000: HIT
+write   54 to 2000: HIT
+read  198 from 347: HIT
+read  185 from 1347: HIT
+read   54 from 2000: HIT
+write   76 to 2000: HIT
+mem read at 348
+read   99 from 348: MISS
+mem read at 1348
+read  201 from 1348: MISS
+read   76 from 2000: HIT
+write    7 to 2000: HIT
+read  138 from 349: HIT
+read   31 from 1349: HIT
+read    7 from 2000: HIT
+write  189 to 2000: HIT
+read  112 from 350: HIT
+read  151 from 1350: HIT
+read  189 from 2000: HIT
+write  205 to 2000: HIT
+read  222 from 351: HIT
+read   12 from 1351: HIT
+read  205 from 2000: HIT
+write   53 to 2000: HIT
+mem read at 352
+read   86 from 352: MISS
+mem read at 1352
+read  137 from 1352: MISS
+read   53 from 2000: HIT
+write   59 to 2000: HIT
+read   26 from 353: HIT
+read   43 from 1353: HIT
+read   59 from 2000: HIT
+write  153 to 2000: HIT
+read   33 from 354: HIT
+read   27 from 1354: HIT
+read  153 from 2000: HIT
+write   20 to 2000: HIT
+read    1 from 355: HIT
+read    7 from 1355: HIT
+read   20 from 2000: HIT
+write   27 to 2000: HIT
+mem read at 356
+read   13 from 356: MISS
+mem read at 1356
+read  216 from 1356: MISS
+read   27 from 2000: HIT
+write   19 to 2000: HIT
+read  253 from 357: HIT
+read  139 from 1357: HIT
+read   19 from 2000: HIT
+write  114 to 2000: HIT
+read   22 from 358: HIT
+read  194 from 1358: HIT
+read  114 from 2000: HIT
+write   30 to 2000: HIT
+read  161 from 359: HIT
+read  164 from 1359: HIT
+read   30 from 2000: HIT
+write   66 to 2000: HIT
+mem read at 360
+read  227 from 360: MISS
+mem read at 1360
+read  207 from 1360: MISS
+read   66 from 2000: HIT
+write  207 to 2000: HIT
+read  210 from 361: HIT
+read  146 from 1361: HIT
+read  207 from 2000: HIT
+write  147 to 2000: HIT
+read  210 from 362: HIT
+read  152 from 1362: HIT
+read  147 from 2000: HIT
+write   67 to 2000: HIT
+read   75 from 363: HIT
+read   53 from 1363: HIT
+read   67 from 2000: HIT
+write  202 to 2000: HIT
+mem read at 364
+read   97 from 364: MISS
+mem read at 1364
+read  213 from 1364: MISS
+read  202 from 2000: HIT
+write  127 to 2000: HIT
+read   85 from 365: HIT
+read  209 from 1365: HIT
+read  127 from 2000: HIT
+write  228 to 2000: HIT
+read  108 from 366: HIT
+read   51 from 1366: HIT
+read  228 from 2000: HIT
+write  104 to 2000: HIT
+read  221 from 367: HIT
+read  194 from 1367: HIT
+read  104 from 2000: HIT
+write  226 to 2000: HIT
+mem read at 368
+read  188 from 368: MISS
+mem read at 1368
+read  247 from 1368: MISS
+read  226 from 2000: HIT
+write   70 to 2000: HIT
+read  237 from 369: HIT
+read  222 from 1369: HIT
+read   70 from 2000: HIT
+write  204 to 2000: HIT
+read   19 from 370: HIT
+read  239 from 1370: HIT
+read  204 from 2000: HIT
+write  137 to 2000: HIT
+read  229 from 371: HIT
+read   32 from 1371: HIT
+read  137 from 2000: HIT
+write   41 to 2000: HIT
+mem read at 372
+read  199 from 372: MISS
+mem read at 1372
+read  226 from 1372: MISS
+read   41 from 2000: HIT
+write  215 to 2000: HIT
+read  171 from 373: HIT
+read  221 from 1373: HIT
+read  215 from 2000: HIT
+write  118 to 2000: HIT
+read  164 from 374: HIT
+read   77 from 1374: HIT
+read  118 from 2000: HIT
+write  202 to 2000: HIT
+read  129 from 375: HIT
+read  136 from 1375: HIT
+read  202 from 2000: HIT
+write   82 to 2000: HIT
+mem read at 376
+read   28 from 376: MISS
+mem read at 1376
+read   83 from 1376: MISS
+read   82 from 2000: HIT
+write  102 to 2000: HIT
+read   26 from 377: HIT
+read  238 from 1377: HIT
+read  102 from 2000: HIT
+write  146 to 2000: HIT
+read  235 from 378: HIT
+read  102 from 1378: HIT
+read  146 from 2000: HIT
+write   52 to 2000: HIT
+read   36 from 379: HIT
+read   76 from 1379: HIT
+read   52 from 2000: HIT
+write  228 to 2000: HIT
+mem read at 380
+read   59 from 380: MISS
+mem read at 1380
+read  121 from 1380: MISS
+read  228 from 2000: HIT
+write  199 to 2000: HIT
+read   30 from 381: HIT
+read  168 from 1381: HIT
+read  199 from 2000: HIT
+write  119 to 2000: HIT
+read  172 from 382: HIT
+read  251 from 1382: HIT
+read  119 from 2000: HIT
+write   27 to 2000: HIT
+read  106 from 383: HIT
+read  104 from 1383: HIT
+read   27 from 2000: HIT
+write   43 to 2000: HIT
+mem read at 384
+read  243 from 384: MISS
+mem read at 1384
+read   88 from 1384: MISS
+read   43 from 2000: HIT
+write  179 to 2000: HIT
+read   70 from 385: HIT
+read    6 from 1385: HIT
+read  179 from 2000: HIT
+write   87 to 2000: HIT
+read   71 from 386: HIT
+read   43 from 1386: HIT
+read   87 from 2000: HIT
+write   68 to 2000: HIT
+read   38 from 387: HIT
+read   14 from 1387: HIT
+read   68 from 2000: HIT
+write   88 to 2000: HIT
+mem read at 388
+read   13 from 388: MISS
+mem read at 1388
+read  210 from 1388: MISS
+read   88 from 2000: HIT
+write    2 to 2000: HIT
+read  235 from 389: HIT
+read  178 from 1389: HIT
+read    2 from 2000: HIT
+write  104 to 2000: HIT
+read   31 from 390: HIT
+read  108 from 1390: HIT
+read  104 from 2000: HIT
+write  124 to 2000: HIT
+read   58 from 391: HIT
+read   59 from 1391: HIT
+read  124 from 2000: HIT
+write  218 to 2000: HIT
+mem read at 392
+read  192 from 392: MISS
+mem read at 1392
+read   84 from 1392: MISS
+read  218 from 2000: HIT
+write  218 to 2000: HIT
+read   42 from 393: HIT
+read  171 from 1393: HIT
+read  218 from 2000: HIT
+write  232 to 2000: HIT
+read  186 from 394: HIT
+read   78 from 1394: HIT
+read  232 from 2000: HIT
+write  148 to 2000: HIT
+read  248 from 395: HIT
+read  246 from 1395: HIT
+read  148 from 2000: HIT
+write  228 to 2000: HIT
+mem read at 396
+read  199 from 396: MISS
+mem read at 1396
+read   22 from 1396: MISS
+read  228 from 2000: HIT
+write  254 to 2000: HIT
+read  158 from 397: HIT
+read  115 from 1397: HIT
+read  254 from 2000: HIT
+write  248 to 2000: HIT
+read   17 from 398: HIT
+read    8 from 1398: HIT
+read  248 from 2000: HIT
+write  128 to 2000: HIT
+read  219 from 399: HIT
+read    4 from 1399: HIT
+read  128 from 2000: HIT
+write  236 to 2000: HIT
+mem read at 400
+read   96 from 400: MISS
+mem read at 1400
+read   34 from 1400: MISS
+read  236 from 2000: HIT
+write  172 to 2000: HIT
+read   10 from 401: HIT
+read  167 from 1401: HIT
+read  172 from 2000: HIT
+write   50 to 2000: HIT
+read   77 from 402: HIT
+read   49 from 1402: HIT
+read   50 from 2000: HIT
+write  239 to 2000: HIT
+read  181 from 403: HIT
+read   91 from 1403: HIT
+read  239 from 2000: HIT
+write   70 to 2000: HIT
+mem read at 404
+read    3 from 404: MISS
+mem read at 1404
+read  160 from 1404: MISS
+read   70 from 2000: HIT
+write   38 to 2000: HIT
+read   13 from 405: HIT
+read   34 from 1405: HIT
+read   38 from 2000: HIT
+write  224 to 2000: HIT
+read   13 from 406: HIT
+read   71 from 1406: HIT
+read  224 from 2000: HIT
+write  123 to 2000: HIT
+read   93 from 407: HIT
+read  205 from 1407: HIT
+read  123 from 2000: HIT
+write  244 to 2000: HIT
+mem read at 408
+read  155 from 408: MISS
+mem read at 1408
+read  135 from 1408: MISS
+read  244 from 2000: HIT
+write  177 to 2000: HIT
+read  120 from 409: HIT
+read   86 from 1409: HIT
+read  177 from 2000: HIT
+write    1 to 2000: HIT
+read  213 from 410: HIT
+read  112 from 1410: HIT
+read    1 from 2000: HIT
+write   49 to 2000: HIT
+read   76 from 411: HIT
+read  156 from 1411: HIT
+read   49 from 2000: HIT
+write  129 to 2000: HIT
+mem read at 412
+read  134 from 412: MISS
+mem read at 1412
+read  234 from 1412: MISS
+read  129 from 2000: HIT
+write  253 to 2000: HIT
+read   15 from 413: HIT
+read  152 from 1413: HIT
+read  253 from 2000: HIT
+write  229 to 2000: HIT
+read  242 from 414: HIT
+read  235 from 1414: HIT
+read  229 from 2000: HIT
+write   11 to 2000: HIT
+read  156 from 415: HIT
+read   83 from 1415: HIT
+read   11 from 2000: HIT
+write  159 to 2000: HIT
+mem read at 416
+read   13 from 416: MISS
+mem read at 1416
+read  167 from 1416: MISS
+read  159 from 2000: HIT
+write   26 to 2000: HIT
+read  250 from 417: HIT
+read   90 from 1417: HIT
+read   26 from 2000: HIT
+write  254 to 2000: HIT
+read  216 from 418: HIT
+read  176 from 1418: HIT
+read  254 from 2000: HIT
+write  126 to 2000: HIT
+read  181 from 419: HIT
+read  219 from 1419: HIT
+read  126 from 2000: HIT
+write   85 to 2000: HIT
+mem read at 420
+read   80 from 420: MISS
+mem read at 1420
+read  194 from 1420: MISS
+read   85 from 2000: HIT
+write  245 to 2000: HIT
+read  253 from 421: HIT
+read   93 from 1421: HIT
+read  245 from 2000: HIT
+write  222 to 2000: HIT
+read    9 from 422: HIT
+read   90 from 1422: HIT
+read  222 from 2000: HIT
+write    8 to 2000: HIT
+read   42 from 423: HIT
+read  165 from 1423: HIT
+read    8 from 2000: HIT
+write   26 to 2000: HIT
+mem read at 424
+read  226 from 424: MISS
+mem read at 1424
+read  163 from 1424: MISS
+read   26 from 2000: HIT
+write    0 to 2000: HIT
+read  251 from 425: HIT
+read  183 from 1425: HIT
+read    0 from 2000: HIT
+write  109 to 2000: HIT
+read   19 from 426: HIT
+read   71 from 1426: HIT
+read  109 from 2000: HIT
+write  178 to 2000: HIT
+read   84 from 427: HIT
+read  154 from 1427: HIT
+read  178 from 2000: HIT
+write   58 to 2000: HIT
+mem read at 428
+read   49 from 428: MISS
+mem read at 1428
+read   99 from 1428: MISS
+read   58 from 2000: HIT
+write   45 to 2000: HIT
+read   50 from 429: HIT
+read   35 from 1429: HIT
+read   45 from 2000: HIT
+write    3 to 2000: HIT
+read   78 from 430: HIT
+read  206 from 1430: HIT
+read    3 from 2000: HIT
+write  199 to 2000: HIT
+read  118 from 431: HIT
+read   91 from 1431: HIT
+read  199 from 2000: HIT
+write  185 to 2000: HIT
+mem read at 432
+read  117 from 432: MISS
+mem read at 1432
+read  113 from 1432: MISS
+read  185 from 2000: HIT
+write   94 to 2000: HIT
+read  182 from 433: HIT
+read   77 from 1433: HIT
+read   94 from 2000: HIT
+write   28 to 2000: HIT
+read   33 from 434: HIT
+read  107 from 1434: HIT
+read   28 from 2000: HIT
+write  231 to 2000: HIT
+read   40 from 435: HIT
+read  113 from 1435: HIT
+read  231 from 2000: HIT
+write  143 to 2000: HIT
+mem read at 436
+read   46 from 436: MISS
+mem read at 1436
+read   37 from 1436: MISS
+read  143 from 2000: HIT
+write   53 to 2000: HIT
+read  207 from 437: HIT
+read   55 from 1437: HIT
+read   53 from 2000: HIT
+write  174 to 2000: HIT
+read  128 from 438: HIT
+read  249 from 1438: HIT
+read  174 from 2000: HIT
+write   46 to 2000: HIT
+read  220 from 439: HIT
+read   98 from 1439: HIT
+read   46 from 2000: HIT
+write  102 to 2000: HIT
+mem read at 440
+read  156 from 440: MISS
+mem read at 1440
+read  215 from 1440: MISS
+read  102 from 2000: HIT
+write  106 to 2000: HIT
+read   25 from 441: HIT
+read  176 from 1441: HIT
+read  106 from 2000: HIT
+write  154 to 2000: HIT
+read   30 from 442: HIT
+read  109 from 1442: HIT
+read  154 from 2000: HIT
+write   96 to 2000: HIT
+read   74 from 443: HIT
+read   79 from 1443: HIT
+read   96 from 2000: HIT
+write   54 to 2000: HIT
+mem read at 444
+read  209 from 444: MISS
+mem read at 1444
+read  124 from 1444: MISS
+read   54 from 2000: HIT
+write  114 to 2000: HIT
+read  115 from 445: HIT
+read   31 from 1445: HIT
+read  114 from 2000: HIT
+write   95 to 2000: HIT
+read   74 from 446: HIT
+read  233 from 1446: HIT
+read   95 from 2000: HIT
+write  185 to 2000: HIT
+read  123 from 447: HIT
+read  192 from 1447: HIT
+read  185 from 2000: HIT
+write  249 to 2000: HIT
+mem read at 448
+read   90 from 448: MISS
+mem read at 1448
+read   49 from 1448: MISS
+read  249 from 2000: HIT
+write   51 to 2000: HIT
+read   13 from 449: HIT
+read  123 from 1449: HIT
+read   51 from 2000: HIT
+write  114 to 2000: HIT
+read  156 from 450: HIT
+read   54 from 1450: HIT
+read  114 from 2000: HIT
+write   90 to 2000: HIT
+read  237 from 451: HIT
+read  202 from 1451: HIT
+read   90 from 2000: HIT
+write   92 to 2000: HIT
+mem read at 452
+read   91 from 452: MISS
+mem read at 1452
+read  188 from 1452: MISS
+read   92 from 2000: HIT
+write   48 to 2000: HIT
+read    2 from 453: HIT
+read  219 from 1453: HIT
+read   48 from 2000: HIT
+write  230 to 2000: HIT
+read  181 from 454: HIT
+read  222 from 1454: HIT
+read  230 from 2000: HIT
+write  220 to 2000: HIT
+read   61 from 455: HIT
+read   82 from 1455: HIT
+read  220 from 2000: HIT
+write  102 to 2000: HIT
+mem read at 456
+read  182 from 456: MISS
+mem read at 1456
+read   87 from 1456: MISS
+read  102 from 2000: HIT
+write   64 to 2000: HIT
+read    2 from 457: HIT
+read  212 from 1457: HIT
+read   64 from 2000: HIT
+write  232 to 2000: HIT
+read  196 from 458: HIT
+read   76 from 1458: HIT
+read  232 from 2000: HIT
+write   24 to 2000: HIT
+read   36 from 459: HIT
+read  149 from 1459: HIT
+read   24 from 2000: HIT
+write   12 to 2000: HIT
+mem read at 460
+read  200 from 460: MISS
+mem read at 1460
+read  151 from 1460: MISS
+read   12 from 2000: HIT
+write    4 to 2000: HIT
+read  181 from 461: HIT
+read   18 from 1461: HIT
+read    4 from 2000: HIT
+write  190 to 2000: HIT
+read  128 from 462: HIT
+read   48 from 1462: HIT
+read  190 from 2000: HIT
+write  190 to 2000: HIT
+read  210 from 463: HIT
+read  219 from 1463: HIT
+read  190 from 2000: HIT
+write  100 to 2000: HIT
+mem read at 464
+read   97 from 464: MISS
+mem read at 1464
+read  224 from 1464: MISS
+read  100 from 2000: HIT
+write   68 to 2000: HIT
+read   86 from 465: HIT
+read  253 from 1465: HIT
+read   68 from 2000: HIT
+write   66 to 2000: HIT
+read   22 from 466: HIT
+read   67 from 1466: HIT
+read   66 from 2000: HIT
+write    4 to 2000: HIT
+read  200 from 467: HIT
+read  113 from 1467: HIT
+read    4 from 2000: HIT
+write   76 to 2000: HIT
+mem read at 468
+read  255 from 468: MISS
+mem read at 1468
+read  202 from 1468: MISS
+read   76 from 2000: HIT
+write  130 to 2000: HIT
+read   77 from 469: HIT
+read  181 from 1469: HIT
+read  130 from 2000: HIT
+write  243 to 2000: HIT
+read  168 from 470: HIT
+read  138 from 1470: HIT
+read  243 from 2000: HIT
+write  131 to 2000: HIT
+read    7 from 471: HIT
+read   94 from 1471: HIT
+read  131 from 2000: HIT
+write   21 to 2000: HIT
+mem read at 472
+read  225 from 472: MISS
+mem read at 1472
+read    9 from 1472: MISS
+read   21 from 2000: HIT
+write  254 to 2000: HIT
+read   51 from 473: HIT
+read  166 from 1473: HIT
+read  254 from 2000: HIT
+write   16 to 2000: HIT
+read   85 from 474: HIT
+read   87 from 1474: HIT
+read   16 from 2000: HIT
+write  243 to 2000: HIT
+read   59 from 475: HIT
+read   29 from 1475: HIT
+read  243 from 2000: HIT
+write  162 to 2000: HIT
+mem read at 476
+read  238 from 476: MISS
+mem read at 1476
+read  240 from 1476: MISS
+read  162 from 2000: HIT
+write  194 to 2000: HIT
+read   47 from 477: HIT
+read  110 from 1477: HIT
+read  194 from 2000: HIT
+write  244 to 2000: HIT
+read   32 from 478: HIT
+read    2 from 1478: HIT
+read  244 from 2000: HIT
+write   52 to 2000: HIT
+read   73 from 479: HIT
+read  129 from 1479: HIT
+read   52 from 2000: HIT
+write  253 to 2000: HIT
+mem read at 480
+read  226 from 480: MISS
+mem read at 1480
+read  160 from 1480: MISS
+read  253 from 2000: HIT
+write   61 to 2000: HIT
+read  127 from 481: HIT
+read  248 from 1481: HIT
+read   61 from 2000: HIT
+write   69 to 2000: HIT
+read  227 from 482: HIT
+read   71 from 1482: HIT
+read   69 from 2000: HIT
+write   58 to 2000: HIT
+read  105 from 483: HIT
+read  227 from 1483: HIT
+read   58 from 2000: HIT
+write   85 to 2000: HIT
+mem read at 484
+read   17 from 484: MISS
+mem read at 1484
+read  182 from 1484: MISS
+read   85 from 2000: HIT
+write  107 to 2000: HIT
+read  152 from 485: HIT
+read  185 from 1485: HIT
+read  107 from 2000: HIT
+write   67 to 2000: HIT
+read   65 from 486: HIT
+read  159 from 1486: HIT
+read   67 from 2000: HIT
+write  162 to 2000: HIT
+read   24 from 487: HIT
+read   34 from 1487: HIT
+read  162 from 2000: HIT
+write  210 to 2000: HIT
+mem read at 488
+read  168 from 488: MISS
+mem read at 1488
+read   75 from 1488: MISS
+read  210 from 2000: HIT
+write   10 to 2000: HIT
+read  200 from 489: HIT
+read  253 from 1489: HIT
+read   10 from 2000: HIT
+write  178 to 2000: HIT
+read  162 from 490: HIT
+read    4 from 1490: HIT
+read  178 from 2000: HIT
+write   58 to 2000: HIT
+read   26 from 491: HIT
+read  144 from 1491: HIT
+read   58 from 2000: HIT
+write  218 to 2000: HIT
+mem read at 492
+read  244 from 492: MISS
+mem read at 1492
+read   73 from 1492: MISS
+read  218 from 2000: HIT
+write  110 to 2000: HIT
+read  254 from 493: HIT
+read   21 from 1493: HIT
+read  110 from 2000: HIT
+write   68 to 2000: HIT
+read   75 from 494: HIT
+read   72 from 1494: HIT
+read   68 from 2000: HIT
+write   92 to 2000: HIT
+read  150 from 495: HIT
+read   45 from 1495: HIT
+read   92 from 2000: HIT
+write  186 to 2000: HIT
+mem read at 496
+read  232 from 496: MISS
+mem read at 1496
+read   21 from 1496: MISS
+read  186 from 2000: HIT
+write  194 to 2000: HIT
+read   37 from 497: HIT
+read  203 from 1497: HIT
+read  194 from 2000: HIT
+write   25 to 2000: HIT
+read   92 from 498: HIT
+read  143 from 1498: HIT
+read   25 from 2000: HIT
+write  125 to 2000: HIT
+read  174 from 499: HIT
+read  109 from 1499: HIT
+read  125 from 2000: HIT
+write  147 to 2000: HIT
+mem read at 500
+read   69 from 500: MISS
+mem read at 1500
+read   70 from 1500: MISS
+read  147 from 2000: HIT
+write  113 to 2000: HIT
+read   39 from 501: HIT
+read  134 from 1501: HIT
+read  113 from 2000: HIT
+write  219 to 2000: HIT
+read  229 from 502: HIT
+read   63 from 1502: HIT
+read  219 from 2000: HIT
+write   54 to 2000: HIT
+read  169 from 503: HIT
+read  141 from 1503: HIT
+read   54 from 2000: HIT
+write   75 to 2000: HIT
+mem read at 504
+read  138 from 504: MISS
+mem read at 1504
+read  113 from 1504: MISS
+read   75 from 2000: HIT
+write   53 to 2000: HIT
+read  138 from 505: HIT
+read   44 from 1505: HIT
+read   53 from 2000: HIT
+write  237 to 2000: HIT
+read  117 from 506: HIT
+read  164 from 1506: HIT
+read  237 from 2000: HIT
+write  225 to 2000: HIT
+read  188 from 507: HIT
+read  106 from 1507: HIT
+read  225 from 2000: HIT
+write  185 to 2000: HIT
+mem read at 508
+read  238 from 508: MISS
+mem read at 1508
+read  186 from 1508: MISS
+read  185 from 2000: HIT
+write  165 to 2000: HIT
+read  127 from 509: HIT
+read   57 from 1509: HIT
+read  165 from 2000: HIT
+write  236 to 2000: HIT
+read    2 from 510: HIT
+read   21 from 1510: HIT
+read  236 from 2000: HIT
+write   22 to 2000: HIT
+read  103 from 511: HIT
+read  234 from 1511: HIT
+read   22 from 2000: HIT
+write   60 to 2000: HIT
+mem read at 512
+read   43 from 512: MISS
+mem read at 1512
+read  140 from 1512: MISS
+read   60 from 2000: HIT
+write  192 to 2000: HIT
+read  182 from 513: HIT
+read  135 from 1513: HIT
+read  192 from 2000: HIT
+write  186 to 2000: HIT
+read   27 from 514: HIT
+read  100 from 1514: HIT
+read  186 from 2000: HIT
+write   70 to 2000: HIT
+read  245 from 515: HIT
+read   97 from 1515: HIT
+read   70 from 2000: HIT
+write   27 to 2000: HIT
+mem read at 516
+read  171 from 516: MISS
+mem read at 1516
+read   28 from 1516: MISS
+read   27 from 2000: HIT
+write  207 to 2000: HIT
+read  231 from 517: HIT
+read  144 from 1517: HIT
+read  207 from 2000: HIT
+write  191 to 2000: HIT
+read   91 from 518: HIT
+read  144 from 1518: HIT
+read  191 from 2000: HIT
+write  239 to 2000: HIT
+read   30 from 519: HIT
+read  229 from 1519: HIT
+read  239 from 2000: HIT
+write  197 to 2000: HIT
+mem read at 520
+read    2 from 520: MISS
+mem read at 1520
+read  168 from 1520: MISS
+read  197 from 2000: HIT
+write   21 to 2000: HIT
+read   17 from 521: HIT
+read  119 from 1521: HIT
+read   21 from 2000: HIT
+write  252 to 2000: HIT
+read   77 from 522: HIT
+read  205 from 1522: HIT
+read  252 from 2000: HIT
+write  165 to 2000: HIT
+read  225 from 523: HIT
+read   59 from 1523: HIT
+read  165 from 2000: HIT
+write  128 to 2000: HIT
+mem read at 524
+read  135 from 524: MISS
+mem read at 1524
+read   96 from 1524: MISS
+read  128 from 2000: HIT
+write   32 to 2000: HIT
+read  116 from 525: HIT
+read  138 from 1525: HIT
+read   32 from 2000: HIT
+write  168 to 2000: HIT
+read  118 from 526: HIT
+read  219 from 1526: HIT
+read  168 from 2000: HIT
+write  154 to 2000: HIT
+read  116 from 527: HIT
+read  161 from 1527: HIT
+read  154 from 2000: HIT
+write  142 to 2000: HIT
+mem read at 528
+read  104 from 528: MISS
+mem read at 1528
+read   42 from 1528: MISS
+read  142 from 2000: HIT
+write  158 to 2000: HIT
+read   40 from 529: HIT
+read  131 from 1529: HIT
+read  158 from 2000: HIT
+write   22 to 2000: HIT
+read  143 from 530: HIT
+read   29 from 1530: HIT
+read   22 from 2000: HIT
+write   73 to 2000: HIT
+read  228 from 531: HIT
+read   58 from 1531: HIT
+read   73 from 2000: HIT
+write  241 to 2000: HIT
+mem read at 532
+read   57 from 532: MISS
+mem read at 1532
+read  204 from 1532: MISS
+read  241 from 2000: HIT
+write   93 to 2000: HIT
+read  202 from 533: HIT
+read  148 from 1533: HIT
+read   93 from 2000: HIT
+write   37 to 2000: HIT
+read   92 from 534: HIT
+read  232 from 1534: HIT
+read   37 from 2000: HIT
+write  133 to 2000: HIT
+read  121 from 535: HIT
+read   94 from 1535: HIT
+read  133 from 2000: HIT
+write  243 to 2000: HIT
+mem read at 536
+read  145 from 536: MISS
+mem read at 1536
+read  138 from 1536: MISS
+read  243 from 2000: HIT
+write   29 to 2000: HIT
+read  214 from 537: HIT
+read  222 from 1537: HIT
+read   29 from 2000: HIT
+write  177 to 2000: HIT
+read   87 from 538: HIT
+read  183 from 1538: HIT
+read  177 from 2000: HIT
+write  226 to 2000: HIT
+read   25 from 539: HIT
+read  223 from 1539: HIT
+read  226 from 2000: HIT
+write  169 to 2000: HIT
+mem read at 540
+read   24 from 540: MISS
+mem read at 1540
+read  141 from 1540: MISS
+read  169 from 2000: HIT
+write  225 to 2000: HIT
+read  105 from 541: HIT
+read  142 from 1541: HIT
+read  225 from 2000: HIT
+write   31 to 2000: HIT
+read  105 from 542: HIT
+read  221 from 1542: HIT
+read   31 from 2000: HIT
+write  196 to 2000: HIT
+read   47 from 543: HIT
+read  209 from 1543: HIT
+read  196 from 2000: HIT
+write   35 to 2000: HIT
+mem read at 544
+read    8 from 544: MISS
+mem read at 1544
+read   87 from 1544: MISS
+read   35 from 2000: HIT
+write  219 to 2000: HIT
+read   84 from 545: HIT
+read  151 from 1545: HIT
+read  219 from 2000: HIT
+write  103 to 2000: HIT
+read  117 from 546: HIT
+read   57 from 1546: HIT
+read  103 from 2000: HIT
+write  116 to 2000: HIT
+read  209 from 547: HIT
+read  174 from 1547: HIT
+read  116 from 2000: HIT
+write  130 to 2000: HIT
+mem read at 548
+read    5 from 548: MISS
+mem read at 1548
+read  155 from 1548: MISS
+read  130 from 2000: HIT
+write  137 to 2000: HIT
+read   67 from 549: HIT
+read   97 from 1549: HIT
+read  137 from 2000: HIT
+write  236 to 2000: HIT
+read  132 from 550: HIT
+read  188 from 1550: HIT
+read  236 from 2000: HIT
+write  220 to 2000: HIT
+read  192 from 551: HIT
+read   21 from 1551: HIT
+read  220 from 2000: HIT
+write  156 to 2000: HIT
+mem read at 552
+read   71 from 552: MISS
+mem read at 1552
+read  150 from 1552: MISS
+read  156 from 2000: HIT
+write   54 to 2000: HIT
+read  243 from 553: HIT
+read  158 from 1553: HIT
+read   54 from 2000: HIT
+write   48 to 2000: HIT
+read   77 from 554: HIT
+read   12 from 1554: HIT
+read   48 from 2000: HIT
+write  204 to 2000: HIT
+read  125 from 555: HIT
+read  101 from 1555: HIT
+read  204 from 2000: HIT
+write   29 to 2000: HIT
+mem read at 556
+read  153 from 556: MISS
+mem read at 1556
+read  230 from 1556: MISS
+read   29 from 2000: HIT
+write  147 to 2000: HIT
+read  243 from 557: HIT
+read    2 from 1557: HIT
+read  147 from 2000: HIT
+write  121 to 2000: HIT
+read  196 from 558: HIT
+read   34 from 1558: HIT
+read  121 from 2000: HIT
+write  129 to 2000: HIT
+read  211 from 559: HIT
+read  204 from 1559: HIT
+read  129 from 2000: HIT
+write  165 to 2000: HIT
+mem read at 560
+read  122 from 560: MISS
+mem read at 1560
+read   40 from 1560: MISS
+read  165 from 2000: HIT
+write  181 to 2000: HIT
+read   99 from 561: HIT
+read  239 from 1561: HIT
+read  181 from 2000: HIT
+write   34 to 2000: HIT
+read   97 from 562: HIT
+read   52 from 1562: HIT
+read   34 from 2000: HIT
+write  214 to 2000: HIT
+read  157 from 563: HIT
+read  102 from 1563: HIT
+read  214 from 2000: HIT
+write  100 to 2000: HIT
+mem read at 564
+read  207 from 564: MISS
+mem read at 1564
+read  224 from 1564: MISS
+read  100 from 2000: HIT
+write  132 to 2000: HIT
+read  199 from 565: HIT
+read   83 from 1565: HIT
+read  132 from 2000: HIT
+write    9 to 2000: HIT
+read  157 from 566: HIT
+read  135 from 1566: HIT
+read    9 from 2000: HIT
+write  212 to 2000: HIT
+read  104 from 567: HIT
+read  228 from 1567: HIT
+read  212 from 2000: HIT
+write  116 to 2000: HIT
+mem read at 568
+read   29 from 568: MISS
+mem read at 1568
+read   91 from 1568: MISS
+read  116 from 2000: HIT
+write  195 to 2000: HIT
+read  130 from 569: HIT
+read  107 from 1569: HIT
+read  195 from 2000: HIT
+write   25 to 2000: HIT
+read  103 from 570: HIT
+read    0 from 1570: HIT
+read   25 from 2000: HIT
+write   25 to 2000: HIT
+read  208 from 571: HIT
+read    1 from 1571: HIT
+read   25 from 2000: HIT
+write  233 to 2000: HIT
+mem read at 572
+read  230 from 572: MISS
+mem read at 1572
+read  196 from 1572: MISS
+read  233 from 2000: HIT
+write    1 to 2000: HIT
+read    3 from 573: HIT
+read  170 from 1573: HIT
+read    1 from 2000: HIT
+write  255 to 2000: HIT
+read  230 from 574: HIT
+read  215 from 1574: HIT
+read  255 from 2000: HIT
+write   41 to 2000: HIT
+read  118 from 575: HIT
+read   96 from 1575: HIT
+read   41 from 2000: HIT
+write  105 to 2000: HIT
+mem read at 576
+read  255 from 576: MISS
+mem read at 1576
+read  217 from 1576: MISS
+read  105 from 2000: HIT
+write  144 to 2000: HIT
+read   79 from 577: HIT
+read   96 from 1577: HIT
+read  144 from 2000: HIT
+write   48 to 2000: HIT
+read   13 from 578: HIT
+read  237 from 1578: HIT
+read   48 from 2000: HIT
+write   57 to 2000: HIT
+read  198 from 579: HIT
+read  221 from 1579: HIT
+read   57 from 2000: HIT
+write   39 to 2000: HIT
+mem read at 580
+read  205 from 580: MISS
+mem read at 1580
+read  141 from 1580: MISS
+read   39 from 2000: HIT
+write   16 to 2000: HIT
+read   48 from 581: HIT
+read  106 from 1581: HIT
+read   16 from 2000: HIT
+write  240 to 2000: HIT
+read   21 from 582: HIT
+read  153 from 1582: HIT
+read  240 from 2000: HIT
+write  125 to 2000: HIT
+read   78 from 583: HIT
+read   50 from 1583: HIT
+read  125 from 2000: HIT
+write  185 to 2000: HIT
+mem read at 584
+read  244 from 584: MISS
+mem read at 1584
+read  209 from 1584: MISS
+read  185 from 2000: HIT
+write  237 to 2000: HIT
+read  157 from 585: HIT
+read   92 from 1585: HIT
+read  237 from 2000: HIT
+write   89 to 2000: HIT
+read  209 from 586: HIT
+read  110 from 1586: HIT
+read   89 from 2000: HIT
+write   39 to 2000: HIT
+read   93 from 587: HIT
+read  183 from 1587: HIT
+read   39 from 2000: HIT
+write  162 to 2000: HIT
+mem read at 588
+read   50 from 588: MISS
+mem read at 1588
+read   96 from 1588: MISS
+read  162 from 2000: HIT
+write   98 to 2000: HIT
+read   98 from 589: HIT
+read   24 from 1589: HIT
+read   98 from 2000: HIT
+write  146 to 2000: HIT
+read   55 from 590: HIT
+read  216 from 1590: HIT
+read  146 from 2000: HIT
+write  250 to 2000: HIT
+read  121 from 591: HIT
+read   54 from 1591: HIT
+read  250 from 2000: HIT
+write  128 to 2000: HIT
+mem read at 592
+read  178 from 592: MISS
+mem read at 1592
+read  200 from 1592: MISS
+read  128 from 2000: HIT
+write  144 to 2000: HIT
+read  150 from 593: HIT
+read  191 from 1593: HIT
+read  144 from 2000: HIT
+write  122 to 2000: HIT
+read  181 from 594: HIT
+read   92 from 1594: HIT
+read  122 from 2000: HIT
+write  134 to 2000: HIT
+read  156 from 595: HIT
+read  131 from 1595: HIT
+read  134 from 2000: HIT
+write   90 to 2000: HIT
+mem read at 596
+read  234 from 596: MISS
+mem read at 1596
+read  205 from 1596: MISS
+read   90 from 2000: HIT
+write  188 to 2000: HIT
+read  237 from 597: HIT
+read  255 from 1597: HIT
+read  188 from 2000: HIT
+write  207 to 2000: HIT
+read  102 from 598: HIT
+read   60 from 1598: HIT
+read  207 from 2000: HIT
+write  183 to 2000: HIT
+read   49 from 599: HIT
+read   90 from 1599: HIT
+read  183 from 2000: HIT
+write  241 to 2000: HIT
+mem read at 600
+read   13 from 600: MISS
+mem read at 1600
+read  207 from 1600: MISS
+read  241 from 2000: HIT
+write  116 to 2000: HIT
+read  182 from 601: HIT
+read  222 from 1601: HIT
+read  116 from 2000: HIT
+write   72 to 2000: HIT
+read   61 from 602: HIT
+read   19 from 1602: HIT
+read   72 from 2000: HIT
+write  207 to 2000: HIT
+read  149 from 603: HIT
+read  111 from 1603: HIT
+read  207 from 2000: HIT
+write  106 to 2000: HIT
+mem read at 604
+read  116 from 604: MISS
+mem read at 1604
+read  247 from 1604: MISS
+read  106 from 2000: HIT
+write   86 to 2000: HIT
+read  135 from 605: HIT
+read  171 from 1605: HIT
+read   86 from 2000: HIT
+write  131 to 2000: HIT
+read  208 from 606: HIT
+read    0 from 1606: HIT
+read  131 from 2000: HIT
+write  131 to 2000: HIT
+read  226 from 607: HIT
+read  130 from 1607: HIT
+read  131 from 2000: HIT
+write   71 to 2000: HIT
+mem read at 608
+read  201 from 608: MISS
+mem read at 1608
+read  120 from 1608: MISS
+read   71 from 2000: HIT
+write  127 to 2000: HIT
+read   65 from 609: HIT
+read  126 from 1609: HIT
+read  127 from 2000: HIT
+write  125 to 2000: HIT
+read  213 from 610: HIT
+read  222 from 1610: HIT
+read  125 from 2000: HIT
+write   51 to 2000: HIT
+read    1 from 611: HIT
+read  191 from 1611: HIT
+read   51 from 2000: HIT
+write  242 to 2000: HIT
+mem read at 612
+read  171 from 612: MISS
+mem read at 1612
+read  239 from 1612: MISS
+read  242 from 2000: HIT
+write  151 to 2000: HIT
+read  190 from 613: HIT
+read   17 from 1613: HIT
+read  151 from 2000: HIT
+write   53 to 2000: HIT
+read   43 from 614: HIT
+read  239 from 1614: HIT
+read   53 from 2000: HIT
+write   90 to 2000: HIT
+read  107 from 615: HIT
+read   56 from 1615: HIT
+read   90 from 2000: HIT
+write  194 to 2000: HIT
+mem read at 616
+read  190 from 616: MISS
+mem read at 1616
+read   34 from 1616: MISS
+read  194 from 2000: HIT
+write  254 to 2000: HIT
+read   22 from 617: HIT
+read  251 from 1617: HIT
+read  254 from 2000: HIT
+write  144 to 2000: HIT
+read   53 from 618: HIT
+read  171 from 1618: HIT
+read  144 from 2000: HIT
+write  247 to 2000: HIT
+read  106 from 619: HIT
+read  169 from 1619: HIT
+read  247 from 2000: HIT
+write  241 to 2000: HIT
+mem read at 620
+read  163 from 620: MISS
+mem read at 1620
+read  242 from 1620: MISS
+read  241 from 2000: HIT
+write    7 to 2000: HIT
+read   85 from 621: HIT
+read  115 from 1621: HIT
+read    7 from 2000: HIT
+write   54 to 2000: HIT
+read  242 from 622: HIT
+read   55 from 1622: HIT
+read   54 from 2000: HIT
+write   52 to 2000: HIT
+read  245 from 623: HIT
+read  187 from 1623: HIT
+read   52 from 2000: HIT
+write   43 to 2000: HIT
+mem read at 624
+read  175 from 624: MISS
+mem read at 1624
+read   54 from 1624: MISS
+read   43 from 2000: HIT
+write   21 to 2000: HIT
+read   58 from 625: HIT
+read  132 from 1625: HIT
+read   21 from 2000: HIT
+write  253 to 2000: HIT
+read   20 from 626: HIT
+read   59 from 1626: HIT
+read  253 from 2000: HIT
+write  153 to 2000: HIT
+read   67 from 627: HIT
+read  191 from 1627: HIT
+read  153 from 2000: HIT
+write  150 to 2000: HIT
+mem read at 628
+read   42 from 628: MISS
+mem read at 1628
+read    1 from 1628: MISS
+read  150 from 2000: HIT
+write  192 to 2000: HIT
+read  208 from 629: HIT
+read   85 from 1629: HIT
+read  192 from 2000: HIT
+write  208 to 2000: HIT
+read  241 from 630: HIT
+read   60 from 1630: HIT
+read  208 from 2000: HIT
+write   76 to 2000: HIT
+read  141 from 631: HIT
+read  175 from 1631: HIT
+read   76 from 2000: HIT
+write  175 to 2000: HIT
+mem read at 632
+read   94 from 632: MISS
+mem read at 1632
+read  163 from 1632: MISS
+read  175 from 2000: HIT
+write  137 to 2000: HIT
+read  171 from 633: HIT
+read  147 from 1633: HIT
+read  137 from 2000: HIT
+write  186 to 2000: HIT
+read   79 from 634: HIT
+read   21 from 1634: HIT
+read  186 from 2000: HIT
+write   53 to 2000: HIT
+read   61 from 635: HIT
+read  242 from 1635: HIT
+read   53 from 2000: HIT
+write  223 to 2000: HIT
+mem read at 636
+read    7 from 636: MISS
+mem read at 1636
+read  146 from 1636: MISS
+read  223 from 2000: HIT
+write  221 to 2000: HIT
+read  101 from 637: HIT
+read  250 from 1637: HIT
+read  221 from 2000: HIT
+write  127 to 2000: HIT
+read  201 from 638: HIT
+read   90 from 1638: HIT
+read  127 from 2000: HIT
+write   41 to 2000: HIT
+read  181 from 639: HIT
+read  120 from 1639: HIT
+read   41 from 2000: HIT
+write    1 to 2000: HIT
+mem read at 640
+read  144 from 640: MISS
+mem read at 1640
+read  239 from 1640: MISS
+read    1 from 2000: HIT
+write  113 to 2000: HIT
+read  253 from 641: HIT
+read  165 from 1641: HIT
+read  113 from 2000: HIT
+write  130 to 2000: HIT
+read   43 from 642: HIT
+read   64 from 1642: HIT
+read  130 from 2000: HIT
+write   66 to 2000: HIT
+read  100 from 643: HIT
+read   85 from 1643: HIT
+read   66 from 2000: HIT
+write  118 to 2000: HIT
+mem read at 644
+read   66 from 644: MISS
+mem read at 1644
+read   53 from 1644: MISS
+read  118 from 2000: HIT
+write   32 to 2000: HIT
+read  171 from 645: HIT
+read   51 from 1645: HIT
+read   32 from 2000: HIT
+write   49 to 2000: HIT
+read  113 from 646: HIT
+read   56 from 1646: HIT
+read   49 from 2000: HIT
+write  233 to 2000: HIT
+read  226 from 647: HIT
+read  207 from 1647: HIT
+read  233 from 2000: HIT
+write  167 to 2000: HIT
+mem read at 648
+read  220 from 648: MISS
+mem read at 1648
+read  141 from 1648: MISS
+read  167 from 2000: HIT
+write  211 to 2000: HIT
+read   98 from 649: HIT
+read   43 from 1649: HIT
+read  211 from 2000: HIT
+write   73 to 2000: HIT
+read  163 from 650: HIT
+read  159 from 1650: HIT
+read   73 from 2000: HIT
+write  134 to 2000: HIT
+read   29 from 651: HIT
+read  170 from 1651: HIT
+read  134 from 2000: HIT
+write  200 to 2000: HIT
+mem read at 652
+read   49 from 652: MISS
+mem read at 1652
+read  130 from 1652: MISS
+read  200 from 2000: HIT
+write  170 to 2000: HIT
+read  164 from 653: HIT
+read  250 from 1653: HIT
+read  170 from 2000: HIT
+write  210 to 2000: HIT
+read  220 from 654: HIT
+read   90 from 1654: HIT
+read  210 from 2000: HIT
+write   42 to 2000: HIT
+read  115 from 655: HIT
+read  108 from 1655: HIT
+read   42 from 2000: HIT
+write  174 to 2000: HIT
+mem read at 656
+read   73 from 656: MISS
+mem read at 1656
+read  112 from 1656: MISS
+read  174 from 2000: HIT
+write  158 to 2000: HIT
+read   17 from 657: HIT
+read  116 from 1657: HIT
+read  158 from 2000: HIT
+write   82 to 2000: HIT
+read  176 from 658: HIT
+read  118 from 1658: HIT
+read   82 from 2000: HIT
+write  114 to 2000: HIT
+read  202 from 659: HIT
+read  242 from 1659: HIT
+read  114 from 2000: HIT
+write  102 to 2000: HIT
+mem read at 660
+read  171 from 660: MISS
+mem read at 1660
+read  117 from 1660: MISS
+read  102 from 2000: HIT
+write  141 to 2000: HIT
+read   37 from 661: HIT
+read   28 from 1661: HIT
+read  141 from 2000: HIT
+write  153 to 2000: HIT
+read  173 from 662: HIT
+read    8 from 1662: HIT
+read  153 from 2000: HIT
+write    1 to 2000: HIT
+read  235 from 663: HIT
+read  137 from 1663: HIT
+read    1 from 2000: HIT
+write  196 to 2000: HIT
+mem read at 664
+read  149 from 664: MISS
+mem read at 1664
+read   77 from 1664: MISS
+read  196 from 2000: HIT
+write  149 to 2000: HIT
+read  180 from 665: HIT
+read   56 from 1665: HIT
+read  149 from 2000: HIT
+write  245 to 2000: HIT
+read  237 from 666: HIT
+read  209 from 1666: HIT
+read  245 from 2000: HIT
+write  114 to 2000: HIT
+read  227 from 667: HIT
+read   30 from 1667: HIT
+read  114 from 2000: HIT
+write   12 to 2000: HIT
+mem read at 668
+read   83 from 668: MISS
+mem read at 1668
+read  135 from 1668: MISS
+read   12 from 2000: HIT
+write  209 to 2000: HIT
+read   25 from 669: HIT
+read   47 from 1669: HIT
+read  209 from 2000: HIT
+write  104 to 2000: HIT
+read  225 from 670: HIT
+read  140 from 1670: HIT
+read  104 from 2000: HIT
+write  116 to 2000: HIT
+read  156 from 671: HIT
+read   43 from 1671: HIT
+read  116 from 2000: HIT
+write  168 to 2000: HIT
+mem read at 672
+read  252 from 672: MISS
+mem read at 1672
+read  173 from 1672: MISS
+read  168 from 2000: HIT
+write  244 to 2000: HIT
+read  159 from 673: HIT
+read  172 from 1673: HIT
+read  244 from 2000: HIT
+write  200 to 2000: HIT
+read   35 from 674: HIT
+read  105 from 1674: HIT
+read  200 from 2000: HIT
+write   35 to 2000: HIT
+read  159 from 675: HIT
+read  206 from 1675: HIT
+read   35 from 2000: HIT
+write   21 to 2000: HIT
+mem read at 676
+read  222 from 676: MISS
+mem read at 1676
+read  196 from 1676: MISS
+read   21 from 2000: HIT
+write   13 to 2000: HIT
+read  234 from 677: HIT
+read  140 from 1677: HIT
+read   13 from 2000: HIT
+write    5 to 2000: HIT
+read  204 from 678: HIT
+read  213 from 1678: HIT
+read    5 from 2000: HIT
+write  193 to 2000: HIT
+read   21 from 679: HIT
+read   98 from 1679: HIT
+read  193 from 2000: HIT
+write  203 to 2000: HIT
+mem read at 680
+read   35 from 680: MISS
+mem read at 1680
+read  202 from 1680: MISS
+read  203 from 2000: HIT
+write  105 to 2000: HIT
+read  154 from 681: HIT
+read   16 from 1681: HIT
+read  105 from 2000: HIT
+write    9 to 2000: HIT
+read  155 from 682: HIT
+read  125 from 1682: HIT
+read    9 from 2000: HIT
+write  184 to 2000: HIT
+read   46 from 683: HIT
+read  239 from 1683: HIT
+read  184 from 2000: HIT
+write  170 to 2000: HIT
+mem read at 684
+read    5 from 684: MISS
+mem read at 1684
+read   71 from 1684: MISS
+read  170 from 2000: HIT
+write   13 to 2000: HIT
+read   30 from 685: HIT
+read  230 from 1685: HIT
+read   13 from 2000: HIT
+write    1 to 2000: HIT
+read  211 from 686: HIT
+read  186 from 1686: HIT
+read    1 from 2000: HIT
+write   79 to 2000: HIT
+read   17 from 687: HIT
+read  207 from 1687: HIT
+read   79 from 2000: HIT
+write   14 to 2000: HIT
+mem read at 688
+read  104 from 688: MISS
+mem read at 1688
+read  177 from 1688: MISS
+read   14 from 2000: HIT
+write  246 to 2000: HIT
+read  124 from 689: HIT
+read  139 from 1689: HIT
+read  246 from 2000: HIT
+write   74 to 2000: HIT
+read   26 from 690: HIT
+read   27 from 1690: HIT
+read   74 from 2000: HIT
+write    8 to 2000: HIT
+read   90 from 691: HIT
+read  249 from 1691: HIT
+read    8 from 2000: HIT
+write  146 to 2000: HIT
+mem read at 692
+read  223 from 692: MISS
+mem read at 1692
+read   68 from 1692: MISS
+read  146 from 2000: HIT
+write  206 to 2000: HIT
+read  133 from 693: HIT
+read  172 from 1693: HIT
+read  206 from 2000: HIT
+write   42 to 2000: HIT
+read   26 from 694: HIT
+read  154 from 1694: HIT
+read   42 from 2000: HIT
+write  206 to 2000: HIT
+read   14 from 695: HIT
+read   61 from 1695: HIT
+read  206 from 2000: HIT
+write   36 to 2000: HIT
+mem read at 696
+read  100 from 696: MISS
+mem read at 1696
+read  168 from 1696: MISS
+read   36 from 2000: HIT
+write  196 to 2000: HIT
+read   77 from 697: HIT
+read    0 from 1697: HIT
+read  196 from 2000: HIT
+write  196 to 2000: HIT
+read   38 from 698: HIT
+read  123 from 1698: HIT
+read  196 from 2000: HIT
+write    6 to 2000: HIT
+read  239 from 699: HIT
+read   43 from 1699: HIT
+read    6 from 2000: HIT
+write   43 to 2000: HIT
+mem read at 700
+read  195 from 700: MISS
+mem read at 1700
+read   13 from 1700: MISS
+read   43 from 2000: HIT
+write   18 to 2000: HIT
+read   17 from 701: HIT
+read  150 from 1701: HIT
+read   18 from 2000: HIT
+write    8 to 2000: HIT
+read  200 from 702: HIT
+read   35 from 1702: HIT
+read    8 from 2000: HIT
+write   96 to 2000: HIT
+read  102 from 703: HIT
+read   48 from 1703: HIT
+read   96 from 2000: HIT
+write  128 to 2000: HIT
+mem read at 704
+read  212 from 704: MISS
+mem read at 1704
+read  226 from 1704: MISS
+read  128 from 2000: HIT
+write  168 to 2000: HIT
+read  187 from 705: HIT
+read  238 from 1705: HIT
+read  168 from 2000: HIT
+write  130 to 2000: HIT
+read  253 from 706: HIT
+read   21 from 1706: HIT
+read  130 from 2000: HIT
+write   67 to 2000: HIT
+read  231 from 707: HIT
+read  220 from 1707: HIT
+read   67 from 2000: HIT
+write  199 to 2000: HIT
+mem read at 708
+read   90 from 708: MISS
+mem read at 1708
+read  108 from 1708: MISS
+read  199 from 2000: HIT
+write  191 to 2000: HIT
+read  136 from 709: HIT
+read  116 from 1709: HIT
+read  191 from 2000: HIT
+write   95 to 2000: HIT
+read    7 from 710: HIT
+read  150 from 1710: HIT
+read   95 from 2000: HIT
+write  121 to 2000: HIT
+read  177 from 711: HIT
+read  107 from 1711: HIT
+read  121 from 2000: HIT
+write  116 to 2000: HIT
+mem read at 712
+read   63 from 712: MISS
+mem read at 1712
+read  254 from 1712: MISS
+read  116 from 2000: HIT
+write  246 to 2000: HIT
+read  107 from 713: HIT
+read  101 from 1713: HIT
+read  246 from 2000: HIT
+write   45 to 2000: HIT
+read  121 from 714: HIT
+read   90 from 1714: HIT
+read   45 from 2000: HIT
+write  183 to 2000: HIT
+read  144 from 715: HIT
+read   60 from 1715: HIT
+read  183 from 2000: HIT
+write  119 to 2000: HIT
+mem read at 716
+read  104 from 716: MISS
+mem read at 1716
+read  161 from 1716: MISS
+read  119 from 2000: HIT
+write  223 to 2000: HIT
+read  211 from 717: HIT
+read   48 from 1717: HIT
+read  223 from 2000: HIT
+write  111 to 2000: HIT
+read  196 from 718: HIT
+read   57 from 1718: HIT
+read  111 from 2000: HIT
+write   19 to 2000: HIT
+read   96 from 719: HIT
+read  152 from 1719: HIT
+read   19 from 2000: HIT
+write   19 to 2000: HIT
+mem read at 720
+read   27 from 720: MISS
+mem read at 1720
+read   27 from 1720: MISS
+read   19 from 2000: HIT
+write  236 to 2000: HIT
+read  135 from 721: HIT
+read   24 from 1721: HIT
+read  236 from 2000: HIT
+write  148 to 2000: HIT
+read   49 from 722: HIT
+read  110 from 1722: HIT
+read  148 from 2000: HIT
+write  162 to 2000: HIT
+read  244 from 723: HIT
+read  139 from 1723: HIT
+read  162 from 2000: HIT
+write   30 to 2000: HIT
+mem read at 724
+read  219 from 724: MISS
+mem read at 1724
+read  125 from 1724: MISS
+read   30 from 2000: HIT
+write   13 to 2000: HIT
+read  255 from 725: HIT
+read  226 from 1725: HIT
+read   13 from 2000: HIT
+write   43 to 2000: HIT
+read   19 from 726: HIT
+read  176 from 1726: HIT
+read   43 from 2000: HIT
+write   59 to 2000: HIT
+read   77 from 727: HIT
+read   82 from 1727: HIT
+read   59 from 2000: HIT
+write  229 to 2000: HIT
+mem read at 728
+read  174 from 728: MISS
+mem read at 1728
+read  185 from 1728: MISS
+read  229 from 2000: HIT
+write  163 to 2000: HIT
+read  183 from 729: HIT
+read   39 from 1729: HIT
+read  163 from 2000: HIT
+write  132 to 2000: HIT
+read   19 from 730: HIT
+read   71 from 1730: HIT
+read  132 from 2000: HIT
+write  201 to 2000: HIT
+read  100 from 731: HIT
+read  123 from 1731: HIT
+read  201 from 2000: HIT
+write  213 to 2000: HIT
+mem read at 732
+read  233 from 732: MISS
+mem read at 1732
+read   55 from 1732: MISS
+read  213 from 2000: HIT
+write  228 to 2000: HIT
+read  171 from 733: HIT
+read  173 from 1733: HIT
+read  228 from 2000: HIT
+write  115 to 2000: HIT
+read  112 from 734: HIT
+read   11 from 1734: HIT
+read  115 from 2000: HIT
+write   67 to 2000: HIT
+read   70 from 735: HIT
+read  139 from 1735: HIT
+read   67 from 2000: HIT
+write   69 to 2000: HIT
+mem read at 736
+read   39 from 736: MISS
+mem read at 1736
+read  205 from 1736: MISS
+read   69 from 2000: HIT
+write  128 to 2000: HIT
+read  163 from 737: HIT
+read   88 from 1737: HIT
+read  128 from 2000: HIT
+write  136 to 2000: HIT
+read   59 from 738: HIT
+read  151 from 1738: HIT
+read  136 from 2000: HIT
+write   85 to 2000: HIT
+read  227 from 739: HIT
+read   22 from 1739: HIT
+read   85 from 2000: HIT
+write  215 to 2000: HIT
+mem read at 740
+read   20 from 740: MISS
+mem read at 1740
+read  226 from 1740: MISS
+read  215 from 2000: HIT
+write  127 to 2000: HIT
+read  248 from 741: HIT
+read   40 from 1741: HIT
+read  127 from 2000: HIT
+write   63 to 2000: HIT
+read  146 from 742: HIT
+read   70 from 1742: HIT
+read   63 from 2000: HIT
+write   43 to 2000: HIT
+read  122 from 743: HIT
+read   64 from 1743: HIT
+read   43 from 2000: HIT
+write  171 to 2000: HIT
+mem read at 744
+read  255 from 744: MISS
+mem read at 1744
+read   50 from 1744: MISS
+read  171 from 2000: HIT
+write  121 to 2000: HIT
+read  103 from 745: HIT
+read   18 from 1745: HIT
+read  121 from 2000: HIT
+write  183 to 2000: HIT
+read  121 from 746: HIT
+read  203 from 1746: HIT
+read  183 from 2000: HIT
+write  170 to 2000: HIT
+read  142 from 747: HIT
+read   98 from 1747: HIT
+read  170 from 2000: HIT
+write    6 to 2000: HIT
+mem read at 748
+read    2 from 748: MISS
+mem read at 1748
+read   57 from 1748: MISS
+read    6 from 2000: HIT
+write  120 to 2000: HIT
+read   16 from 749: HIT
+read  114 from 1749: HIT
+read  120 from 2000: HIT
+write  152 to 2000: HIT
+read   69 from 750: HIT
+read   86 from 1750: HIT
+read  152 from 2000: HIT
+write  198 to 2000: HIT
+read  253 from 751: HIT
+read  108 from 1751: HIT
+read  198 from 2000: HIT
+write  130 to 2000: HIT
+mem read at 752
+read   35 from 752: MISS
+mem read at 1752
+read  160 from 1752: MISS
+read  130 from 2000: HIT
+write   98 to 2000: HIT
+read  196 from 753: HIT
+read   94 from 1753: HIT
+read   98 from 2000: HIT
+write   90 to 2000: HIT
+read   56 from 754: HIT
+read  167 from 1754: HIT
+read   90 from 2000: HIT
+write  226 to 2000: HIT
+read  117 from 755: HIT
+read   76 from 1755: HIT
+read  226 from 2000: HIT
+write  158 to 2000: HIT
+mem read at 756
+read  137 from 756: MISS
+mem read at 1756
+read  109 from 1756: MISS
+read  158 from 2000: HIT
+write  243 to 2000: HIT
+read  116 from 757: HIT
+read   27 from 1757: HIT
+read  243 from 2000: HIT
+write   47 to 2000: HIT
+read  179 from 758: HIT
+read  239 from 1758: HIT
+read   47 from 2000: HIT
+write   76 to 2000: HIT
+read   91 from 759: HIT
+read  178 from 1759: HIT
+read   76 from 2000: HIT
+write  146 to 2000: HIT
+mem read at 760
+read   33 from 760: MISS
+mem read at 1760
+read  194 from 1760: MISS
+read  146 from 2000: HIT
+write  148 to 2000: HIT
+read  197 from 761: HIT
+read  154 from 1761: HIT
+read  148 from 2000: HIT
+write   22 to 2000: HIT
+read  142 from 762: HIT
+read   83 from 1762: HIT
+read   22 from 2000: HIT
+write   32 to 2000: HIT
+read  253 from 763: HIT
+read  144 from 1763: HIT
+read   32 from 2000: HIT
+write  112 to 2000: HIT
+mem read at 764
+read  140 from 764: MISS
+mem read at 1764
+read   13 from 1764: MISS
+read  112 from 2000: HIT
+write  140 to 2000: HIT
+read    3 from 765: HIT
+read  209 from 1765: HIT
+read  140 from 2000: HIT
+write  255 to 2000: HIT
+read   99 from 766: HIT
+read    0 from 1766: HIT
+read  255 from 2000: HIT
+write  255 to 2000: HIT
+read   61 from 767: HIT
+read  134 from 1767: HIT
+read  255 from 2000: HIT
+write  237 to 2000: HIT
+mem read at 768
+read  161 from 768: MISS
+mem read at 1768
+read    1 from 1768: MISS
+read  237 from 2000: HIT
+write  142 to 2000: HIT
+read  228 from 769: HIT
+read  217 from 1769: HIT
+read  142 from 2000: HIT
+write  210 to 2000: HIT
+read  168 from 770: HIT
+read   89 from 1770: HIT
+read  210 from 2000: HIT
+write   58 to 2000: HIT
+read   37 from 771: HIT
+read   49 from 1771: HIT
+read   58 from 2000: HIT
+write   79 to 2000: HIT
+mem read at 772
+read  199 from 772: MISS
+mem read at 1772
+read  154 from 1772: MISS
+read   79 from 2000: HIT
+write    5 to 2000: HIT
+read   76 from 773: HIT
+read  122 from 1773: HIT
+read    5 from 2000: HIT
+write   61 to 2000: HIT
+read  137 from 774: HIT
+read  167 from 1774: HIT
+read   61 from 2000: HIT
+write  156 to 2000: HIT
+read   45 from 775: HIT
+read  170 from 1775: HIT
+read  156 from 2000: HIT
+write  126 to 2000: HIT
+mem read at 776
+read  106 from 776: MISS
+mem read at 1776
+read  242 from 1776: MISS
+read  126 from 2000: HIT
+write  178 to 2000: HIT
+read   68 from 777: HIT
+read  248 from 1777: HIT
+read  178 from 2000: HIT
+write  146 to 2000: HIT
+read   69 from 778: HIT
+read   65 from 1778: HIT
+read  146 from 2000: HIT
+write   23 to 2000: HIT
+read  136 from 779: HIT
+read  209 from 1779: HIT
+read   23 from 2000: HIT
+write   31 to 2000: HIT
+mem read at 780
+read   78 from 780: MISS
+mem read at 1780
+read  139 from 1780: MISS
+read   31 from 2000: HIT
+write  121 to 2000: HIT
+read  163 from 781: HIT
+read  177 from 1781: HIT
+read  121 from 2000: HIT
+write   44 to 2000: HIT
+read  140 from 782: HIT
+read  224 from 1782: HIT
+read   44 from 2000: HIT
+write  172 to 2000: HIT
+read   55 from 783: HIT
+read   45 from 1783: HIT
+read  172 from 2000: HIT
+write   87 to 2000: HIT
+mem read at 784
+read  226 from 784: MISS
+mem read at 1784
+read   28 from 1784: MISS
+read   87 from 2000: HIT
+write   15 to 2000: HIT
+read    6 from 785: HIT
+read  138 from 1785: HIT
+read   15 from 2000: HIT
+write   75 to 2000: HIT
+read  117 from 786: HIT
+read   43 from 1786: HIT
+read   75 from 2000: HIT
+write  242 to 2000: HIT
+read  188 from 787: HIT
+read   60 from 1787: HIT
+read  242 from 2000: HIT
+write    2 to 2000: HIT
+mem read at 788
+read  197 from 788: MISS
+mem read at 1788
+read    8 from 1788: MISS
+read    2 from 2000: HIT
+write   42 to 2000: HIT
+read  183 from 789: HIT
+read   78 from 1789: HIT
+read   42 from 2000: HIT
+write  236 to 2000: HIT
+read  176 from 790: HIT
+read  228 from 1790: HIT
+read  236 from 2000: HIT
+write  172 to 2000: HIT
+read  248 from 791: HIT
+read   26 from 1791: HIT
+read  172 from 2000: HIT
+write  220 to 2000: HIT
+mem read at 792
+read  214 from 792: MISS
+mem read at 1792
+read   61 from 1792: MISS
+read  220 from 2000: HIT
+write  218 to 2000: HIT
+read   18 from 793: HIT
+read   27 from 1793: HIT
+read  218 from 2000: HIT
+write  192 to 2000: HIT
+read  126 from 794: HIT
+read  154 from 1794: HIT
+read  192 from 2000: HIT
+write  140 to 2000: HIT
+read  236 from 795: HIT
+read  205 from 1795: HIT
+read  140 from 2000: HIT
+write  136 to 2000: HIT
+mem read at 796
+read   38 from 796: MISS
+mem read at 1796
+read  143 from 1796: MISS
+read  136 from 2000: HIT
+write  194 to 2000: HIT
+read  126 from 797: HIT
+read  178 from 1797: HIT
+read  194 from 2000: HIT
+write   94 to 2000: HIT
+read  112 from 798: HIT
+read  182 from 1798: HIT
+read   94 from 2000: HIT
+write  254 to 2000: HIT
+read  223 from 799: HIT
+read   82 from 1799: HIT
+read  254 from 2000: HIT
+write  108 to 2000: HIT
+mem read at 800
+read  210 from 800: MISS
+mem read at 1800
+read  229 from 1800: MISS
+read  108 from 2000: HIT
+write   70 to 2000: HIT
+read  220 from 801: HIT
+read   71 from 1801: HIT
+read   70 from 2000: HIT
+write   74 to 2000: HIT
+read   16 from 802: HIT
+read  152 from 1802: HIT
+read   74 from 2000: HIT
+write  202 to 2000: HIT
+read  132 from 803: HIT
+read  214 from 1803: HIT
+read  202 from 2000: HIT
+write   34 to 2000: HIT
+mem read at 804
+read  161 from 804: MISS
+mem read at 1804
+read   59 from 1804: MISS
+read   34 from 2000: HIT
+write   61 to 2000: HIT
+read   36 from 805: HIT
+read   81 from 1805: HIT
+read   61 from 2000: HIT
+write  161 to 2000: HIT
+read   31 from 806: HIT
+read   29 from 1806: HIT
+read  161 from 2000: HIT
+write   36 to 2000: HIT
+read  107 from 807: HIT
+read  245 from 1807: HIT
+read   36 from 2000: HIT
+write  139 to 2000: HIT
+mem read at 808
+read   90 from 808: MISS
+mem read at 1808
+read  125 from 1808: MISS
+read  139 from 2000: HIT
+write  125 to 2000: HIT
+read   16 from 809: HIT
+read  216 from 1809: HIT
+read  125 from 2000: HIT
+write  253 to 2000: HIT
+read   23 from 810: HIT
+read  252 from 1810: HIT
+read  253 from 2000: HIT
+write  161 to 2000: HIT
+read  165 from 811: HIT
+read   61 from 1811: HIT
+read  161 from 2000: HIT
+write  242 to 2000: HIT
+mem read at 812
+read  140 from 812: MISS
+mem read at 1812
+read   36 from 1812: MISS
+read  242 from 2000: HIT
+write  162 to 2000: HIT
+read  239 from 813: HIT
+read  252 from 1813: HIT
+read  162 from 2000: HIT
+write  230 to 2000: HIT
+read  218 from 814: HIT
+read  206 from 1814: HIT
+read  230 from 2000: HIT
+write   82 to 2000: HIT
+read   78 from 815: HIT
+read  172 from 1815: HIT
+read   82 from 2000: HIT
+write  186 to 2000: HIT
+mem read at 816
+read  179 from 816: MISS
+mem read at 1816
+read   42 from 1816: MISS
+read  186 from 2000: HIT
+write   24 to 2000: HIT
+read  243 from 817: HIT
+read  196 from 1817: HIT
+read   24 from 2000: HIT
+write   36 to 2000: HIT
+read  195 from 818: HIT
+read  119 from 1818: HIT
+read   36 from 2000: HIT
+write  201 to 2000: HIT
+read  154 from 819: HIT
+read  100 from 1819: HIT
+read  201 from 2000: HIT
+write  241 to 2000: HIT
+mem read at 820
+read  178 from 820: MISS
+mem read at 1820
+read  190 from 1820: MISS
+read  241 from 2000: HIT
+write   13 to 2000: HIT
+read  181 from 821: HIT
+read  209 from 1821: HIT
+read   13 from 2000: HIT
+write  210 to 2000: HIT
+read  219 from 822: HIT
+read   32 from 1822: HIT
+read  210 from 2000: HIT
+write   50 to 2000: HIT
+read  198 from 823: HIT
+read   53 from 1823: HIT
+read   50 from 2000: HIT
+write   48 to 2000: HIT
+mem read at 824
+read  157 from 824: MISS
+mem read at 1824
+read  214 from 1824: MISS
+read   48 from 2000: HIT
+write  110 to 2000: HIT
+read   14 from 825: HIT
+read  180 from 1825: HIT
+read  110 from 2000: HIT
+write   70 to 2000: HIT
+read  211 from 826: HIT
+read  179 from 1826: HIT
+read   70 from 2000: HIT
+write  207 to 2000: HIT
+read  242 from 827: HIT
+read   95 from 1827: HIT
+read  207 from 2000: HIT
+write  157 to 2000: HIT
+mem read at 828
+read  215 from 828: MISS
+mem read at 1828
+read  225 from 1828: MISS
+read  157 from 2000: HIT
+write  148 to 2000: HIT
+read   91 from 829: HIT
+read  177 from 1829: HIT
+read  148 from 2000: HIT
+write  127 to 2000: HIT
+read  176 from 830: HIT
+read  169 from 1830: HIT
+read  127 from 2000: HIT
+write  175 to 2000: HIT
+read   93 from 831: HIT
+read   99 from 1831: HIT
+read  175 from 2000: HIT
+write  166 to 2000: HIT
+mem read at 832
+read  211 from 832: MISS
+mem read at 1832
+read   81 from 1832: MISS
+read  166 from 2000: HIT
+write  105 to 2000: HIT
+read   39 from 833: HIT
+read  150 from 1833: HIT
+read  105 from 2000: HIT
+write   67 to 2000: HIT
+read  200 from 834: HIT
+read  193 from 1834: HIT
+read   67 from 2000: HIT
+write   11 to 2000: HIT
+read  250 from 835: HIT
+read  123 from 1835: HIT
+read   11 from 2000: HIT
+write   41 to 2000: HIT
+mem read at 836
+read  128 from 836: MISS
+mem read at 1836
+read  175 from 1836: MISS
+read   41 from 2000: HIT
+write  169 to 2000: HIT
+read   76 from 837: HIT
+read   91 from 1837: HIT
+read  169 from 2000: HIT
+write  173 to 2000: HIT
+read  207 from 838: HIT
+read   19 from 1838: HIT
+read  173 from 2000: HIT
+write   10 to 2000: HIT
+read  145 from 839: HIT
+read  108 from 1839: HIT
+read   10 from 2000: HIT
+write   54 to 2000: HIT
+mem read at 840
+read  233 from 840: MISS
+mem read at 1840
+read  159 from 1840: MISS
+read   54 from 2000: HIT
+write  237 to 2000: HIT
+read   33 from 841: HIT
+read  188 from 1841: HIT
+read  237 from 2000: HIT
+write   41 to 2000: HIT
+read   82 from 842: HIT
+read   19 from 1842: HIT
+read   41 from 2000: HIT
+write   63 to 2000: HIT
+read   27 from 843: HIT
+read   42 from 1843: HIT
+read   63 from 2000: HIT
+write  173 to 2000: HIT
+mem read at 844
+read  244 from 844: MISS
+mem read at 1844
+read  118 from 1844: MISS
+read  173 from 2000: HIT
+write   37 to 2000: HIT
+read  219 from 845: HIT
+read  164 from 1845: HIT
+read   37 from 2000: HIT
+write  113 to 2000: HIT
+read   31 from 846: HIT
+read   57 from 1846: HIT
+read  113 from 2000: HIT
+write   88 to 2000: HIT
+read    8 from 847: HIT
+read  243 from 1847: HIT
+read   88 from 2000: HIT
+write  240 to 2000: HIT
+mem read at 848
+read  138 from 848: MISS
+mem read at 1848
+read   47 from 1848: MISS
+read  240 from 2000: HIT
+write   70 to 2000: HIT
+read  137 from 849: HIT
+read   82 from 1849: HIT
+read   70 from 2000: HIT
+write   40 to 2000: HIT
+read  241 from 850: HIT
+read  132 from 1850: HIT
+read   40 from 2000: HIT
+write  108 to 2000: HIT
+read  205 from 851: HIT
+read  113 from 1851: HIT
+read  108 from 2000: HIT
+write  233 to 2000: HIT
+mem read at 852
+read   51 from 852: MISS
+mem read at 1852
+read   26 from 1852: MISS
+read  233 from 2000: HIT
+write   23 to 2000: HIT
+read  204 from 853: HIT
+read    3 from 1853: HIT
+read   23 from 2000: HIT
+write  123 to 2000: HIT
+read   45 from 854: HIT
+read   93 from 1854: HIT
+read  123 from 2000: HIT
+write  212 to 2000: HIT
+read  111 from 855: HIT
+read   22 from 1855: HIT
+read  212 from 2000: HIT
+write   94 to 2000: HIT
+mem read at 856
+read  252 from 856: MISS
+mem read at 1856
+read  144 from 1856: MISS
+read   94 from 2000: HIT
+write   30 to 2000: HIT
+read  211 from 857: HIT
+read   79 from 1857: HIT
+read   30 from 2000: HIT
+write   59 to 2000: HIT
+read  163 from 858: HIT
+read  238 from 1858: HIT
+read   59 from 2000: HIT
+write  197 to 2000: HIT
+read  121 from 859: HIT
+read  152 from 1859: HIT
+read  197 from 2000: HIT
+write  157 to 2000: HIT
+mem read at 860
+read  101 from 860: MISS
+mem read at 1860
+read   84 from 1860: MISS
+read  157 from 2000: HIT
+write  193 to 2000: HIT
+read   60 from 861: HIT
+read  132 from 1861: HIT
+read  193 from 2000: HIT
+write  177 to 2000: HIT
+read  141 from 862: HIT
+read   68 from 1862: HIT
+read  177 from 2000: HIT
+write   37 to 2000: HIT
+read  119 from 863: HIT
+read   23 from 1863: HIT
+read   37 from 2000: HIT
+write  214 to 2000: HIT
+mem read at 864
+read  116 from 864: MISS
+mem read at 1864
+read    1 from 1864: MISS
+read  214 from 2000: HIT
+write   74 to 2000: HIT
+read  106 from 865: HIT
+read  101 from 1865: HIT
+read   74 from 2000: HIT
+write   28 to 2000: HIT
+read  133 from 866: HIT
+read   55 from 1866: HIT
+read   28 from 2000: HIT
+write  175 to 2000: HIT
+read  214 from 867: HIT
+read  184 from 1867: HIT
+read  175 from 2000: HIT
+write  127 to 2000: HIT
+mem read at 868
+read   81 from 868: MISS
+mem read at 1868
+read  162 from 1868: MISS
+read  127 from 2000: HIT
+write  193 to 2000: HIT
+read  187 from 869: HIT
+read  126 from 1869: HIT
+read  193 from 2000: HIT
+write  203 to 2000: HIT
+read    0 from 870: HIT
+read   43 from 1870: HIT
+read  203 from 2000: HIT
+write  203 to 2000: HIT
+read  149 from 871: HIT
+read  252 from 1871: HIT
+read  203 from 2000: HIT
+write  119 to 2000: HIT
+mem read at 872
+read  187 from 872: MISS
+mem read at 1872
+read  104 from 1872: MISS
+read  119 from 2000: HIT
+write  111 to 2000: HIT
+read   75 from 873: HIT
+read   95 from 1873: HIT
+read  111 from 2000: HIT
+write   68 to 2000: HIT
+read   86 from 874: HIT
+read  196 from 1874: HIT
+read   68 from 2000: HIT
+write   28 to 2000: HIT
+read  247 from 875: HIT
+read  187 from 1875: HIT
+read   28 from 2000: HIT
+write  137 to 2000: HIT
+mem read at 876
+read   25 from 876: MISS
+mem read at 1876
+read   51 from 1876: MISS
+read  137 from 2000: HIT
+write  132 to 2000: HIT
+read   64 from 877: HIT
+read  166 from 1877: HIT
+read  132 from 2000: HIT
+write    4 to 2000: HIT
+read  120 from 878: HIT
+read  183 from 1878: HIT
+read    4 from 2000: HIT
+write  204 to 2000: HIT
+read  190 from 879: HIT
+read  236 from 1879: HIT
+read  204 from 2000: HIT
+write  244 to 2000: HIT
+mem read at 880
+read  184 from 880: MISS
+mem read at 1880
+read   40 from 1880: MISS
+read  244 from 2000: HIT
+write  180 to 2000: HIT
+read   81 from 881: HIT
+read   61 from 1881: HIT
+read  180 from 2000: HIT
+write    1 to 2000: HIT
+read   95 from 882: HIT
+read   39 from 1882: HIT
+read    1 from 2000: HIT
+write  122 to 2000: HIT
+read  246 from 883: HIT
+read  177 from 1883: HIT
+read  122 from 2000: HIT
+write  144 to 2000: HIT
+mem read at 884
+read  201 from 884: MISS
+mem read at 1884
+read  177 from 1884: MISS
+read  144 from 2000: HIT
+write  137 to 2000: HIT
+read   47 from 885: HIT
+read  201 from 1885: HIT
+read  137 from 2000: HIT
+write  112 to 2000: HIT
+read  220 from 886: HIT
+read  196 from 1886: HIT
+read  112 from 2000: HIT
+write  224 to 2000: HIT
+read  198 from 887: HIT
+read  152 from 1887: HIT
+read  224 from 2000: HIT
+write  112 to 2000: HIT
+mem read at 888
+read   44 from 888: MISS
+mem read at 1888
+read   17 from 1888: MISS
+read  112 from 2000: HIT
+write   92 to 2000: HIT
+read  247 from 889: HIT
+read  131 from 1889: HIT
+read   92 from 2000: HIT
+write  193 to 2000: HIT
+read  214 from 890: HIT
+read  238 from 1890: HIT
+read  193 from 2000: HIT
+write  181 to 2000: HIT
+read   62 from 891: HIT
+read  239 from 1891: HIT
+read  181 from 2000: HIT
+write  151 to 2000: HIT
+mem read at 892
+read   33 from 892: MISS
+mem read at 1892
+read  126 from 1892: MISS
+read  151 from 2000: HIT
+write  213 to 2000: HIT
+read  149 from 893: HIT
+read  153 from 1893: HIT
+read  213 from 2000: HIT
+write  226 to 2000: HIT
+read   54 from 894: HIT
+read   83 from 1894: HIT
+read  226 from 2000: HIT
+write  100 to 2000: HIT
+read  133 from 895: HIT
+read  238 from 1895: HIT
+read  100 from 2000: HIT
+write   10 to 2000: HIT
+mem read at 896
+read  123 from 896: MISS
+mem read at 1896
+read  214 from 1896: MISS
+read   10 from 2000: HIT
+write  220 to 2000: HIT
+read   44 from 897: HIT
+read  219 from 1897: HIT
+read  220 from 2000: HIT
+write  128 to 2000: HIT
+read  253 from 898: HIT
+read   34 from 1898: HIT
+read  128 from 2000: HIT
+write   26 to 2000: HIT
+read  140 from 899: HIT
+read  199 from 1899: HIT
+read   26 from 2000: HIT
+write  238 to 2000: HIT
+mem read at 900
+read  211 from 900: MISS
+mem read at 1900
+read  187 from 1900: MISS
+read  238 from 2000: HIT
+write   15 to 2000: HIT
+read  144 from 901: HIT
+read  176 from 1901: HIT
+read   15 from 2000: HIT
+write   15 to 2000: HIT
+read  128 from 902: HIT
+read   86 from 1902: HIT
+read   15 from 2000: HIT
+write   15 to 2000: HIT
+read   72 from 903: HIT
+read  172 from 1903: HIT
+read   15 from 2000: HIT
+write  111 to 2000: HIT
+mem read at 904
+read  104 from 904: MISS
+mem read at 1904
+read   63 from 1904: MISS
+read  111 from 2000: HIT
+write    7 to 2000: HIT
+read   47 from 905: HIT
+read   62 from 1905: HIT
+read    7 from 2000: HIT
+write  105 to 2000: HIT
+read   45 from 906: HIT
+read  110 from 1906: HIT
+read  105 from 2000: HIT
+write  191 to 2000: HIT
+read   45 from 907: HIT
+read   78 from 1907: HIT
+read  191 from 2000: HIT
+write  117 to 2000: HIT
+mem read at 908
+read  236 from 908: MISS
+mem read at 1908
+read  194 from 1908: MISS
+read  117 from 2000: HIT
+write   77 to 2000: HIT
+read  232 from 909: HIT
+read   34 from 1909: HIT
+read   77 from 2000: HIT
+write   29 to 2000: HIT
+read   22 from 910: HIT
+read  109 from 1910: HIT
+read   29 from 2000: HIT
+write  123 to 2000: HIT
+read   17 from 911: HIT
+read  145 from 1911: HIT
+read  123 from 2000: HIT
+write   28 to 2000: HIT
+mem read at 912
+read   68 from 912: MISS
+mem read at 1912
+read   61 from 1912: MISS
+read   28 from 2000: HIT
+write   80 to 2000: HIT
+read  108 from 913: HIT
+read   65 from 1913: HIT
+read   80 from 2000: HIT
+write  188 to 2000: HIT
+read   95 from 914: HIT
+read  248 from 1914: HIT
+read  188 from 2000: HIT
+write  196 to 2000: HIT
+read    8 from 915: HIT
+read   50 from 1915: HIT
+read  196 from 2000: HIT
+write   84 to 2000: HIT
+mem read at 916
+read  180 from 916: MISS
+mem read at 1916
+read  153 from 1916: MISS
+read   84 from 2000: HIT
+write  232 to 2000: HIT
+read  226 from 917: HIT
+read   52 from 1917: HIT
+read  232 from 2000: HIT
+write  208 to 2000: HIT
+read  239 from 918: HIT
+read   42 from 1918: HIT
+read  208 from 2000: HIT
+write    6 to 2000: HIT
+read  224 from 919: HIT
+read   87 from 1919: HIT
+read    6 from 2000: HIT
+write   38 to 2000: HIT
+mem read at 920
+read  105 from 920: MISS
+mem read at 1920
+read   16 from 1920: MISS
+read   38 from 2000: HIT
+write  182 to 2000: HIT
+read  149 from 921: HIT
+read  150 from 1921: HIT
+read  182 from 2000: HIT
+write    4 to 2000: HIT
+read  126 from 922: HIT
+read  194 from 1922: HIT
+read    4 from 2000: HIT
+write  128 to 2000: HIT
+read  229 from 923: HIT
+read  106 from 1923: HIT
+read  128 from 2000: HIT
+write   82 to 2000: HIT
+mem read at 924
+read  133 from 924: MISS
+mem read at 1924
+read  205 from 1924: MISS
+read   82 from 2000: HIT
+write  211 to 2000: HIT
+read  141 from 925: HIT
+read  155 from 1925: HIT
+read  211 from 2000: HIT
+write   50 to 2000: HIT
+read   58 from 926: HIT
+read  158 from 1926: HIT
+read   50 from 2000: HIT
+write  254 to 2000: HIT
+read   44 from 927: HIT
+read  126 from 1927: HIT
+read  254 from 2000: HIT
+write  166 to 2000: HIT
+mem read at 928
+read  219 from 928: MISS
+mem read at 1928
+read  153 from 1928: MISS
+read  166 from 2000: HIT
+write  137 to 2000: HIT
+read  192 from 929: HIT
+read   58 from 1929: HIT
+read  137 from 2000: HIT
+write    9 to 2000: HIT
+read  145 from 930: HIT
+read  200 from 1930: HIT
+read    9 from 2000: HIT
+write   81 to 2000: HIT
+read  108 from 931: HIT
+read   69 from 1931: HIT
+read   81 from 2000: HIT
+write  109 to 2000: HIT
+mem read at 932
+read   97 from 932: MISS
+mem read at 1932
+read   79 from 1932: MISS
+read  109 from 2000: HIT
+write   92 to 2000: HIT
+read  121 from 933: HIT
+read   81 from 1933: HIT
+read   92 from 2000: HIT
+write  165 to 2000: HIT
+read  121 from 934: HIT
+read   90 from 1934: HIT
+read  165 from 2000: HIT
+write   47 to 2000: HIT
+read  168 from 935: HIT
+read  227 from 1935: HIT
+read   47 from 2000: HIT
+write   39 to 2000: HIT
+mem read at 936
+read  106 from 936: MISS
+mem read at 1936
+read   62 from 1936: MISS
+read   39 from 2000: HIT
+write  211 to 2000: HIT
+read  121 from 937: HIT
+read  232 from 1937: HIT
+read  211 from 2000: HIT
+write  123 to 2000: HIT
+read    0 from 938: HIT
+read   94 from 1938: HIT
+read  123 from 2000: HIT
+write  123 to 2000: HIT
+read   82 from 939: HIT
+read  133 from 1939: HIT
+read  123 from 2000: HIT
+write   21 to 2000: HIT
+mem read at 940
+read   43 from 940: MISS
+mem read at 1940
+read  223 from 1940: MISS
+read   21 from 2000: HIT
+write  138 to 2000: HIT
+read   32 from 941: HIT
+read  102 from 1941: HIT
+read  138 from 2000: HIT
+write   74 to 2000: HIT
+read  125 from 942: HIT
+read   77 from 1942: HIT
+read   74 from 2000: HIT
+write  227 to 2000: HIT
+read  228 from 943: HIT
+read   88 from 1943: HIT
+read  227 from 2000: HIT
+write   67 to 2000: HIT
+mem read at 944
+read  230 from 944: MISS
+mem read at 1944
+read  164 from 1944: MISS
+read   67 from 2000: HIT
+write  155 to 2000: HIT
+read  146 from 945: HIT
+read  119 from 1945: HIT
+read  155 from 2000: HIT
+write  121 to 2000: HIT
+read  109 from 946: HIT
+read  255 from 1946: HIT
+read  121 from 2000: HIT
+write   12 to 2000: HIT
+read  189 from 947: HIT
+read  206 from 1947: HIT
+read   12 from 2000: HIT
+write   34 to 2000: HIT
+mem read at 948
+read   78 from 948: MISS
+mem read at 1948
+read   54 from 1948: MISS
+read   34 from 2000: HIT
+write  150 to 2000: HIT
+read   31 from 949: HIT
+read  199 from 1949: HIT
+read  150 from 2000: HIT
+write  175 to 2000: HIT
+read  144 from 950: HIT
+read  200 from 1950: HIT
+read  175 from 2000: HIT
+write   47 to 2000: HIT
+read  170 from 951: HIT
+read  250 from 1951: HIT
+read   47 from 2000: HIT
+write   51 to 2000: HIT
+mem read at 952
+read    6 from 952: MISS
+mem read at 1952
+read   36 from 1952: MISS
+read   51 from 2000: HIT
+write   11 to 2000: HIT
+read  226 from 953: HIT
+read    6 from 1953: HIT
+read   11 from 2000: HIT
+write   87 to 2000: HIT
+read  130 from 954: HIT
+read   53 from 1954: HIT
+read   87 from 2000: HIT
+write   65 to 2000: HIT
+read  140 from 955: HIT
+read  174 from 1955: HIT
+read   65 from 2000: HIT
+write  105 to 2000: HIT
+mem read at 956
+read   20 from 956: MISS
+mem read at 1956
+read  172 from 1956: MISS
+read  105 from 2000: HIT
+write  217 to 2000: HIT
+read   20 from 957: HIT
+read  146 from 1957: HIT
+read  217 from 2000: HIT
+write   65 to 2000: HIT
+read  249 from 958: HIT
+read  248 from 1958: HIT
+read   65 from 2000: HIT
+write  121 to 2000: HIT
+read  234 from 959: HIT
+read  223 from 1959: HIT
+read  121 from 2000: HIT
+write   79 to 2000: HIT
+mem read at 960
+read  157 from 960: MISS
+mem read at 1960
+read  125 from 1960: MISS
+read   79 from 2000: HIT
+write  248 to 2000: HIT
+read   87 from 961: HIT
+read   10 from 1961: HIT
+read  248 from 2000: HIT
+write   94 to 2000: HIT
+read  124 from 962: HIT
+read   20 from 1962: HIT
+read   94 from 2000: HIT
+write   14 to 2000: HIT
+read  216 from 963: HIT
+read  202 from 1963: HIT
+read   14 from 2000: HIT
+write  126 to 2000: HIT
+mem read at 964
+read   74 from 964: MISS
+mem read at 1964
+read  248 from 1964: MISS
+read  126 from 2000: HIT
+write   46 to 2000: HIT
+read  145 from 965: HIT
+read  219 from 1965: HIT
+read   46 from 2000: HIT
+write   57 to 2000: HIT
+read  192 from 966: HIT
+read   60 from 1966: HIT
+read   57 from 2000: HIT
+write   57 to 2000: HIT
+read  213 from 967: HIT
+read  198 from 1967: HIT
+read   57 from 2000: HIT
+write  247 to 2000: HIT
+mem read at 968
+read   96 from 968: MISS
+mem read at 1968
+read  184 from 1968: MISS
+read  247 from 2000: HIT
+write  247 to 2000: HIT
+read  204 from 969: HIT
+read  226 from 1969: HIT
+read  247 from 2000: HIT
+write   15 to 2000: HIT
+read  237 from 970: HIT
+read   88 from 1970: HIT
+read   15 from 2000: HIT
+write  135 to 2000: HIT
+read  144 from 971: HIT
+read    1 from 1971: HIT
+read  135 from 2000: HIT
+write   23 to 2000: HIT
+mem read at 972
+read    5 from 972: MISS
+mem read at 1972
+read  164 from 1972: MISS
+read   23 from 2000: HIT
+write   75 to 2000: HIT
+read  147 from 973: HIT
+read  254 from 1973: HIT
+read   75 from 2000: HIT
+write   37 to 2000: HIT
+read  157 from 974: HIT
+read  126 from 1974: HIT
+read   37 from 2000: HIT
+write  107 to 2000: HIT
+read  222 from 975: HIT
+read   58 from 1975: HIT
+read  107 from 2000: HIT
+write  183 to 2000: HIT
+mem read at 976
+read  251 from 976: MISS
+mem read at 1976
+read   53 from 1976: MISS
+read  183 from 2000: HIT
+write  174 to 2000: HIT
+read   68 from 977: HIT
+read  119 from 1977: HIT
+read  174 from 2000: HIT
+write   74 to 2000: HIT
+read   73 from 978: HIT
+read   28 from 1978: HIT
+read   74 from 2000: HIT
+write   70 to 2000: HIT
+read   65 from 979: HIT
+read  147 from 1979: HIT
+read   70 from 2000: HIT
+write  153 to 2000: HIT
+mem read at 980
+read   20 from 980: MISS
+mem read at 1980
+read  210 from 1980: MISS
+read  153 from 2000: HIT
+write    1 to 2000: HIT
+read  110 from 981: HIT
+read  212 from 1981: HIT
+read    1 from 2000: HIT
+write   25 to 2000: HIT
+read   14 from 982: HIT
+read   68 from 1982: HIT
+read   25 from 2000: HIT
+write  209 to 2000: HIT
+read  154 from 983: HIT
+read  110 from 1983: HIT
+read  209 from 2000: HIT
+write  253 to 2000: HIT
+mem read at 984
+read  252 from 984: MISS
+mem read at 1984
+read  103 from 1984: MISS
+read  253 from 2000: HIT
+write   97 to 2000: HIT
+read   81 from 985: HIT
+read  233 from 1985: HIT
+read   97 from 2000: HIT
+write   26 to 2000: HIT
+read  191 from 986: HIT
+read  225 from 1986: HIT
+read   26 from 2000: HIT
+write  249 to 2000: HIT
+read  234 from 987: HIT
+read  196 from 1987: HIT
+read  249 from 2000: HIT
+write   33 to 2000: HIT
+mem read at 988
+read  134 from 988: MISS
+mem read at 1988
+read  126 from 1988: MISS
+read   33 from 2000: HIT
+write   21 to 2000: HIT
+read  195 from 989: HIT
+read   35 from 1989: HIT
+read   21 from 2000: HIT
+write  190 to 2000: HIT
+read  252 from 990: HIT
+read  161 from 1990: HIT
+read  190 from 2000: HIT
+write   58 to 2000: HIT
+read   93 from 991: HIT
+read  247 from 1991: HIT
+read   58 from 2000: HIT
+write  245 to 2000: HIT
+mem read at 992
+read  214 from 992: MISS
+mem read at 1992
+read  161 from 1992: MISS
+read  245 from 2000: HIT
+write  139 to 2000: HIT
+read  110 from 993: HIT
+read   31 from 1993: HIT
+read  139 from 2000: HIT
+write  221 to 2000: HIT
+read  189 from 994: HIT
+read  175 from 1994: HIT
+read  221 from 2000: HIT
+write   16 to 2000: HIT
+read  178 from 995: HIT
+read  210 from 1995: HIT
+read   16 from 2000: HIT
+write   20 to 2000: HIT
+mem read at 996
+read  129 from 996: MISS
+mem read at 1996
+read   33 from 1996: MISS
+read   20 from 2000: HIT
+write  181 to 2000: HIT
+read  166 from 997: HIT
+read  144 from 1997: HIT
+read  181 from 2000: HIT
+write   21 to 2000: HIT
+read  101 from 998: HIT
+read   65 from 1998: HIT
+read   21 from 2000: HIT
+write  186 to 2000: HIT
+read  254 from 999: HIT
+read   97 from 1999: HIT
+read  186 from 2000: HIT
+write  248 to 2000: HIT
+mem read at 2000
+mem write at 2000

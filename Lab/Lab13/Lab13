@@ -1,0 +1,21 @@
+# Lab13
+
+### Exer 1
+
+环境变量
+
+```shell
+export OMP_NUM_THREADS=5
+unset OMP_NUM_THREADS
+```
+
+### Exer 2
+
+1. <u>Describe the performance differences between the methods you implemented and try to analyze the reason(Run more times to find a common pattern  instead of just running once).</u>
+
+   size of row = 4096 Byte = size of cache line，为什么会和cache有关系呢?
+
+2. Explain why using OpenMP may not necessarily lead to optimal performance on a single compute node with multiple cores.
+
+   multiple cores use shared memory, and data dependency
+
