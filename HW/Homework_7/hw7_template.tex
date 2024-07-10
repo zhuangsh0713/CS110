@@ -1,0 +1,383 @@
+\documentclass[addpoints, 12pt, answers]{exam}
+
+\usepackage{epstopdf}
+\usepackage{makecell}
+
+\usepackage{mathtools}
+\usepackage{wrapfig}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{float}
+
+\usepackage{setspace}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amsthm,amssymb,amsfonts}
+
+\usepackage[ruled,boxed,algo2e]{algorithm2e}
+\usepackage{algorithm}
+\usepackage{pifont}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+
+\usepackage{array}
+
+\usepackage{booktabs}
+
+\usepackage{amsmath,amscd}
+\usepackage{amssymb,array}
+\usepackage{amsfonts,latexsym}
+\usepackage{graphicx,subfig,wrapfig}
+\usepackage{times}
+\usepackage{psfrag,epsfig}
+\usepackage{verbatim}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{graphics}
+\usepackage{caption}
+
+\usepackage{enumerate}
+\usepackage{listings}
+
+\usepackage{ulem}
+\usepackage[pagebackref=true,breaklinks=true,letterpaper=true,colorlinks=false,bookmarks=false]{hyperref}
+
+\usepackage{multicol}
+
+\usepackage{lastpage}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+
+\DeclareMathOperator*{\rank}{rank}
+\DeclareMathOperator*{\trace}{trace}
+\DeclareMathOperator*{\acos}{acos}
+\DeclareMathOperator*{\argmax}{argmax}
+
+\renewcommand{\mathbf}{\boldsymbol}
+\newcommand{\mb}{\mathbf}
+\newcommand{\matlab}[1]{\texttt{#1}}
+\newcommand{\setname}[1]{\textsl{#1}}
+\newcommand{\Ce}{\mathbb{C}}
+\newcommand{\norm}[2]{\left\| #1 \right\|_{#2}}
+
+\newcommand{\exercise}[2]{\item[] \textbf{Exercise #1 #2}}
+
+\lstset{frame=none,
+    language=c,
+    aboveskip=3mm,
+    belowskip=3mm,
+    showstringspaces=false,
+    columns=flexible,
+    basicstyle={\small\ttfamily},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    keywordstyle=\color{blue},
+    commentstyle=\color{dkgreen},
+    stringstyle=\color{mauve},
+    breaklines=true,
+    breakatwhitespace=true,
+    tabsize=8
+}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+
+
+
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheader{Computer Architecture I}{}{2024}
+\runningheader{Email:}
+{Homework 7, Page \thepage\ of \numpages}
+{Computer Architecture I 2024}
+\firstpagefooter{}{}{}
+\runningfooter{}{}{}
+
+\boxedpoints
+
+\pointsinmargin
+
+
+
+\setlength\answerlinelength{.95\linewidth}
+
+
+\begin{document}
+\begin{center}
+
+{\centering \Large Homework 7\\\vspace{.75cm}}
+
+\vspace{0.1cm}
+\makebox[\textwidth]{Chinese Name:\enspace\hrulefill}\\[0.6cm]
+\makebox[\textwidth]{Pinyin Name:\enspace\hrulefill}\\[0.6cm]
+\makebox[\textwidth]{Student ID:\enspace\hrulefill}\\[0.6cm]
+\makebox[\textwidth]{E-Mail (omit ``@shanghaitech.edu.cn''):\enspace\hrulefill}\\[0.5cm]
+
+\end{center}
+
+
+\begin{questions}
+
+\question[10] \textbf{Put T (True) or F (False) for each of following statement. [2 points each]}
+
+\begin{enumerate}[(1)]
+    \item ( \quad ) The size of the virtual address space accessible to the program cannot be larger than the size of the physical address space.
+    \item ( \quad ) There is no fragmentation of physical memory while using virtual memory.
+    \item ( \quad ) Freeing applications from having to manage a shared memory space, granting the ability to share memory used by libraries between processes, and increased security due to memory isolation are all benefits of using virtual memory.
+    \item ( \quad ) The two users will not use any same part of physical memory, as they have separate virtual memory spaces.
+    \item ( \quad ) Page table walk refers to the behavior of the TLB miss handler of the MMU, system firmware, or operating system to look up the address mapping in the page table to see if there is a mapping when the TLB misses.
+\end{enumerate}
+
+\pagebreak
+
+\question[23] \textbf{Page Table Calculations [23 points]}
+
+Assume we have a computer with 16KB pages, 32-bit virtual addresses, and 32-bit PTEs (8 bits are reserved for protection and valid bit). We use two-level hierarchical page tables to manage virtual address and the machine is byte-addressable.
+\begin{parts}
+\part[7] For this computer, how many virtual pages can be addressed per process? [7 points]
+\newline
+\newline
+\newline
+\newline
+\newline
+
+\part[8] What is the maximum size of the physical memory that can be supported by this computer? Tips: the length of physical address is not restricted to 32 bits. [8 points]
+\newline
+\newline
+\newline
+\newline
+\newline
+
+\part[8] Suppose that a running program is currently using 300 MB of memory. What is the smallest possible number of PTEs and PTPs that must be valid in the page table(s) of this program? [8 points]
+\newline
+\newline
+\newline
+\newline
+\newline
+\end{parts}
+
+
+\pagebreak
+
+\question[20] \textbf{TLB Replacement [20 points]}
+
+A processor has 16-bit address, 256 byte pages, 
+and an 8-entry fully associative TLB with LRU replacement 
+(the LRU field is 3 bits and encodes the order in which pages were accessed, 
+0 is the most recent). 
+At some time instant, 
+the TLB for the current process is the initial state given in the~\autoref{tab:ini-tlb}. 
+Assume that all current page table entries are in the initial TLB. 
+Assume also that all pages can be read from and written to. 
+
+Fill in the final state of the TLB in~\autoref{tab:fin-tlb} according to the access pattern in~\autoref{tab:access}. 
+When needed, the page fault handler will allocate free physical pages using the following order: 0x17, 0x18, 0x19.
+
+
+\begin{table}[H]
+	\centering
+	\caption{Access Pattern for Memory}
+	\label{tab:access}
+	\begin{tabular}{|c|c|}
+	\hline
+	No. & Access Pattern \\ \hline
+	1   & Write 0x2132   \\ \hline
+	2   & Read  0x12F0    \\ \hline
+	3   & Write 0x2032   \\ \hline
+	4   & Write 0x1104   \\ \hline
+	5   & Read  0x20AC    \\ \hline
+	6   & Write 0x1016    \\ \hline
+    7   & Read  0xAC08    \\ \hline
+    8   & Write 0x1216    \\ \hline
+	\end{tabular}
+\end{table}
+
+
+\begin{table}[H]
+	\begin{minipage}[t]{0.5\linewidth}
+		\centering
+			\caption{Initial TLB}
+			\label{tab:ini-tlb}
+			\begin{tabular}{|c|c|c|c|c|}
+			\hline
+			VPN  & PPN  & Valid & Dirty & LRU \\ \hline
+			0x01 & 0x11 & 1     & 1     & 0   \\ \hline
+			0x00 & 0x00 & 0     & 0     & 6   \\ \hline
+			0x10 & 0x13 & 1     & 1     & 1   \\ \hline
+			0x20 & 0x12 & 1     & 0     & 5   \\ \hline
+			0x00 & 0x00 & 0     & 0     & 7   \\ \hline
+			0x11 & 0x14 & 1     & 0     & 4   \\ \hline
+			0xAC & 0x15 & 1     & 1     & 2   \\ \hline
+			0xFF & 0x16 & 1     & 0     & 3   \\ \hline
+			\end{tabular}
+	\end{minipage}
+	\begin{minipage}[t]{0.5\linewidth}
+		\centering
+		\caption{Final TLB}
+		\label{tab:fin-tlb}
+		\begin{tabular}{|c|c|c|c|c|}
+		\hline
+		VPN  & PPN  & Valid & Dirty & LRU \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		 &  &      &      &    \\ \hline
+		\end{tabular}
+	\end{minipage}
+\end{table}
+
+
+
+
+\pagebreak
+
+\question[22] \textbf{Virtual Memory and TLB [22 points]}
+
+
+Li Hua creates a machine which is byte-addressed with 20-bit virtual address and 16-bit physical address. The processor manual only specifies that the machine uses a 3-level page table with the following virtual-address breakdown.
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{cccc}
+	\quad\quad L1 Index \quad\quad & \quad\quad  L2 Index \quad\quad   & \quad\quad  L3 Index \quad\quad   &  \quad\quad Page Offset \quad\quad  \\ \hline
+	\multicolumn{1}{|c|}{4 bits} & \multicolumn{1}{c|}{4 bits}  & \multicolumn{1}{c|}{4 bits}  & \multicolumn{1}{c|}{8 bits} \\ \hline
+	\end{tabular}
+\end{table}
+
+
+\begin{parts}
+\part[8] \textbf{Physical Address [8 points]}
+
+What is the page size of Li Hua's machine?\\
+
+\underline{\quad\quad\quad\quad\quad\quad\quad}\\
+
+
+How many bits do physical page number (PPN) and page offset need in physical address, respectively? \\
+
+PPN:\quad\underline{\quad\quad\quad\quad\quad\quad\quad}\quad bits \\   
+
+Page offset:\quad\underline{\quad\quad\quad\quad\quad\quad\quad}\quad bits\\   
+
+
+
+\part[14]\textbf{TLB [14 points]}
+
+Li Hua executes the following snippet of code on his new processor. Assume \texttt{sizeof(int)} is 4, and the array elements are mapped to virtual addresses 0x6000 through physical address 0x1FFC. Assume array and sum have been suitably initialized.
+
+
+\begin{lstlisting}
+int List[4096] = {0};
+for (i = 0; i < 2; i++) {
+    for (j = 0; j < 8; j++) {
+	   sum += List[j * 512]
+    }
+}
+\end{lstlisting}
+
+
+The processor manual states this machine has a TLB with 16 entries. Assume that variables \texttt{i}, \texttt{j} and \texttt{sum} are stored in registers, and ignore address translation for instruction fetches; only accesses to array require address translation.
+
+In the end, how many misses from the TLB and total memory accesses will Li Hua observe (Consider only the presence of the TLB, ignore other data cache such as L1D or L2 cache. Disregarding the effect of the initialization of the array in the line 1 on the TLB):
+
+
+\begin{enumerate}
+	\item The TLB is direct-mapped \\
+	
+	Misses from the TLB:\quad\underline{\quad\quad\quad\quad\quad\quad\quad\quad\quad}\\
+
+	Total memory accesses:\quad\underline{\quad\quad\quad\quad\quad\quad\quad\quad\quad}\\
+
+	\quad\\\quad\\\quad\\\quad\\\quad
+
+	\item The TLB is fully-associative (assume LRU replacement policy) \\
+	
+	Misses from the TLB:\quad\underline{\quad\quad\quad\quad\quad\quad\quad\quad\quad}\\
+
+	Total memory accesses:\quad\underline{\quad\quad\quad\quad\quad\quad\quad\quad\quad}\\
+
+	\quad\\\quad\\\quad\\\quad\\\quad
+
+\end{enumerate}
+
+\end{parts}
+
+\pagebreak
+
+\question[25] \textbf{Page Table Walk [25 points]}
+
+Consider a system which uses a two-level page-based virtual memory system. 
+\begin{enumerate}[]
+\item• Page size is 16 bytes 
+\item• PTE size is 4 bytes 
+\item• Memory is byte-addressable
+\item• The system is initialized with only the base page table allocated 
+\item• Physical pages are allocated from lower to higher PPNs incrementally. Note: all allocation follows this rule, including but not limited to user data and PTE. 
+\item• The base page table is architecturally mandated to be at physical address 0x00, so a PTE 
+containing value 0x00 is effectively an “invalid” PTE (no valid bit is necessary) 
+\item• The PTE is entirely reserved for a PPN (no valid, status, or permission bits)  
+\end{enumerate}
+
+\begin{parts}
+    
+\part[6] 1. Fill in the blank b with the corresponding index size and offset. Show your intermediate steps.[6 points]
+\begin{table}[H]
+	\centering
+	\begin{tabular}{cccc}
+	\quad\quad L1 Index \quad\quad & \quad\quad  L2 Index \quad\quad   &  \quad\quad Page Offset \quad\quad  \\ \hline
+	\multicolumn{1}{|c|}{\quad bits} & \multicolumn{1}{c|}{\quad bits}  & \multicolumn{1}{c|}{\quad bits} \\ \hline
+	\end{tabular}
+\end{table}
+
+\newpage
+
+\part[19] First write the value 0x2E to the virtual address 0x64, then write the value 0x94 to the virtual address 0xC8 and fill in the contents of the physical memory. [19 points]
+
+\begin{table}[H]
+		\centering
+		\caption{Memory State}\label{tab:b:ini-mem}
+		\begin{tabular}{|c|c|}
+		\hline
+		Address (PA) & \quad Value (From Lower Address to Higher Address)  \quad\quad \\ \hline
+		0x00 &  \\ \hline
+		0x04 &  \\ \hline
+		0x08 &  \\ \hline
+        0x0c &  \\ \hline
+        0x10 &  \\ \hline
+		0x14 &  \\ \hline
+		0x18 &  \\ \hline
+        0x1c &  \\ \hline
+		0x20 &  \\ \hline
+		0x24 &  \\ \hline
+		0x28 &  \\ \hline
+        0x2c &  \\ \hline
+        0x30 &  \\ \hline
+		0x34 &  \\ \hline
+		0x38 &  \\ \hline
+        0x3c &  \\ \hline
+        0x40 &  \\ \hline
+		0x44 &  \\ \hline
+		0x48 &  \\ \hline
+        0x4c &  \\ \hline
+		\end{tabular}
+\end{table}
+
+Example for \textit{From Lower Address to Higher Address}: If you were to write 0x00 to 0x50, 0x00 to 0x51, 0xe1 to 0x52, and 0x00 to 0x53, then what we expect to see is 0x0000e100 (case insensitive). In another word, keep leading and trailing 0.
+
+\end{parts}
+
+
+
+\end{questions}
+\end{document}
