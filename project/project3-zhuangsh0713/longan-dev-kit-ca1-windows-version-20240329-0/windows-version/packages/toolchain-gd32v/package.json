@@ -1,0 +1,7 @@
+{
+    "description": "RISC-V GCC toolchain",
+    "name": "toolchain-gd32v",
+    "system": ["windows_x86", "windows_amd64"],
+    "url": "https://github.com/riscv-mcu/riscv-gnu-toolchain",
+    "version": "9.2.0"
+}

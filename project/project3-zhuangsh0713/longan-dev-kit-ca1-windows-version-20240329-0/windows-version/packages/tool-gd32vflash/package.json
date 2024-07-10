@@ -1,0 +1,11 @@
+{
+    "description": "GD32V FLASH TOOLS",
+    "name": "tool-gd32vflash",
+    "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86"
+    ],
+    "url": "https://github.com/riscv-mcu/gd32-dfu-utils",
+    "version": "0.1.0"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "tool-openocd-gd32v",
+    "description": "OpenOCD branch with GD-LINK JTAG support",
+    "system": ["windows_x86", "windows_amd64"],
+    "version": "0.1.1",
+    "url": "https://www.sipeed.com"
+}

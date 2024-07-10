@@ -1,0 +1,220 @@
+
+; 	li a0, 5
+; 	li a1, 15
+; 	li a2, 40
+; 	li a3, 15
+; 	li a4, 65535
+; 	; addi sp,sp,-4
+; 	; sw ra,0(sp)
+; 	; # jal LCD_DrawCircle
+; 	; jal LCD_DrawLine
+; 	; lw ra,0(sp)
+; 	; addi sp,sp,4
+
+; arrow:
+;     addi t0, a0, 0
+;     addi t1, a1, 0
+;     addi t2, a2, 0
+;     addi t3, a3, 0
+
+;     li s0, 3
+;     li s1, 0
+
+;     addi sp,sp,-4
+; 	sw ra,0(sp)
+; 	jal line_loop
+; 	lw ra,0(sp)
+; 	addi sp,sp,4
+
+; line_loop:
+   
+;     addi a0, a0, 5
+;     addi a1, a1, 5
+;     addi a2, a2, 5
+;     addi a3, a3, 5
+
+;  	; addi sp,sp,-4
+; 	; sw ra,0(sp)
+; 	; jal LCD_DrawLine
+; 	; lw ra,0(sp)
+; 	; addi sp,sp,4
+;     ; addi s1, s1, 1
+
+; 	bne s0, s1, line_loop
+	
+; 	jalr ra
+
+
+_____________________________
+
+
+	addi sp,sp,-4
+	sw ra,0(sp)
+	jal line_loop
+	lw ra,0(sp)
+	addi sp,sp,4
+
+
+
+______________________________
+line_loop:
+	addi sp,sp,-4
+	sw ra,0(sp)
+	jal LCD_DrawLine
+	lw ra,0(sp)
+	addi sp,sp,4
+
+	addi a0, a0, 10
+	addi a1, a1, 10
+	addi a2, a2, 10
+	addi a3, a3, 10
+	li a5, 0xFFFF
+
+	addi s0, s0, 1
+	bne s0, s1, line_loop
+	
+	jalr ra
+
+
+
+——————————————————————————————————————————
+	lw a0, 0(sp)
+	lw a1, 4(sp)
+	lw a2, 8(sp)
+	lw a3, 12(sp)
+
+	addi a0, a0, 40
+	addi a1, a1, -10
+	addi a2, a2, 70
+	addi a3, a3, 20
+	li a4, 0xFFE0
+
+	jal LCD_DrawLine
+
+	li a0, 2000
+    jal delay_1ms
+
+
+
+_____________________________
+Moving_Arrow:
+
+	addi sp, sp, -24
+	sw a0, 0(sp)
+	sw a1, 4(sp)
+	sw a2, 8(sp)
+	sw a3, 12(sp)
+	sw a4, 16(sp)
+	sw ra, 20(sp)
+	jal DrawLine_loop
+
+	lw a0, 0(sp)
+	lw a1, 4(sp)
+	lw a2, 8(sp)
+	lw a3, 12(sp)
+	lw a4, 16(sp)
+	lw ra, 20(sp)
+	addi sp, sp, 24
+
+	addi a0, a0, 10
+	addi a2, a2, 10
+
+	addi t3, t3, 1
+
+	bne t3, t4, Moving_Arrow
+
+
+	___________________________________
+
+    li a0, 5
+    li a1, 30
+    li a2, 45
+    li a3, 30
+    li a4, 0xFFFF
+	addi a0, a0, 40
+	addi a1, a1, -10
+	addi a2, a2, 70
+	addi a3, a3, 20
+	li a4, 0xFFE0
+
+    addi sp,sp,-4
+	sw ra,0(sp)
+	jal LCD_DrawLine
+    lw ra,0(sp)
+	addi sp,sp,4
+
+
+
+_________________________________________
+
+
+DrawLine_loop:
+	mv s0, a0
+	mv s1, a1
+	mv s2, a2
+	mv s3, a3
+	mv s4, a4
+    jal LCD_DrawLine
+
+	addi a0, s0, 10
+	addi a1, s1, 10
+	addi a2, s2, 10
+	addi a3, s3, 10
+	addi a4, a4, 0
+
+	addi t0, t0, 1
+	bne t0, t1, DrawLine_loop
+	jalr ra
+
+
+
+_________________________________________
+
+void Board_self_test(void) {
+    while (1) {
+        LCD_ShowString(60, 25, (u8*)"TEST", WHITE);
+        if (Get_Button(JOY_LEFT)) {
+            LCD_ShowString(5, 25, (u8*)"L", BLUE);
+        }
+        if (Get_Button(JOY_DOWN)) {
+            LCD_ShowString(25, 45, (u8*)"D", BLUE);
+            LCD_ShowString(60, 25, (u8*)"TEST", RED);
+        }
+        if (Get_Button(JOY_UP)) {
+            LCD_ShowString(25, 5, (u8*)"U", BLUE);
+        }
+        if (Get_Button(JOY_RIGHT)) {
+            LCD_ShowString(45, 25, (u8*)"R", BLUE);
+        }
+        if (Get_Button(JOY_CTR)) {
+            LCD_ShowString(25, 25, (u8*)"C", BLUE);
+        }
+        if (Get_Button(BUTTON_1)) {
+            LCD_ShowString(60, 5, (u8*)"SW2", BLUE);
+        }
+        if (Get_Button(BUTTON_2)) {
+            LCD_ShowString(60, 45, (u8*)"SW1", RED);
+        }
+        // draw();
+        // splash_screen();
+        delay_1ms(10);
+        LCD_Clear(BLACK);
+    }
+}
+
+
+
+
+——————————————————————————————————————————
+    struct sampled_point* new_point = (struct sampled_point*)malloc(sizeof(struct sampled_point));
+    new_point -> current_x = player_x;
+    new_point -> current_y = player_current_y;
+    add_new_point(new_point);
+
+
+_________________________________________
+    // u16 previous_wall = current_wall -> x - wall_speed;
+    // if(previous_wall != board_x2){
+    //     LCD_DrawRectangle(previous_wall, board_y1 - 1, previous_wall + wall_width, current_wall -> y_1, BLACK);
+    //     LCD_DrawRectangle(previous_wall, current_wall -> y_2, previous_wall + wall_width, board_y2 + 1, BLACK);
+    // }
